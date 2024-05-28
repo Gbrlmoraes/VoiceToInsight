@@ -1,5 +1,5 @@
 # VoiceToInsight
-Extrair análises de áudios gravados no contexto de avaliação de NPS
+Extract insights from NPS survey audio recordings
 
 # Sources
 [Hugging Face Model Page](https://huggingface.co/openai/whisper-large-v3)
