@@ -1,95 +1,95 @@
-{'timestamp': (0.0, 6.7), 'text': ' Olá, você ligou para a Brico Bread.'}
-{'timestamp': (7.0, 12.48), 'text': ' Estamos há mais de 25 anos levando o melhor da padaria para dentro de sua casa.'}
-{'timestamp': (12.84, 15.24), 'text': ' Pão crocante e quentinho a qualquer hora.'}
-{'timestamp': (15.88, 18.88), 'text': ' Digite 1 se você quer falar com vendas.'}
-{'timestamp': (19.66, 21.36), 'text': ' 2 pós-vendas.'}
+{'timestamp': (0.0, 6.7), 'text': ' OlÃ¡, vocÃª ligou para a Brico Bread.'}
+{'timestamp': (7.0, 12.48), 'text': ' Estamos hÃ¡ mais de 25 anos levando o melhor da padaria para dentro de sua casa.'}
+{'timestamp': (12.84, 15.24), 'text': ' PÃ£o crocante e quentinho a qualquer hora.'}
+{'timestamp': (15.88, 18.88), 'text': ' Digite 1 se vocÃª quer falar com vendas.'}
+{'timestamp': (19.66, 21.36), 'text': ' 2 pÃ³s-vendas.'}
 {'timestamp': (22.3, 23.76), 'text': ' 3 cadastro.'}
 {'timestamp': (24.46, 26.1), 'text': ' 4 qualidade. Cadastro. 4. Qualidade.'}
 {'timestamp': (27.14, 28.64), 'text': ' 5. Compras.'}
 {'timestamp': (29.64, 31.46), 'text': ' 6. Recursos humanos.'}
-{'timestamp': (32.66, 34.3), 'text': ' 7. Logística.'}
+{'timestamp': (32.66, 34.3), 'text': ' 7. LogÃ­stica.'}
 {'timestamp': (35.3, 36.96), 'text': ' 8. Tecnologia.'}
-{'timestamp': (40.68, 43.8), 'text': ' Você conhece o nosso portfólio de produtos?'}
+{'timestamp': (40.68, 43.8), 'text': ' VocÃª conhece o nosso portfÃ³lio de produtos?'}
 {'timestamp': (44.28, 48.6), 'text': ' Acesse www.bricobred.com'}
 {'timestamp': (48.6, 51.18), 'text': ' RH Brico, boa tarde Raquel.'}
-{'timestamp': (51.62, 53.48), 'text': ' Boa tarde Raquel, meu nome é Viviane.'}
+{'timestamp': (51.62, 53.48), 'text': ' Boa tarde Raquel, meu nome Ã© Viviane.'}
 {'timestamp': (53.58, 55.5), 'text': ' Eu falo aqui da TOTOS Matriz, tudo bem?'}
 {'timestamp': (56.14, 56.76), 'text': ' Tudo bem.'}
 {'timestamp': (57.18, 59.82), 'text': ' Eu gostaria por favor de falar com o Walter Pereira.'}
-{'timestamp': (60.88, 62.18), 'text': ' Tá, só um momento.'}
+{'timestamp': (60.88, 62.18), 'text': ' TÃ¡, sÃ³ um momento.'}
 {'timestamp': (62.58, 63.04), 'text': ' Tudo bem.'}
-{'timestamp': (64.06, 64.46), 'text': ' É da?'}
-{'timestamp': (64.9, 65.82), 'text': ' Da TOTOS. Tá, um momento. Tudo bem. É da? Da TOTOS.'}
-{'timestamp': (66.2, 66.96), 'text': ' Tá, um momento.'}
+{'timestamp': (64.06, 64.46), 'text': ' Ã‰ da?'}
+{'timestamp': (64.9, 65.82), 'text': ' Da TOTOS. TÃ¡, um momento. Tudo bem. Ã‰ da? Da TOTOS.'}
+{'timestamp': (66.2, 66.96), 'text': ' TÃ¡, um momento.'}
 {'timestamp': (82.0, 82.52), 'text': ' Viviane.'}
 {'timestamp': (82.9, 83.62), 'text': ' Oi, pode falar?'}
 {'timestamp': (84.1, 84.76), 'text': ' O que seria?'}
-{'timestamp': (85.62, 91.76), 'text': ' A gente está entrando em contato com vocês para fazer um acompanhamento em relação à marca TOTOS que vocês utilizam na empresa.'}
-{'timestamp': (93.14, 94.74), 'text': ' Tá, é para acompanhar?'}
-{'timestamp': (96.3, 102.96), 'text': ' Acompanhamento em relação ao sistema que vocês utilizam, só para verificar se está tudo ok com a utilização e se vocês estão sendo bem atendidos.'}
-{'timestamp': (103.32, 104.98), 'text': ' Ah, tá bom então, só um momento.'}
-{'timestamp': (105.82, 130.7), 'text': ' Tudo bem. Eu vou transferir para o Walter, tá?'}
-{'timestamp': (130.94, 131.26), 'text': ' Só um momento.'}
-{'timestamp': (131.26, 132.1), 'text': ' Tá bom, obrigada.'}
+{'timestamp': (85.62, 91.76), 'text': ' A gente estÃ¡ entrando em contato com vocÃªs para fazer um acompanhamento em relaÃ§Ã£o Ã  marca TOTOS que vocÃªs utilizam na empresa.'}
+{'timestamp': (93.14, 94.74), 'text': ' TÃ¡, Ã© para acompanhar?'}
+{'timestamp': (96.3, 102.96), 'text': ' Acompanhamento em relaÃ§Ã£o ao sistema que vocÃªs utilizam, sÃ³ para verificar se estÃ¡ tudo ok com a utilizaÃ§Ã£o e se vocÃªs estÃ£o sendo bem atendidos.'}
+{'timestamp': (103.32, 104.98), 'text': ' Ah, tÃ¡ bom entÃ£o, sÃ³ um momento.'}
+{'timestamp': (105.82, 130.7), 'text': ' Tudo bem. Eu vou transferir para o Walter, tÃ¡?'}
+{'timestamp': (130.94, 131.26), 'text': ' SÃ³ um momento.'}
+{'timestamp': (131.26, 132.1), 'text': ' TÃ¡ bom, obrigada.'}
 {'timestamp': (132.48, 132.88), 'text': ' Nada.'}
-{'timestamp': (136.84, 163.42), 'text': ' Tá, eu espero. RH Walter'}
+{'timestamp': (136.84, 163.42), 'text': ' TÃ¡, eu espero. RH Walter'}
 {'timestamp': (163.42, 166.3), 'text': ' boa tarde Walter'}
-{'timestamp': (166.3, 167.38), 'text': ' meu nome é Viviane'}
+{'timestamp': (166.3, 167.38), 'text': ' meu nome Ã© Viviane'}
 {'timestamp': (167.38, 168.82), 'text': ' eu falo aqui da TOTS Matriz'}
 {'timestamp': (168.82, 169.3), 'text': ' tudo bem?'}
-{'timestamp': (169.3, 169.72), 'text': ' pois não'}
-{'timestamp': (169.72, 174.68), 'text': ' Walter eu estou entrando em contato com você'}
-{'timestamp': (174.68, 176.78), 'text': ' para a gente fazer um rápido acompanhamento'}
-{'timestamp': (176.78, 178.32), 'text': ' em relação a marca TOTS'}
-{'timestamp': (178.32, 180.28), 'text': ' que vocês utilizam hoje na empresa'}
+{'timestamp': (169.3, 169.72), 'text': ' pois nÃ£o'}
+{'timestamp': (169.72, 174.68), 'text': ' Walter eu estou entrando em contato com vocÃª'}
+{'timestamp': (174.68, 176.78), 'text': ' para a gente fazer um rÃ¡pido acompanhamento'}
+{'timestamp': (176.78, 178.32), 'text': ' em relaÃ§Ã£o a marca TOTS'}
+{'timestamp': (178.32, 180.28), 'text': ' que vocÃªs utilizam hoje na empresa'}
 {'timestamp': (180.28, 181.54), 'text': ' e no seu departamento'}
-{'timestamp': (181.54, 183.94), 'text': ' você teria dois minutinhos para falar comigo?'}
-{'timestamp': (183.94, 187.7), 'text': ' a pesquisa é focada no seu departamento, você teria dois minutinhos para falar comigo? Então, mas a pesquisa é focada no meu departamento, RH.'}
-{'timestamp': (190.2, 194.74), 'text': ' Isso, exatamente. É só para verificar se está tudo ok com a usabilidade do sistema'}
-{'timestamp': (194.74, 198.24), 'text': ' e se vocês estão sendo bem atendidos na área de recursos humanos.'}
-{'timestamp': (198.58, 206.88), 'text': ' Não, podemos, vamos lá, né? Que assim, que, assim, diretamente alguns assuntos é com o meu pessoal de tecnologia, né?'}
+{'timestamp': (181.54, 183.94), 'text': ' vocÃª teria dois minutinhos para falar comigo?'}
+{'timestamp': (183.94, 187.7), 'text': ' a pesquisa Ã© focada no seu departamento, vocÃª teria dois minutinhos para falar comigo? EntÃ£o, mas a pesquisa Ã© focada no meu departamento, RH.'}
+{'timestamp': (190.2, 194.74), 'text': ' Isso, exatamente. Ã‰ sÃ³ para verificar se estÃ¡ tudo ok com a usabilidade do sistema'}
+{'timestamp': (194.74, 198.24), 'text': ' e se vocÃªs estÃ£o sendo bem atendidos na Ã¡rea de recursos humanos.'}
+{'timestamp': (198.58, 206.88), 'text': ' NÃ£o, podemos, vamos lÃ¡, nÃ©? Que assim, que, assim, diretamente alguns assuntos Ã© com o meu pessoal de tecnologia, nÃ©?'}
 {'timestamp': (207.88, 213.24), 'text': ' Mas deixa eu entender a sua pesquisa e a gente, se for dentro do meu escopo,'}
 {'timestamp': (213.46, 215.36), 'text': ' eu te respondo com certeza.'}
 {'timestamp': (217.78, 218.62), 'text': ' Sim, sim.'}
-{'timestamp': (218.72, 221.64), 'text': ' Eu só vou fazer algumas confirmações por questões de segurança.'}
-{'timestamp': (222.22, 225.12), 'text': ' O seu nome completo é Walter Pereira da Silva Júnior'}
-{'timestamp': (225.12, 229.1), 'text': ' e atualmente o senhor é o responsável da área de RH da empresa, né?'}
-{'timestamp': (229.18, 230.76), 'text': ' Que faz a utilização do TOTS.'}
+{'timestamp': (218.72, 221.64), 'text': ' Eu sÃ³ vou fazer algumas confirmaÃ§Ãµes por questÃµes de seguranÃ§a.'}
+{'timestamp': (222.22, 225.12), 'text': ' O seu nome completo Ã© Walter Pereira da Silva JÃºnior'}
+{'timestamp': (225.12, 229.1), 'text': ' e atualmente o senhor Ã© o responsÃ¡vel da Ã¡rea de RH da empresa, nÃ©?'}
+{'timestamp': (229.18, 230.76), 'text': ' Que faz a utilizaÃ§Ã£o do TOTS.'}
 {'timestamp': (232.26, 232.66), 'text': ' Certo.'}
 {'timestamp': (232.88, 235.58), 'text': ' O e-mail continua sendo o financeiro,'}
 {'timestamp': (235.68, 237.68), 'text': ' arroba bricobred.com.br?'}
-{'timestamp': (237.7, 240.1), 'text': ' Então, esse e-mail é específico do financeiro.'}
+{'timestamp': (237.7, 240.1), 'text': ' EntÃ£o, esse e-mail Ã© especÃ­fico do financeiro.'}
 {'timestamp': (240.64, 241.12), 'text': ' Se for...'}
-{'timestamp': (241.86, 243.86), 'text': ' Por isso da pergunta, tá?'}
+{'timestamp': (241.86, 243.86), 'text': ' Por isso da pergunta, tÃ¡?'}
 {'timestamp': (241.4, 243.56), 'text': ' se for por isso da pergunta'}
 {'timestamp': (243.56, 248.18), 'text': ' se esse e-mail for para enviar'}
-{'timestamp': (248.18, 250.28), 'text': ' informações de fatura'}
-{'timestamp': (250.28, 252.36), 'text': ' etc e tal, é para esse e-mail'}
+{'timestamp': (248.18, 250.28), 'text': ' informaÃ§Ãµes de fatura'}
+{'timestamp': (250.28, 252.36), 'text': ' etc e tal, Ã© para esse e-mail'}
 {'timestamp': (252.36, 253.38), 'text': ' agora'}
-{'timestamp': (253.38, 256.06), 'text': ' não, esse e-mail'}
-{'timestamp': (256.06, 257.68), 'text': ' que eu lhe informei é só mesmo para'}
-{'timestamp': (257.68, 259.66), 'text': ' confirmação de dados, porque nós temos'}
-{'timestamp': (259.66, 261.68), 'text': ' vários e-mails aqui em cadastro'}
-{'timestamp': (261.68, 263.2), 'text': ' inclusive até o seu, que é'}
+{'timestamp': (253.38, 256.06), 'text': ' nÃ£o, esse e-mail'}
+{'timestamp': (256.06, 257.68), 'text': ' que eu lhe informei Ã© sÃ³ mesmo para'}
+{'timestamp': (257.68, 259.66), 'text': ' confirmaÃ§Ã£o de dados, porque nÃ³s temos'}
+{'timestamp': (259.66, 261.68), 'text': ' vÃ¡rios e-mails aqui em cadastro'}
+{'timestamp': (261.68, 263.2), 'text': ' inclusive atÃ© o seu, que Ã©'}
 {'timestamp': (263.2, 264.54), 'text': ' wagner.vieira'}
-{'timestamp': (264.54, 265.54), 'text': ' eu sou o Walter, inclusive até o seu, que é Wagner.Vieira.brinco.br'}
-{'timestamp': (265.54, 267.9), 'text': ' Eu sou o Walter, não sou o Wagner.'}
-{'timestamp': (268.1, 270.44), 'text': ' Isso, perdão.'}
-{'timestamp': (271.16, 274.96), 'text': ' Temos esse, também temos do Tadeu, Marcelo.Vieira,'}
-{'timestamp': (275.1, 276.8), 'text': ' o Informática.brinco.br'}
-{'timestamp': (276.8, 278.38), 'text': ' Esse Tadeu não existe mais.'}
-{'timestamp': (280.74, 282.96), 'text': ' Ah, sim. Foi bom até você ter me falado.'}
-{'timestamp': (282.96, 285.42), 'text': ' O financeiro é esse mesmo.'}
-{'timestamp': (288.74, 291.04), 'text': ' Você está com o Bricobred aí, né?'}
-{'timestamp': (291.18, 292.94), 'text': ' Já está com essa extensão.'}
-{'timestamp': (295.56, 298.24), 'text': ' Isso, é arroba bricobred.com.br'}
-{'timestamp': (298.24, 302.96), 'text': ' Certo, obrigada pelas confirmações.'}
-{'timestamp': (303.22, 304.54), 'text': ' Iniciando a nossa avaliação.'}
-{'timestamp': (304.66, 306.16), 'text': ' Ela é uma avaliação bem rápida.'}
-{'timestamp': (306.86, 310.74), 'text': ' Numa escala de 0 a 10, com base na sua utilização do sistema,'}
-{'timestamp': (311.58, 316.0), 'text': ' com qual nota você avalia de 0 a 10 o Atotos a um amigo ou colega hoje?'}
-{'timestamp': (316.0, 320.0), 'text': ' Isso em relação ao módulo de RH específico.'}
-{'timestamp': (322.52, 325.3), 'text': ' Isso, exatamente, com base naquilo que você utiliza hoje.'}
+{'timestamp': (264.54, 265.54), 'text': ' eu sou o Walter, inclusive atÃ© o seu, que Ã© Wagner.Vieira.brinco.br'}
+{'timestamp': (265.54, 267.9), 'text': ' Eu sou o Walter, nÃ£o sou o Wagner.'}
+{'timestamp': (268.1, 270.44), 'text': ' Isso, perdÃ£o.'}
+{'timestamp': (271.16, 274.96), 'text': ' Temos esse, tambÃ©m temos do Tadeu, Marcelo.Vieira,'}
+{'timestamp': (275.1, 276.8), 'text': ' o InformÃ¡tica.brinco.br'}
+{'timestamp': (276.8, 278.38), 'text': ' Esse Tadeu nÃ£o existe mais.'}
+{'timestamp': (280.74, 282.96), 'text': ' Ah, sim. Foi bom atÃ© vocÃª ter me falado.'}
+{'timestamp': (282.96, 285.42), 'text': ' O financeiro Ã© esse mesmo.'}
+{'timestamp': (288.74, 291.04), 'text': ' VocÃª estÃ¡ com o Bricobred aÃ­, nÃ©?'}
+{'timestamp': (291.18, 292.94), 'text': ' JÃ¡ estÃ¡ com essa extensÃ£o.'}
+{'timestamp': (295.56, 298.24), 'text': ' Isso, Ã© arroba bricobred.com.br'}
+{'timestamp': (298.24, 302.96), 'text': ' Certo, obrigada pelas confirmaÃ§Ãµes.'}
+{'timestamp': (303.22, 304.54), 'text': ' Iniciando a nossa avaliaÃ§Ã£o.'}
+{'timestamp': (304.66, 306.16), 'text': ' Ela Ã© uma avaliaÃ§Ã£o bem rÃ¡pida.'}
+{'timestamp': (306.86, 310.74), 'text': ' Numa escala de 0 a 10, com base na sua utilizaÃ§Ã£o do sistema,'}
+{'timestamp': (311.58, 316.0), 'text': ' com qual nota vocÃª avalia de 0 a 10 o Atotos a um amigo ou colega hoje?'}
+{'timestamp': (316.0, 320.0), 'text': ' Isso em relaÃ§Ã£o ao mÃ³dulo de RH especÃ­fico.'}
+{'timestamp': (322.52, 325.3), 'text': ' Isso, exatamente, com base naquilo que vocÃª utiliza hoje.'}
 {'timestamp': (325.6, 326.32), 'text': ' Zero a dez?'}
 {'timestamp': (328.16, 329.36), 'text': ' Zero a dez, Tilly.'}
 {'timestamp': (329.48, 329.92), 'text': ' Isso, zero a dez.'}
@@ -99,93 +99,93 @@
 {'timestamp': (347.22, 348.42), 'text': ' na realidade'}
 {'timestamp': (348.42, 349.36), 'text': ' eu'}
 {'timestamp': (349.36, 351.94), 'text': ' sou o gestor,'}
-{'timestamp': (352.16, 354.12), 'text': ' quem na prática é o pessoal'}
+{'timestamp': (352.16, 354.12), 'text': ' quem na prÃ¡tica Ã© o pessoal'}
 {'timestamp': (354.12, 356.28), 'text': ' que utiliza. O que eu sempre'}
 {'timestamp': (356.28, 358.4), 'text': ' recebi de feedback do pessoal'}
 {'timestamp': (358.4, 360.16), 'text': ' e ainda acredito'}
-{'timestamp': (360.16, 361.96), 'text': ' que seja, é'}
+{'timestamp': (360.16, 361.96), 'text': ' que seja, Ã©'}
 {'timestamp': (361.96, 363.9), 'text': ' a quantidade de'}
 {'timestamp': (363.9, 366.44), 'text': ' telas que tem ali no TOTOS,'}
-{'timestamp': (366.96, 372.22), 'text': ' quer ver, deixa o Chile me confirme exatamente isso, né, no sentido de burocracia ali,'}
-{'timestamp': (372.72, 378.16), 'text': ' que é assim, que acaba sendo algo que não é tão prático em relação a algum,'}
-{'timestamp': (378.8, 388.26), 'text': ' em comparação com alguns sistemas que, ao longo da minha carreira, eu trabalhei e minha equipe sempre relatou.'}
-{'timestamp': (388.26, 395.42), 'text': ' Então, o pessoal ainda acha o sistema uma dificuldade'}
-{'timestamp': (395.42, 397.88), 'text': ' no sentido de muitas telas, muitas informações'}
+{'timestamp': (366.96, 372.22), 'text': ' quer ver, deixa o Chile me confirme exatamente isso, nÃ©, no sentido de burocracia ali,'}
+{'timestamp': (372.72, 378.16), 'text': ' que Ã© assim, que acaba sendo algo que nÃ£o Ã© tÃ£o prÃ¡tico em relaÃ§Ã£o a algum,'}
+{'timestamp': (378.8, 388.26), 'text': ' em comparaÃ§Ã£o com alguns sistemas que, ao longo da minha carreira, eu trabalhei e minha equipe sempre relatou.'}
+{'timestamp': (388.26, 395.42), 'text': ' EntÃ£o, o pessoal ainda acha o sistema uma dificuldade'}
+{'timestamp': (395.42, 397.88), 'text': ' no sentido de muitas telas, muitas informaÃ§Ãµes'}
 {'timestamp': (397.88, 401.06), 'text': ' e que poderia ser um pouco mais compacto,'}
-{'timestamp': (401.42, 415.04), 'text': ' um pouco mais fácil toda essa dinâmica de acesso para acessos direto nos pontos-chave, vamos dizer assim.'}
-{'timestamp': (418.94, 426.88), 'text': ' Certo, certo. Eu vou fazer agora algumas perguntas direcionadas, onde você vai me responder também a nota de 0 a 10.'}
-{'timestamp': (427.24, 434.54), 'text': ' Não precisa falar o motivo da sua nota e também não precisa responder caso você não tenha o contato direto com a área, tudo bem?'}
-{'timestamp': (434.54, 439.58), 'text': ' Em relação ao atendimento do Executivo de Vendas da TOTOS, uma nova nota de 0 a 10.'}
-{'timestamp': (439.58, 443.3), 'text': ' Eu não tenho contato, não é aplicável no meu caso, tá?'}
+{'timestamp': (401.42, 415.04), 'text': ' um pouco mais fÃ¡cil toda essa dinÃ¢mica de acesso para acessos direto nos pontos-chave, vamos dizer assim.'}
+{'timestamp': (418.94, 426.88), 'text': ' Certo, certo. Eu vou fazer agora algumas perguntas direcionadas, onde vocÃª vai me responder tambÃ©m a nota de 0 a 10.'}
+{'timestamp': (427.24, 434.54), 'text': ' NÃ£o precisa falar o motivo da sua nota e tambÃ©m nÃ£o precisa responder caso vocÃª nÃ£o tenha o contato direto com a Ã¡rea, tudo bem?'}
+{'timestamp': (434.54, 439.58), 'text': ' Em relaÃ§Ã£o ao atendimento do Executivo de Vendas da TOTOS, uma nova nota de 0 a 10.'}
+{'timestamp': (439.58, 443.3), 'text': ' Eu nÃ£o tenho contato, nÃ£o Ã© aplicÃ¡vel no meu caso, tÃ¡?'}
 {'timestamp': (446.48, 446.96), 'text': ' Certo.'}
-{'timestamp': (447.3, 449.0), 'text': ' Não, tudo bem, a gente pula essa pergunta.'}
-{'timestamp': (449.4, 453.36), 'text': ' Em relação à sua satisfação com o custo dos produtos contratados'}
+{'timestamp': (447.3, 449.0), 'text': ' NÃ£o, tudo bem, a gente pula essa pergunta.'}
+{'timestamp': (449.4, 453.36), 'text': ' Em relaÃ§Ã£o Ã  sua satisfaÃ§Ã£o com o custo dos produtos contratados'}
 {'timestamp': (453.36, 454.92), 'text': ' para o seu departamento de arregado...'}
-{'timestamp': (454.92, 456.8), 'text': ' Então, eu também não consigo responder,'}
-{'timestamp': (457.04, 462.3), 'text': ' porque é um módulo específico todinho que fica com o TI, entendeu?'}
-{'timestamp': (462.3, 464.16), 'text': ' Eu não consigo te responder.'}
-{'timestamp': (464.6, 466.38), 'text': ' Por isso, até da minha pergunta lá, se eu seria a pessoa o TI, entendeu? Eu não consigo te responder. Por isso até da minha pergunta lá'}
-{'timestamp': (466.38, 468.56), 'text': ' se eu seria a pessoa indicada, tá?'}
+{'timestamp': (454.92, 456.8), 'text': ' EntÃ£o, eu tambÃ©m nÃ£o consigo responder,'}
+{'timestamp': (457.04, 462.3), 'text': ' porque Ã© um mÃ³dulo especÃ­fico todinho que fica com o TI, entendeu?'}
+{'timestamp': (462.3, 464.16), 'text': ' Eu nÃ£o consigo te responder.'}
+{'timestamp': (464.6, 466.38), 'text': ' Por isso, atÃ© da minha pergunta lÃ¡, se eu seria a pessoa o TI, entendeu? Eu nÃ£o consigo te responder. Por isso atÃ© da minha pergunta lÃ¡'}
+{'timestamp': (466.38, 468.56), 'text': ' se eu seria a pessoa indicada, tÃ¡?'}
 {'timestamp': (471.78, 472.78), 'text': ' Sim, sim.'}
-{'timestamp': (472.9, 474.98), 'text': ' Como eu informei, caso você não tenha contato...'}
-{'timestamp': (474.98, 476.34), 'text': ' Sinceridade, eu não tenho.'}
-{'timestamp': (476.46, 478.72), 'text': ' Na realidade, isso, como é um módulo único'}
+{'timestamp': (472.9, 474.98), 'text': ' Como eu informei, caso vocÃª nÃ£o tenha contato...'}
+{'timestamp': (474.98, 476.34), 'text': ' Sinceridade, eu nÃ£o tenho.'}
+{'timestamp': (476.46, 478.72), 'text': ' Na realidade, isso, como Ã© um mÃ³dulo Ãºnico'}
 {'timestamp': (478.72, 479.84), 'text': ' de toda empresa,'}
-{'timestamp': (481.06, 483.38), 'text': ' ele é específico do TI.'}
-{'timestamp': (483.7, 486.96), 'text': ' Não tenho hoje dentro do budget rateado ali'}
-{'timestamp': (486.96, 489.0), 'text': ' a parte que é de RH ou de cada departamento.'}
+{'timestamp': (481.06, 483.38), 'text': ' ele Ã© especÃ­fico do TI.'}
+{'timestamp': (483.7, 486.96), 'text': ' NÃ£o tenho hoje dentro do budget rateado ali'}
+{'timestamp': (486.96, 489.0), 'text': ' a parte que Ã© de RH ou de cada departamento.'}
 {'timestamp': (492.94, 493.5), 'text': ' Entendi.'}
-{'timestamp': (494.02, 497.02), 'text': ' E a sua satisfação com a implantação do software'}
-{'timestamp': (497.02, 499.82), 'text': ' ou de algum módulo, caso você tenha participado?'}
-{'timestamp': (499.84, 503.76), 'text': ' Não, a gente disse que de 0 a 10, 8 também.'}
-{'timestamp': (504.12, 507.86), 'text': ' Esse daí a gente até implantou há pouco tempo.'}
-{'timestamp': (510.12, 511.56), 'text': ' É satisfatório.'}
+{'timestamp': (494.02, 497.02), 'text': ' E a sua satisfaÃ§Ã£o com a implantaÃ§Ã£o do software'}
+{'timestamp': (497.02, 499.82), 'text': ' ou de algum mÃ³dulo, caso vocÃª tenha participado?'}
+{'timestamp': (499.84, 503.76), 'text': ' NÃ£o, a gente disse que de 0 a 10, 8 tambÃ©m.'}
+{'timestamp': (504.12, 507.86), 'text': ' Esse daÃ­ a gente atÃ© implantou hÃ¡ pouco tempo.'}
+{'timestamp': (510.12, 511.56), 'text': ' Ã‰ satisfatÃ³rio.'}
 {'timestamp': (515.32, 515.96), 'text': ' Certo.'}
-{'timestamp': (516.4, 521.9), 'text': ' Você acha que hoje o produto da TOTOS entrega o benefício esperado pelo seu departamento?'}
-{'timestamp': (522.28, 525.38), 'text': ' Tem a opção de entrega total, parcial ou não entrega?'}
+{'timestamp': (516.4, 521.9), 'text': ' VocÃª acha que hoje o produto da TOTOS entrega o benefÃ­cio esperado pelo seu departamento?'}
+{'timestamp': (522.28, 525.38), 'text': ' Tem a opÃ§Ã£o de entrega total, parcial ou nÃ£o entrega?'}
 {'timestamp': (526.08, 527.76), 'text': ' Olha, eu, assim,'}
 {'timestamp': (528.04, 532.34), 'text': ' o que eu tenho hoje implantado,'}
-{'timestamp': (532.42, 534.48), 'text': ' eu diria para você que é parcial.'}
-{'timestamp': (534.94, 537.28), 'text': ' Mas até onde eu conheço'}
-{'timestamp': (537.28, 542.16), 'text': ' a disponibilidade em relação aos módulos'}
-{'timestamp': (542.16, 545.22), 'text': ' que eu não tenho todos implantados na empresa,'}
+{'timestamp': (532.42, 534.48), 'text': ' eu diria para vocÃª que Ã© parcial.'}
+{'timestamp': (534.94, 537.28), 'text': ' Mas atÃ© onde eu conheÃ§o'}
+{'timestamp': (537.28, 542.16), 'text': ' a disponibilidade em relaÃ§Ã£o aos mÃ³dulos'}
+{'timestamp': (542.16, 545.22), 'text': ' que eu nÃ£o tenho todos implantados na empresa,'}
 {'timestamp': (545.74, 549.18), 'text': ' eu entendo que atenderia totalmente.'}
-{'timestamp': (549.18, 551.96), 'text': ' Mas, novamente, hoje, não sei se você entendeu,'}
-{'timestamp': (552.08, 555.2), 'text': ' eu não tenho, tenho parcialmente implantado aqui.'}
+{'timestamp': (549.18, 551.96), 'text': ' Mas, novamente, hoje, nÃ£o sei se vocÃª entendeu,'}
+{'timestamp': (552.08, 555.2), 'text': ' eu nÃ£o tenho, tenho parcialmente implantado aqui.'}
 {'timestamp': (559.12, 560.32), 'text': ' Certo, certo.'}
-{'timestamp': (561.58, 564.06), 'text': ' Também, de 0 a 10, como que foi essa experiência'}
-{'timestamp': (564.06, 567.62), 'text': ' com a última atualização do software no seu departamento?'}
-{'timestamp': (567.8, 573.4), 'text': ' Caso vocês tenham feito essa atualização nos últimos três meses, ou você tenha notado algo de diferente?'}
-{'timestamp': (573.56, 578.6), 'text': ' A última atualização foi, inclusive, há dez dias.'}
-{'timestamp': (580.08, 581.64), 'text': ' Foi tranquilo, né, Chirio?'}
-{'timestamp': (581.64, 589.2), 'text': ' Eu acho que toda atualização que foi essa última, nós não tivemos nenhuma surpresa maior.'}
-{'timestamp': (589.84, 593.62), 'text': ' Nós fizemos uma atualização agora recente e foi tranquilo.'}
+{'timestamp': (561.58, 564.06), 'text': ' TambÃ©m, de 0 a 10, como que foi essa experiÃªncia'}
+{'timestamp': (564.06, 567.62), 'text': ' com a Ãºltima atualizaÃ§Ã£o do software no seu departamento?'}
+{'timestamp': (567.8, 573.4), 'text': ' Caso vocÃªs tenham feito essa atualizaÃ§Ã£o nos Ãºltimos trÃªs meses, ou vocÃª tenha notado algo de diferente?'}
+{'timestamp': (573.56, 578.6), 'text': ' A Ãºltima atualizaÃ§Ã£o foi, inclusive, hÃ¡ dez dias.'}
+{'timestamp': (580.08, 581.64), 'text': ' Foi tranquilo, nÃ©, Chirio?'}
+{'timestamp': (581.64, 589.2), 'text': ' Eu acho que toda atualizaÃ§Ã£o que foi essa Ãºltima, nÃ³s nÃ£o tivemos nenhuma surpresa maior.'}
+{'timestamp': (589.84, 593.62), 'text': ' NÃ³s fizemos uma atualizaÃ§Ã£o agora recente e foi tranquilo.'}
 {'timestamp': (593.74, 595.34), 'text': ' De 0 a 10, 9.'}
 {'timestamp': (599.2, 599.76), 'text': ' Certo.'}
-{'timestamp': (600.26, 603.42), 'text': ' E a última nota que seria em relação a TOTOS e Ibirapuera,'}
-{'timestamp': (603.62, 606.18), 'text': ' caso você tenha contato, gostaria de atribuir uma nota?'}
-{'timestamp': (606.18, 606.94), 'text': ' Eu também não tenho contato.'}
-{'timestamp': (607.06, 611.2), 'text': ' Como eu comentei em relação...'}
-{'timestamp': (611.2, 614.72), 'text': ' Todo contato é via o suporte de TI, que é o meu aqui.'}
-{'timestamp': (615.22, 619.04), 'text': ' Então, eu não consigo avaliar você injusto aí,'}
+{'timestamp': (600.26, 603.42), 'text': ' E a Ãºltima nota que seria em relaÃ§Ã£o a TOTOS e Ibirapuera,'}
+{'timestamp': (603.62, 606.18), 'text': ' caso vocÃª tenha contato, gostaria de atribuir uma nota?'}
+{'timestamp': (606.18, 606.94), 'text': ' Eu tambÃ©m nÃ£o tenho contato.'}
+{'timestamp': (607.06, 611.2), 'text': ' Como eu comentei em relaÃ§Ã£o...'}
+{'timestamp': (611.2, 614.72), 'text': ' Todo contato Ã© via o suporte de TI, que Ã© o meu aqui.'}
+{'timestamp': (615.22, 619.04), 'text': ' EntÃ£o, eu nÃ£o consigo avaliar vocÃª injusto aÃ­,'}
 {'timestamp': (619.58, 621.12), 'text': ' ou para mais ou para menos.'}
 {'timestamp': (625.18, 626.52), 'text': ' Certo, certo.'}
-{'timestamp': (627.08, 627.7), 'text': ' Não, tudo bem.'}
-{'timestamp': (627.84, 631.7), 'text': ' E de tudo isso que eu lhe perguntei, você gostaria de acrescentar mais algum ponto?'}
-{'timestamp': (632.74, 635.04), 'text': ' Sem maiores comentários aí.'}
+{'timestamp': (627.08, 627.7), 'text': ' NÃ£o, tudo bem.'}
+{'timestamp': (627.84, 631.7), 'text': ' E de tudo isso que eu lhe perguntei, vocÃª gostaria de acrescentar mais algum ponto?'}
+{'timestamp': (632.74, 635.04), 'text': ' Sem maiores comentÃ¡rios aÃ­.'}
 {'timestamp': (638.96, 640.6), 'text': ' Certo, certo.'}
-{'timestamp': (640.6, 644.6), 'text': ' No caso, Walter, nós estamos entrando em contato mesmo, realizando esse acompanhamento,'}
-{'timestamp': (645.36, 645.76), 'text': ' Certo. No caso, Walter, nós estamos entrando em contato mesmo, realizando esse acompanhamento,'}
-{'timestamp': (648.7, 649.12), 'text': ' justamente para termos as nossas melhorias contínuas.'}
-{'timestamp': (652.84, 656.22), 'text': ' Num prazo de seis meses a um ano, nós iremos retornar o contato com você e verificar se teve alguma alteração na sua nota, tudo bem?'}
-{'timestamp': (656.48, 658.54), 'text': ' Só uma única dúvida que você falou.'}
-{'timestamp': (659.04, 663.52), 'text': ' Esse bate-papo, ele é realizado com as demais áreas também?'}
-{'timestamp': (663.56, 667.82), 'text': ' ele é realizado com as demais áreas também?'}
-{'timestamp': (671.0, 671.54), 'text': ' Sim, aí a gente vai entrar em contato agora esporadicamente'}
-{'timestamp': (675.44, 677.28), 'text': ' com as outras áreas para pegar uma perspectiva inteira da empresa.'}
+{'timestamp': (640.6, 644.6), 'text': ' No caso, Walter, nÃ³s estamos entrando em contato mesmo, realizando esse acompanhamento,'}
+{'timestamp': (645.36, 645.76), 'text': ' Certo. No caso, Walter, nÃ³s estamos entrando em contato mesmo, realizando esse acompanhamento,'}
+{'timestamp': (648.7, 649.12), 'text': ' justamente para termos as nossas melhorias contÃ­nuas.'}
+{'timestamp': (652.84, 656.22), 'text': ' Num prazo de seis meses a um ano, nÃ³s iremos retornar o contato com vocÃª e verificar se teve alguma alteraÃ§Ã£o na sua nota, tudo bem?'}
+{'timestamp': (656.48, 658.54), 'text': ' SÃ³ uma Ãºnica dÃºvida que vocÃª falou.'}
+{'timestamp': (659.04, 663.52), 'text': ' Esse bate-papo, ele Ã© realizado com as demais Ã¡reas tambÃ©m?'}
+{'timestamp': (663.56, 667.82), 'text': ' ele Ã© realizado com as demais Ã¡reas tambÃ©m?'}
+{'timestamp': (671.0, 671.54), 'text': ' Sim, aÃ­ a gente vai entrar em contato agora esporadicamente'}
+{'timestamp': (675.44, 677.28), 'text': ' com as outras Ã¡reas para pegar uma perspectiva inteira da empresa.'}
 {'timestamp': (677.7, 677.8), 'text': ' Tudo bem?'}
-{'timestamp': (680.64, 681.08), 'text': ' Mas com você mesmo, como a gente já fez agora,'}
-{'timestamp': (684.28, 684.6), 'text': ' aí no prazo de seis meses a um ano, com você a gente retorna o contato.'}
+{'timestamp': (680.64, 681.08), 'text': ' Mas com vocÃª mesmo, como a gente jÃ¡ fez agora,'}
+{'timestamp': (684.28, 684.6), 'text': ' aÃ­ no prazo de seis meses a um ano, com vocÃª a gente retorna o contato.'}
 {'timestamp': (685.1, 687.44), 'text': ' Nada. Tudo bem? Obrigado, igualmente'}
-{'timestamp': (687.44, 690.04), 'text': ' Obrigada eu, Walter, tenha uma ótima tarde'}
+{'timestamp': (687.44, 690.04), 'text': ' Obrigada eu, Walter, tenha uma Ã³tima tarde'}
 {'timestamp': (690.04, 690.56), 'text': ' tchau, tchau'}
