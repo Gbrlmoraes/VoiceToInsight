@@ -8,11 +8,9 @@ from openai import OpenAI
 # Other packages
 import os
 import re
-import json
 import warnings
 
 # Setting parameters
-os.chdir(r'J:\Estudo\Projetos\VoiceToInsight')
 warnings.filterwarnings('ignore')
 
 # Function for starting the model
@@ -83,6 +81,7 @@ def extract_nps(text_file_location, json_output_folder, openai_client):
         4. Se o cliente não fornecer uma nota para alguma categoria, defina a nota como "Não informado".
         5. O nome das categorias de NPS deve seguir o padrão: "nps_" seguido do nome da categoria.
         6. O JSON deve ser montado em português.
+        7. O único texto retornado deve ser o json completo.
         
         Segue o texto que deve ser analisado: {texto}
         """ 
@@ -91,7 +90,7 @@ def extract_nps(text_file_location, json_output_folder, openai_client):
         model = "gpt-3.5-turbo-instruct",
         prompt = prompt,
         temperature = 0,
-        max_tokens = 200,
+        max_tokens = 500,
         top_p = 1,
         frequency_penalty = 0,
         presence_penalty = 0
