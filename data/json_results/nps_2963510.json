@@ -1,10 +1,13 @@
 {
             "empresa": "Sanquímica",
             "atendimento": "Sim",
-            "nps_comercial": "Não informado",
-            "nps_compras": "Não informado",
-            "nps_faturamento": "Não informado",
-            "nps_laboratório": "Não informado",
-            "nps_produção": "Não informado",
-            "nps_financeiro_administrativo": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

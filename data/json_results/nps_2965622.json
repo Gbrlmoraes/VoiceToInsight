@@ -1,16 +1,13 @@
 {
             "empresa": "Prime Hotel",
             "atendimento": "Sim",
-            "nps_marca_posta": 9,
-            "nps_suporte_tecnico": 8,
-            "nps_atendimento_agentes": 8,
-            "nps_atendimento_comercial": 9,
-            "nps_custos_valores": 7,
-            "nps_atendimento_financeiro": 9,
-            "nps_satisfacao_implantacao": 9,
-            "nps_entrega_software": 10,
-            "nps_atualizacao_software": 8,
-            "nps_atendimento_seminete_solucoes": 7,
-            "comentario": "Não informado",
-            "empresa_indicada": "Não informado"
+            "nps_atendimento": "8",
+            "nps_suporte_tecnico": "8",
+            "nps_comercial_financeiro": "9",
+            "nps_recomendacao": "9",
+            "nps_satisfacao": "9",
+            "nps_custo": "7",
+            "nps_unidade": "7",
+            "nps_rh": "",
+            "nps_outros": ""
         }

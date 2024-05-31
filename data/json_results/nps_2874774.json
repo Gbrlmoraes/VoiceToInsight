@@ -1,15 +1,13 @@
 {
             "empresa": "Escandinávia Veículos",
             "atendimento": "Sim",
-            "nps_probabilidade_recomendar_totvs": 10,
-            "nps_suporte_tecnico": "Não informado",
-            "nps_atendimento_suporte": "Não informado",
-            "nps_atendimento_comercial": 9,
-            "nps_custos_valores": 8,
-            "nps_atendimento_financeiro": 10,
-            "nps_satisfacao_implantacao": "Parcialmente",
-            "nps_experiencia_atualizacao": 9,
-            "nps_atendimento_topos_rio_preto": 10,
-            "outros_gestores": "Não informado",
-            "empresa_indicada": "Não informado" 
+            "nps_atendimento": "10",
+            "nps_suporte_tecnico": "9",
+            "nps_comercial_financeiro": "9",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "8",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

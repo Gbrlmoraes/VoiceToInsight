@@ -1,6 +1,13 @@
 {
-            "empresa": "Antótese",
-            "atendimento": "Sim",
-            "nps_técnica": "Não informado",
-            "nps_faturamento": "Não informado"
-        }
+        "empresa": "Antótese",
+        "atendimento": "Sim",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

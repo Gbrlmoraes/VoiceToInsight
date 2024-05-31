@@ -1,13 +1,13 @@
 {
-            "empresa": "Colbeck, indústria e comércio de confecções",
-            "atendimento": "Sim",
-            "nps_probabilidade_recomendar_totvs": "10",
-            "nps_suporte_técnico": "10",
-            "nps_atendimento_agentes": "10",
-            "nps_atendimento_executivo_vendas_comercial": "10",
-            "nps_custos_valores": "8",
-            "nps_atendimento_administrativo_financeiro": "Não informado",
-            "nps_programa_atende_necessidade": "10",
-            "nps_atualizações": "10",
-            "nps_unidade_totus_serra_gaúcha": "10"
-        }
+        "empresa": "Colbeck, indústria e comércio de confecções",
+        "atendimento": "Sim",
+        "nps_atendimento": "10",
+        "nps_suporte_tecnico": "10",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "10",
+        "nps_satisfacao": "",
+        "nps_custo": "8",
+        "nps_unidade": "10",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

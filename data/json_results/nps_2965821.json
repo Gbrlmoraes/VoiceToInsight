@@ -1,9 +1,13 @@
 {
             "empresa": "Suco Rico Citrus",
-            "atendimento": "Não",
-            "nps_atendimento": "Não informado",
-            "nps_qualidade": "Não informado",
-            "nps_agilidade": "Não informado",
-            "nps_resolucao": "Não informado",
-            "nps_custo": "Não informado"
+            "atendimento": "Sim",
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

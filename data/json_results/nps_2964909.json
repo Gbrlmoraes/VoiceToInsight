@@ -1,14 +1,13 @@
 {
-            "empresa": "SMIT",
-            "atendimento": "Sim",
-            "nps_marca": "Nove",
-            "nps_suporte_tecnico_agilidade": "Sete",
-            "nps_suporte_tecnico_atendimento": "Sete",
-            "nps_comercial_atendimento": "Nove",
-            "nps_comercial_custos_e_valores": "Oito",
-            "nps_financeiro_atendimento": "Oito",
-            "nps_implantacao": "Nove",
-            "nps_entrega_beneficio": "Totalmente",
-            "nps_atualizacao": "Oito",
-            "nps_atendimento_toto_serra_do_mar": "Nove"
-        }
+        "empresa": "SMIT",
+        "atendimento": "Sim",
+        "nps_atendimento": "7",
+        "nps_suporte_tecnico": "7",
+        "nps_comercial_financeiro": "8.5",
+        "nps_recomendacao": "9",
+        "nps_satisfacao": "9",
+        "nps_custo": "8",
+        "nps_unidade": "9",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

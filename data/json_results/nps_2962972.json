@@ -1,15 +1,13 @@
 {
-            "empresa": "TOTOS",
+            "empresa": "TOTVS",
             "atendimento": "Sim",
-            "nps_probabilidade_recomendar": 9,
-            "nps_agilidade_processos_suporte_tecnico": 8,
-            "nps_atendimento_suporte_tecnico": 6,
-            "nps_atendimento_executivo_vendas": 9,
-            "nps_satisfacao_custo_produtos_contratados": 7,
-            "nps_atendimento_administrativo_financeiro": 9,
-            "nps_satisfacao_implantacao_software": 8,
-            "nps_entrega_beneficio_esperado": "Entrega",
-            "nps_ultima_atualizacao_software": 10,
-            "nps_unidade_totos_minas_gerais": 7,
-            "observacoes": "Nenhuma observação adicionada."
+            "nps_atendimento": "9",
+            "nps_suporte_tecnico": "8",
+            "nps_comercial_financeiro": "9",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "7",
+            "nps_custo": "7",
+            "nps_unidade": "7",
+            "nps_rh": "",
+            "nps_outros": ""
         }

@@ -1,13 +1,13 @@
 {
-            "empresa": "TOTVS",
-            "atendimento": "Sim",
-            "nps_marca": "10",
-            "nps_suporte_tecnico": "9",
-            "nps_atendimento_suporte": "9",
-            "nps_atendimento_comercial": "9",
-            "nps_custos_valores": "9",
-            "nps_atendimento_financeiro": "9",
-            "nps_implantacao": "Não informado",
-            "nps_atualizacao": "8",
-            "nps_atendimento_unidade": "10"
-        }
+        "empresa": "TOTVS",
+        "atendimento": "Sim",
+        "nps_atendimento": "10",
+        "nps_suporte_tecnico": "9",
+        "nps_comercial_financeiro": "9",
+        "nps_recomendacao": "10",
+        "nps_satisfacao": "9",
+        "nps_custo": "9",
+        "nps_unidade": "10",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

@@ -1,17 +1,13 @@
 {
             "empresa": "CCB Coachings SA",
             "atendimento": "Sim",
-            "nps_probabilidade_recomendar": "10",
-            "nps_motivo": "Pela robustez do sistema",
-            "nps_agilidade_processos_suporte_tecnico": "8",
-            "nps_atendimento_suporte_tecnico": "10",
-            "nps_atendimento_executivo_vendas": "8",
-            "nps_satisfacao_custo_produto": "6",
-            "nps_atendimento_administrativo_financeiro": "Não informado",
-            "nps_satisfacao_implantacao_software": "Não informado",
-            "nps_entrega_beneficio": "Parcial",
-            "nps_ultima_atualizacao_software": "Não informado",
-            "nps_atendimento_toto_sao_paulo": "10",
-            "nps_geral": "10",
-            "nps_acrescentar_ponto": "Não"
+            "nps_atendimento": "10",
+            "nps_suporte_tecnico": "8",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "6",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

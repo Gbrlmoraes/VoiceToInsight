@@ -1,12 +1,13 @@
 {
             "empresa": "Intercity Hotels",
             "atendimento": "Sim",
-            "nps_geral": "10",
-            "nps_agilidade_processos": "Não informado",
-            "nps_valores_produtos": "Não informado",
-            "nps_implantacao": "Não informado",
-            "nps_satisfacao": "Não informado",
-            "nps_atualizacoes": "8",
-            "nps_unidade": "Não informado",
-            "observacao": "Sinto falta do módulo de eventos."
+            "nps_atendimento": "10",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": "8"
         }

@@ -1,13 +1,13 @@
 {
             "empresa": "Cristófile Brasil LTDA",
             "atendimento": "Sim",
-            "nps_totvs": "8",
-            "nps_suporte_técnico": "Não informado",
-            "nps_atendimento_agentes": "6",
-            "nps_atendimento_comercial": "5",
-            "nps_custos_e_valores": "7",
-            "nps_atendimento_financeiro": "7",
-            "nps_satisfação_implantação": "7",
-            "nps_atualização_software": "8",
-            "nps_atendimento_soto_são_paulo": "8"
+            "nps_atendimento": "6.5",
+            "nps_suporte_tecnico": "6",
+            "nps_comercial_financeiro": "6",
+            "nps_recomendacao": "8",
+            "nps_satisfacao": "7",
+            "nps_custo": "7",
+            "nps_unidade": "8",
+            "nps_rh": "",
+            "nps_outros": ""
         }

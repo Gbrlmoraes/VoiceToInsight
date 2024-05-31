@@ -1,13 +1,13 @@
 {
             "empresa": "CDA Central de Distribuição AZV da LTDA",
             "atendimento": "Sim",
-            "nps_probabilidade_recomendar": "9",
-            "nps_agilidade_processos_suporte_tecnico": "8",
-            "nps_atendimento_agente_suporte_tecnico": "8",
-            "nps_atendimento_executivo_vendas": "Não informado",
-            "nps_satisfacao_custo_produtos": "Não informado",
-            "nps_satisfacao_implantacao_software": "9",
-            "nps_entrega_beneficio": "Parcial",
-            "nps_ultima_atualizacao_software": "8",
-            "nps_atendimento_unidade": "Não informado"
+            "nps_atendimento": "8",
+            "nps_suporte_tecnico": "8",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "9",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

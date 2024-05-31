@@ -1,13 +1,13 @@
 {
             "empresa": "Rio Química SA",
             "atendimento": "Sim",
-            "nps_totvs": "4",
+            "nps_atendimento": "4",
             "nps_suporte_tecnico": "5",
-            "nps_agentes_suporte": "4",
-            "nps_comercial": "9",
-            "nps_custos_valores": "3",
-            "nps_administrativo_financeiro": "9",
-            "nps_implantacao_software": "Não informado",
-            "nps_atualizacao_software": "2",
-            "nps_atendimento_totvs_rio_preto": "9"
+            "nps_comercial_financeiro": "9",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "3",
+            "nps_unidade": "9",
+            "nps_rh": "",
+            "nps_outros": ""
         }

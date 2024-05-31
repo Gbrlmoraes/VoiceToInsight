@@ -1,10 +1,13 @@
 {
             "empresa": "Núcleo Y Participações da LTDA",
             "atendimento": "Sim",
-            "nps_atendimento": "Péssimo",
-            "nps_relacionamento": "Péssimo",
-            "nps_cloud": "Péssimo",
-            "nps_visão": "Péssimo",
-            "nps_pesquisa": "Bom",
-            "nps_probabilidade": "Zero",
-            "nps_comentário": "A TOTVS tem um péssimo relacionamento com o cliente. Ela não entende o cliente, ela não atende bem o cliente. Ela tem um comercial muito bom, ela vende muito bem, mas após o contrato dela, é horrível. É péssimo. A empresa não entende que existe cliente de menor porte. Não entende como que funcionam as estruturas dos seus clientes. Ela trata como se fosse um produto... Ela vende um produto que não é de prateleira, mas, porém, ela tem um produto de prateleira. Não tem que vir de menor esporte, né? Isso. Menor esporte, eu falo que é uma empresa que patroa 60 milhões por ano. Então, quer dizer, não é nem tão menor assim, né? Mas, enfim, né? Eu fico imaginando colégios menores, colégios que têm estruturas menores, que têm... Alô? Não, eu fico... Nosso grupo é um grupo até razoavelmente grande. Então, faturamento de 60 a 70 milhões por ano. Eu fico imaginando, não, porque até conheço colégios menores que tem um top. Dá até uma vergonha. Os caras não conseguem trabalhar com isso. O senhor pode repetir, por gentileza? Cloud péssimo. A infraestrutura da Cloud é péssima. O time de Cloud é péssimo. Ele é muito fraco, não tem conhecimento técnico, não ouve o cliente, não fala com o cliente. Eu já tive problemas de perda de dados, eu já tive queda do sistema aqui"}
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "0",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
+        }

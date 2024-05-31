@@ -1,14 +1,13 @@
 {
             "empresa": "TOTO Serra do Mar",
             "atendimento": "Sim",
-            "nps_marca": "1",
-            "nps_sistema": "Não informado",
+            "nps_atendimento": "7",
             "nps_suporte_tecnico": "8",
-            "nps_comercial": "5",
-            "nps_custo_valor": "Não informado",
-            "nps_atendimento_administrativo": "8",
-            "nps_implantacao": "5",
-            "nps_entrega_beneficio": "Parcialmente",
-            "nps_atualizacao": "Não informado",
-            "nps_atendimento_unidade": "7"
+            "nps_comercial_financeiro": "5",
+            "nps_recomendacao": "1",
+            "nps_satisfacao": "",
+            "nps_custo": "8",
+            "nps_unidade": "7",
+            "nps_rh": "",
+            "nps_outros": ""
         }

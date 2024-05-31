@@ -1,8 +1,13 @@
 {
             "empresa": "Hot Beach",
-            "atendimento": "Sim",
-            "nps_toda_familia": "Não informado",
-            "nps_todas_entidades": "Não informado",
-            "nps_muita_diversao": "Não informado",
-            "nps_tranquilidade": "Não informado"
+            "atendimento": "Não",
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

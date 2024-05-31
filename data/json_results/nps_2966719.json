@@ -1,13 +1,13 @@
 {
-            "empresa": "TOTVS",
+            "empresa": "Atuato SÃ£o Paulo",
             "atendimento": "Sim",
-            "nps_marca": "10",
+            "nps_atendimento": "8",
             "nps_suporte_tecnico": "5",
-            "nps_atendimento_suporte": "5",
-            "nps_atendimento_comercial": "8",
-            "nps_custos_valores": "3",
-            "nps_atendimento_financeiro": "10",
-            "nps_implantacao": "10",
-            "nps_atualizacao": "10",
-            "nps_atendimento_atuato": "8"
+            "nps_comercial_financeiro": "8",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "10",
+            "nps_custo": "3",
+            "nps_unidade": "8",
+            "nps_rh": "",
+            "nps_outros": ""
         }

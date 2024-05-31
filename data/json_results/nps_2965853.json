@@ -1,10 +1,13 @@
 {
             "empresa": "UZCity",
             "atendimento": "Sim",
-            "nps_geral": "10",
+            "nps_atendimento": "10",
             "nps_suporte_tecnico": "8",
-            "nps_atendimento_administrativo_e_financeiro": "7",
-            "nps_programa": "Total",
-            "nps_atualizacoes": "10",
-            "nps_unidade_jundiai": "10"
+            "nps_comercial_financeiro": "7",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

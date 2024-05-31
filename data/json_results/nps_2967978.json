@@ -1,14 +1,13 @@
 {
             "empresa": "CNA Companhia de Navegação da Amazônia",
             "atendimento": "Sim",
-            "nps_marca": "8",
-            "nps_suporte": "9",
-            "nps_agentes_suporte": "8",
-            "nps_comercial": "7",
-            "nps_custos_valores": "8",
-            "nps_administrativo_financeiro": "9",
-            "nps_implantacao": "Não informado",
-            "nps_sistema": "10",
-            "nps_atualizacao": "8",
-            "nps_atendimento_tots_amazonas": "Não informado"
+            "nps_atendimento": "8",
+            "nps_suporte_tecnico": "8.5",
+            "nps_comercial_financeiro": "7",
+            "nps_recomendacao": "8",
+            "nps_satisfacao": "9",
+            "nps_custo": "8",
+            "nps_unidade": "8",
+            "nps_rh": "",
+            "nps_outros": ""
         }

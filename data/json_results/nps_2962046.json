@@ -1,12 +1,13 @@
 {
-            "empresa": "Baterias Crawl",
-            "atendimento": "Sim",
-            "nps_geral": 8,
-            "nps_suporte_tecnico": 8,
-            "nps_atendimento": 8,
-            "nps_comercial": "Não informado",
-            "nps_custos_e_valores": 8,
-            "nps_programa": 10,
-            "nps_atualizacoes": 6,
-            "nps_unidade": 7
-        }
+        "empresa": "Baterias Crawl",
+        "atendimento": "Sim",
+        "nps_atendimento": "8",
+        "nps_suporte_tecnico": "8",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "8",
+        "nps_satisfacao": "",
+        "nps_custo": "8",
+        "nps_unidade": "7",
+        "nps_rh": "",
+        "nps_outros": "6"
+    }

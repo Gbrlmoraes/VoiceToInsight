@@ -1,7 +1,13 @@
 {
             "empresa": "Cartus",
             "atendimento": "Não",
-            "nps_operações de PLR": "Não informado",
-            "nps_conta digital": "Não informado",
-            "nps_outros assuntos": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

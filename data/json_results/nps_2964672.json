@@ -1,14 +1,13 @@
 {
             "empresa": "Slimcom",
             "atendimento": "Sim",
-            "nps_marca": "10",
+            "nps_atendimento": "10",
             "nps_suporte_tecnico": "10",
-            "nps_atendimento_agentes": "10",
-            "nps_comercial": "10",
-            "nps_custos_valores": "8",
-            "nps_atendimento_administrativo": "10",
-            "nps_implantacao": "10",
-            "nps_entrega_beneficio": "10",
-            "nps_atualizacao_software": "10",
-            "nps_atendimento_totvs_pej": "10"
+            "nps_comercial_financeiro": "10",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "10",
+            "nps_custo": "8",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

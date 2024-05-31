@@ -1,8 +1,13 @@
 {
-            "empresa": "Escola Harmonia Alessandra",
-            "atendimento": "Não",
-            "nps_atendimento": "Não informado",
-            "nps_marca": "Não informado",
-            "nps_departamento": "Não informado",
-            "nps_utilizacao": "Não informado"
-        }
+        "empresa": "Escola Harmonia Alessandra",
+        "atendimento": "Não",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

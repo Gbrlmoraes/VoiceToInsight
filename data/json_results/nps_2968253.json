@@ -1,13 +1,13 @@
 {
-            "empresa": "Burbom Hotel Fortaleza",
-            "atendimento": "Sim",
-            "nps_atendimento": "10",
-            "nps_comercial_executivo_de_vendas": "Não informado",
-            "nps_custos_e_valores_dos_produtos": "8",
-            "nps_atendimento_administrativo_e_financeiro": "9",
-            "nps_implantação": "Não informado",
-            "nps_atende_necessidade": "10",
-            "nps_atualizações": "10",
-            "nps_unidade_top_c_mnet_soluções": "10",
-            "comentário": "Não informado"
-        }
+        "empresa": "Burbom Hotel Fortaleza",
+        "atendimento": "Sim",
+        "nps_atendimento": "10",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "8",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "8",
+        "nps_unidade": "10",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

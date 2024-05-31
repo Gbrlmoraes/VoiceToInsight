@@ -1,8 +1,13 @@
 {
-            "empresa": "TOTOS",
-            "atendimento": "Sim",
-            "nps_sistema": "Não informado",
-            "nps_proteus": "Não informado",
-            "nps_financeiro": "Não informado",
-            "nps_compras": "Não informado"
-        }
+        "empresa": "TOTOS",
+        "atendimento": "Sim",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

@@ -1,7 +1,13 @@
 {
-            "empresa": "TOTVS",
+            "empresa": "Hot Beak Resort",
             "atendimento": "Sim",
-            "nps_geral": "Não informado",
-            "nps_administrativo": "Não informado",
-            "nps_financeiro": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

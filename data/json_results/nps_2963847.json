@@ -1,11 +1,13 @@
 {
             "empresa": "Brico Bread",
             "atendimento": "Sim",
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
             "nps_rh": "8",
-            "nps_executivo_vendas": "Não informado",
-            "nps_custo_produtos": "Não informado",
-            "nps_implantacao": "8",
-            "nps_entrega_beneficio": "8",
-            "nps_ultima_atualizacao": "9",
-            "nps_totos_ibirapuera": "Não informado"
+            "nps_outros": ""
         }

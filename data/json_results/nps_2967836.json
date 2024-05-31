@@ -1,13 +1,13 @@
 {
             "empresa": "Civil Construtora LTDA",
             "atendimento": "Sim",
-            "nps_marca": "0",
+            "nps_atendimento": "0",
             "nps_suporte_tecnico": "0",
-            "nps_atendimento_suporte": "0",
-            "nps_executivo_vendas": "10",
-            "nps_custos_valores": "0",
-            "nps_atendimento_financeiro": "10",
-            "nps_implantacao_software": "Não informado",
-            "nps_atualizacao_software": "Não informado",
-            "nps_atendimento_unidade_responsavel": "10"
+            "nps_comercial_financeiro": "10",
+            "nps_recomendacao": "0",
+            "nps_satisfacao": "0",
+            "nps_custo": "0",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

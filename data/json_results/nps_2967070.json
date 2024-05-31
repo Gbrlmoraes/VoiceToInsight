@@ -1,13 +1,13 @@
 {
             "empresa": "TOTOS",
             "atendimento": "Sim",
-            "nps_probabilidade_recomendar": 10,
-            "nps_agilidade_processos_suporte_tecnico": 9,
-            "nps_atendimento_suporte_tecnico": 10,
-            "nps_satisfacao_custo": 5,
-            "nps_atendimento_administrativo_financeiro": 10,
-            "nps_atendimento_executivo_vendas": 10,
-            "nps_satisfacao_implantacao_software": 10,
-            "nps_experiencia_ultima_atualizacao": 10,
-            "nps_unidade_toto_sao_paulo": 10
+            "nps_atendimento": "10",
+            "nps_suporte_tecnico": "9",
+            "nps_comercial_financeiro": "10",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "5",
+            "nps_custo": "10",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

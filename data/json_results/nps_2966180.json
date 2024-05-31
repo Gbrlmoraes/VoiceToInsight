@@ -1,14 +1,13 @@
 {
             "empresa": "TOTOS",
             "atendimento": "Sim",
-            "nps_geral": 7,
-            "nps_suporte_tecnico": 6,
-            "nps_atendimento": 6,
-            "nps_comercial_executivo_vendas": "Não informado",
-            "nps_atendimento_administrativo_financeiro": 8,
-            "nps_valores_custos_produtos": "Não informado",
-            "nps_implantacao": 8,
-            "nps_programa": "Não atende total",
-            "nps_atualizacoes": 7,
-            "nps_unidade_tots_ceminet_solucoes": 6
+            "nps_atendimento": "6",
+            "nps_suporte_tecnico": "6",
+            "nps_comercial_financeiro": "8",
+            "nps_recomendacao": "7",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "6",
+            "nps_rh": "",
+            "nps_outros": ""
         }

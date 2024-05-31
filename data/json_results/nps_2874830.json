@@ -1,11 +1,13 @@
 {
             "empresa": "Complexo Brasil",
             "atendimento": "Sim",
+            "nps_atendimento": "6",
             "nps_suporte_tecnico": "6",
-            "nps_atendimento_comercial": "Não informado",
-            "nps_custo_e_valor": "Não informado",
-            "nps_atendimento_financeiro": "Não informado",
-            "nps_implantacao_software": "10",
-            "nps_atualizacao_software": "9",
-            "nps_atendimento_totus": "7"
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "9",
+            "nps_custo": "",
+            "nps_unidade": "7",
+            "nps_rh": "",
+            "nps_outros": ""
         }

@@ -1,13 +1,13 @@
 {
-            "empresa": "TOTVS",
+            "empresa": "Anapol e Consuprim Empresarial",
             "atendimento": "Sim",
-            "nps_total": 9,
-            "nps_suporte_tecnico": 10,
-            "nps_atendimento_agentes": 10,
-            "nps_comercial": 7,
-            "nps_custos_valores": 9,
-            "nps_financeiro": 9,
-            "nps_implantacao": 7,
-            "nps_atualizacoes": 8,
-            "nps_atendimento_tots_ibirapuera": 7
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "10",
+            "nps_comercial_financeiro": "7",
+            "nps_recomendacao": "9",
+            "nps_satisfacao": "",
+            "nps_custo": "9",
+            "nps_unidade": "7",
+            "nps_rh": "",
+            "nps_outros": "8"
         }

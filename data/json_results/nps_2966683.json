@@ -1,10 +1,13 @@
 {
-            "empresa": "Hot Beat",
-            "atendimento": "Não",
-            "nps_muita_diversao": "Não informado",
-            "nps_tranquilidade": "Não informado",
-            "nps_boa_noite": "Não informado",
-            "nps_financeira": "Não informado",
-            "nps_leticia": "Não informado",
-            "nps_pedro": "Não informado"
-        }
+        "empresa": "TOTOS",
+        "atendimento": "Não",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

@@ -1,9 +1,13 @@
 {
-            "empresa": "Freme",
-            "atendimento": "Sim",
-            "nps_comercial": "Não informado",
-            "nps_fax": "Não informado",
-            "nps_compras": "Não informado",
-            "nps_fiscal": "Não informado",
-            "nps_financeiro": "Não informado"
-        }
+        "empresa": "Freme",
+        "atendimento": "Sim",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

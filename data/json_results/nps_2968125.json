@@ -1,13 +1,13 @@
 {
-            "empresa": "TOTVS",
+            "empresa": "Toto",
             "atendimento": "Sim",
-            "nps_total": 9,
-            "nps_suporte": 10,
-            "nps_agentes_suporte": 10,
-            "nps_comercial": 10,
-            "nps_custos_valores": 9,
-            "nps_financeiro": 10,
-            "nps_implantacao": 10,
-            "nps_atualizacao": 10,
-            "nps_atendimento_totvs_amazonas": 10
+            "nps_atendimento": "10",
+            "nps_suporte_tecnico": "10",
+            "nps_comercial_financeiro": "10",
+            "nps_recomendacao": "9",
+            "nps_satisfacao": "10",
+            "nps_custo": "9",
+            "nps_unidade": "10",
+            "nps_rh": "",
+            "nps_outros": ""
         }

@@ -1,17 +1,13 @@
 {
             "empresa": "Eslavieiro Bahia Norte Hotel Florianópolis",
             "atendimento": "Sim",
-            "nps_reservas_e_eventos": "Não informado",
-            "nps_setores_administrativos_financeiros_e_rh": "Não informado",
-            "nps_recepção": "Não informado",
-            "nps_controladoria": "Não informado",
-            "nps_gerente": "Não informado",
-            "nps_coordenadora": "Não informado",
-            "nps_sistema": "Não informado",
-            "nps_hotéis": "Não informado",
-            "nps_cnpj": "Não informado",
-            "nps_lilian": "Não informado",
-            "nps_tots": "Não informado",
-            "nps_gerente_reunião": "Não informado",
-            "nps_tiago_silveira": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

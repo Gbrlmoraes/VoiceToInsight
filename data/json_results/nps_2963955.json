@@ -1,12 +1,13 @@
 {
             "empresa": "TOTVS",
             "atendimento": "Sim",
-            "nps_administrativo": 7,
-            "nps_suporte": "Não informado",
-            "nps_comercial": 10,
-            "nps_custo_e_valor": 5,
-            "nps_financeiro": 4,
-            "nps_implantacao": "Não informado",
-            "nps_atualizacao": 8,
-            "nps_atendimento_unidade": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "7",
+            "nps_satisfacao": "",
+            "nps_custo": "5",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

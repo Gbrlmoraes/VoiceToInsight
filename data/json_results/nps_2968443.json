@@ -1,15 +1,13 @@
 {
             "empresa": "TOTOS",
             "atendimento": "Sim",
-            "nps_marca": "7",
-            "nps_suporte": "4",
-            "nps_agilidade_processos": "4",
-            "nps_atendimento_suporte": "4",
-            "nps_atendimento_executivo_vendas": "4",
-            "nps_satisfacao_custo": "4",
-            "nps_atendimento_administrativo_financeiro": "4",
-            "nps_satisfacao_implantacao": "4",
-            "nps_entrega_beneficio": "4",
-            "nps_ultima_atualizacao": "4",
-            "nps_unidade_totals_goias": "4"
+            "nps_atendimento": "7",
+            "nps_suporte_tecnico": "4",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

@@ -1,16 +1,13 @@
 {
             "empresa": "Piazza Navona",
             "atendimento": "Sim",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_atendimento": "Não informado"
+            "nps_atendimento": "7",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

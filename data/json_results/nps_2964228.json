@@ -1,10 +1,13 @@
 {
-            "empresa": "Aliança",
-            "atendimento": "Sim",
-            "nps_entrevista": "Não informado",
-            "nps_atendimento": "Não informado",
-            "nps_agilidade": "Não informado",
-            "nps_qualidade": "Não informado",
-            "nps_resolucao": "Não informado",
-            "nps_recomendacao": "Não informado"
-        }
+        "empresa": "Aliança",
+        "atendimento": "Sim",
+        "nps_atendimento": "10",
+        "nps_suporte_tecnico": "8",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "9",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

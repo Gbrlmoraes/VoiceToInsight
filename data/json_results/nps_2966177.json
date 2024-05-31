@@ -1,7 +1,13 @@
 {
-            "empresa": "Toto",
-            "atendimento": "Sim",
-            "nps_atendimento": "Não informado",
-            "nps_sistema": "Não informado",
-            "nps_gestores": "Não informado"
-        }
+        "empresa": "Toto",
+        "atendimento": "Sim",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

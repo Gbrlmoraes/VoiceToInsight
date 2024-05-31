@@ -1,9 +1,13 @@
 {
-            "empresa": "Citron",
-            "atendimento": "Sim",
-            "nps_loja_bernardo_horta": "Não informado",
-            "nps_loja_roberto_carlos": "Não informado",
-            "nps_contas_a_pagar_e_receber": "Não informado",
-            "nps_administrativo": "Não informado",
-            "nps_e-commerce": "Não informado"
-        }
+        "empresa": "Citron",
+        "atendimento": "Não",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

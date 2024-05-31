@@ -1,10 +1,13 @@
 {
             "empresa": "Bioma Indústria",
             "atendimento": "Sim",
-            "nps_setor de Marketing": "Não informado",
-            "nps_setor de Faturamento": "Não informado",
-            "nps_setor de Compras": "Não informado",
-            "nps_Departamento Pessoal ou Recursos Humanos": "Não informado",
-            "nps_recepção": "Não informado",
-            "nps_setor de marketing": "Não informado"
+            "nps_atendimento": "",
+            "nps_suporte_tecnico": "",
+            "nps_comercial_financeiro": "",
+            "nps_recomendacao": "",
+            "nps_satisfacao": "",
+            "nps_custo": "",
+            "nps_unidade": "",
+            "nps_rh": "",
+            "nps_outros": ""
         }

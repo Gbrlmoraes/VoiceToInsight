@@ -1,7 +1,13 @@
 {
-            "empresa": "Center Glass",
-            "atendimento": "Sim",
-            "nps_qualidade": "Não informado",
-            "nps_serviços": "Não informado",
-            "nps_atendimento": "Não informado"
-        }
+        "empresa": "Center Glass",
+        "atendimento": "Sim",
+        "nps_atendimento": "",
+        "nps_suporte_tecnico": "",
+        "nps_comercial_financeiro": "",
+        "nps_recomendacao": "",
+        "nps_satisfacao": "",
+        "nps_custo": "",
+        "nps_unidade": "",
+        "nps_rh": "",
+        "nps_outros": ""
+    }

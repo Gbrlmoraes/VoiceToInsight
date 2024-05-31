@@ -1,13 +1,13 @@
 {
             "empresa": "TOTOS",
             "atendimento": "Sim",
+            "nps_atendimento": "10",
             "nps_suporte_tecnico": "8",
-            "nps_atendimento_agentes": "Não informado",
-            "nps_atendimento_executivo_vendas": "Não informado",
-            "nps_atendimento_comercial": "10",
-            "nps_custos_valores": "8",
-            "nps_programa": "10",
-            "nps_implantacao": "9",
+            "nps_comercial_financeiro": "10",
+            "nps_recomendacao": "10",
+            "nps_satisfacao": "8",
+            "nps_custo": "8",
             "nps_unidade": "9",
-            "comentarios": "O suporte online demora muito para responder e muitas vezes não entende a solicitação do cliente."
+            "nps_rh": "",
+            "nps_outros": ""
         }
