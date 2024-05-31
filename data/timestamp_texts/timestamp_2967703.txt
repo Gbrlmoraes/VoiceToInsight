@@ -1,0 +1,88 @@
+{'timestamp': (0.0, 8.9), 'text': ' Boa tarde, meu nome é Viviane, eu falo aqui da TOTS Matriz, tudo bem?'}
+{'timestamp': (9.7, 10.52), 'text': ' Jo, e você?'}
+{'timestamp': (11.08, 15.5), 'text': ' Tudo bem também, obrigada. Eu gostaria, por favor, de falar com o Gustavo.'}
+{'timestamp': (16.76, 17.9), 'text': ' Ah, só um minuto, tá?'}
+{'timestamp': (18.48, 19.48), 'text': ' Tudo bem, obrigada.'}
+{'timestamp': (19.78, 36.96), 'text': ' Foi nada. Pronto?'}
+{'timestamp': (37.94, 39.54), 'text': ' Boa tarde, meu nome é Viviane'}
+{'timestamp': (39.54, 41.62), 'text': ' Eu falo aqui da TOTS Matriz, tudo bem?'}
+{'timestamp': (42.14, 42.68), 'text': ' Tudo e você?'}
+{'timestamp': (43.28, 44.78), 'text': ' Tudo bem também, obrigada'}
+{'timestamp': (44.78, 45.14), 'text': ' Eu falo com o Gustavo? Isso da TOTOS Matriz, tudo bem? Tudo e você? Tudo bem também, obrigada.'}
+{'timestamp': (46.26, 46.72), 'text': ' Eu falo com o Gustavo?'}
+{'timestamp': (47.0, 47.78), 'text': ' Isso.'}
+{'timestamp': (50.06, 52.3), 'text': ' Gustavo, eu estou entrando em contato com você para a gente fazer um rápido acompanhamento'}
+{'timestamp': (52.3, 55.04), 'text': ' em relação à marca TOTOS que vocês utilizam hoje'}
+{'timestamp': (55.04, 57.0), 'text': ' na empresa e no seu departamento.'}
+{'timestamp': (57.44, 59.58), 'text': ' Você teria dois minutinhos para falar comigo?'}
+{'timestamp': (60.58, 62.66), 'text': ' Tem, mas é uma questão, a gente não usa mais, tá?'}
+{'timestamp': (67.52, 67.9), 'text': ' Ah, sim, mas vocês já fizeram o cancelamento total do sistema?'}
+{'timestamp': (68.18, 69.34), 'text': ' Já.'}
+{'timestamp': (71.82, 72.66), 'text': ' Entendi, e esse cancelamento ele foi feito quando?'}
+{'timestamp': (73.96, 75.26), 'text': ' Isso, faz tempo já, hein?'}
+{'timestamp': (76.84, 77.8), 'text': ' Foi em dezembro, acho que foi.'}
+{'timestamp': (79.5, 79.66), 'text': ' Ah, entendi, entendi.'}
+{'timestamp': (84.16, 84.66), 'text': ' É que como ainda não deu seis meses pra mim, aqui não aparece o cancelamento ainda.'}
+{'timestamp': (86.68, 86.76), 'text': ' Mas, no caso, fica a seu critério.'}
+{'timestamp': (88.9, 89.48), 'text': ' Se você quiser responder, a gente pode responder.'}
+{'timestamp': (91.26, 91.86), 'text': ' Pode, pode. Pode perguntar.'}
+{'timestamp': (95.34, 95.94), 'text': ' Certo. Eu só vou fazer algumas confirmações por questões de segurança.'}
+{'timestamp': (101.04, 101.54), 'text': ' O seu nome é Gustavo Soares e atualmente o senhor é o gestor responsável da área de TI da empresa?'}
+{'timestamp': (102.02, 107.88), 'text': ' Correto. Certo. O e-mail continua sendo soares.ti.cv.gmail.com?'}
+{'timestamp': (108.22, 108.7), 'text': ' Correto.'}
+{'timestamp': (109.34, 111.22), 'text': ' Certo. Obrigada pelas confirmações.'}
+{'timestamp': (111.52, 114.36), 'text': ' Iniciando a nossa avaliação, ela é uma avaliação bem rápida.'}
+{'timestamp': (114.88, 119.66), 'text': ' Numa escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTOS'}
+{'timestamp': (119.66, 121.44), 'text': ' a um amigo ou colega hoje?'}
+{'timestamp': (124.5, 125.12), 'text': ' 9. Certo. Gostaria de me informar sobre o motivo da sua amigo ou colega hoje? Nove.'}
+{'timestamp': (125.92, 128.26), 'text': ' Certo. Gostaria de me informar sobre o motivo'}
+{'timestamp': (128.26, 129.82), 'text': ' da sua nota ou não?'}
+{'timestamp': (130.74, 131.3), 'text': ' Ah, porque'}
+{'timestamp': (131.3, 134.0), 'text': ' é um sistema bem'}
+{'timestamp': (134.0, 135.92), 'text': ' completo, mas às vezes'}
+{'timestamp': (135.92, 137.98), 'text': ' deixa um pouquinho desejado em alguns sentidos.'}
+{'timestamp': (137.98, 138.26), 'text': ' Entendeu?'}
+{'timestamp': (140.18, 140.7), 'text': ' Certo.'}
+{'timestamp': (144.56, 149.9), 'text': ' Certo. Eu vou fazer agora algumas perguntas direcionadas, onde você vai me responder a nota de 0 a 10.'}
+{'timestamp': (149.9, 157.16), 'text': ' Não precisa falar o motivo da sua nota e também não precisa responder caso você não tenha o contato direto com a área, tudo bem?'}
+{'timestamp': (157.44, 157.86), 'text': ' Tá bom.'}
+{'timestamp': (158.5, 163.62), 'text': ' Em relação à agilidade nos processos do suporte técnico, uma nota de 0 a 10.'}
+{'timestamp': (164.8, 165.34), 'text': ' 8. Certo, em relação ao atendimento do agente do suporte técnico. Uma nota de 0 a 10. 8.'}
+{'timestamp': (166.2, 166.6), 'text': ' Certo.'}
+{'timestamp': (166.66, 169.68), 'text': ' Em relação ao atendimento do agente do suporte técnico?'}
+{'timestamp': (170.58, 171.04), 'text': ' 8.'}
+{'timestamp': (171.82, 172.22), 'text': ' Certo.'}
+{'timestamp': (172.3, 174.86), 'text': ' Atendimento do executivo de vendas da TOTOS?'}
+{'timestamp': (176.44, 176.92), 'text': ' Pode ser.'}
+{'timestamp': (177.2, 178.04), 'text': ' Por 10.'}
+{'timestamp': (178.78, 179.5), 'text': ' Certo.'}
+{'timestamp': (180.0, 183.16), 'text': ' A sua satisfação com o custo dos produtos contratados?'}
+{'timestamp': (184.42, 185.16), 'text': ' 7. Certo. A sua satisfação com o custo dos produtos contratados? Sete.'}
+{'timestamp': (186.16, 190.36), 'text': ' Certo. A sua satisfação com o administrativo financeiro da TOTOS?'}
+{'timestamp': (191.7, 193.52), 'text': ' Não tinha problema, não. Dez.'}
+{'timestamp': (194.36, 198.26), 'text': ' Certo. E a implantação do software, caso você tenha participado?'}
+{'timestamp': (199.64, 202.86), 'text': ' É, isso aí eu vou falar que é um cinco, viu?'}
+{'timestamp': (203.64, 208.18), 'text': ' Porque deixar tudo na minha mão para fazer isso, eu não achei muito legal, não.'}
+{'timestamp': (209.24, 210.86), 'text': ' Entendi, entendi.'}
+{'timestamp': (211.54, 215.76), 'text': ' Também, de 0 a 10, como que foi essa experiência com a última atualização do software,'}
+{'timestamp': (215.94, 218.8), 'text': ' caso vocês tenham feito essa atualização de 0 a 10?'}
+{'timestamp': (220.18, 222.46), 'text': ' A última vez que eu atualizei foi em 8.'}
+{'timestamp': (223.72, 225.5), 'text': ' Certo, certo.'}
+{'timestamp': (225.92, 230.94), 'text': ' O produto contratado, ele entregou o benefício esperado pela empresa ou pelo seu departamento?'}
+{'timestamp': (231.18, 234.56), 'text': ' Tem a opção de entregou totalmente, parcialmente ou não entregou?'}
+{'timestamp': (235.44, 235.96), 'text': ' Parcialmente.'}
+{'timestamp': (236.86, 242.36), 'text': ' Certo. E a última nota que seria em relação à unidade que faz o atendimento com vocês hoje,'}
+{'timestamp': (242.66, 247.2), 'text': ' também de 0 a 10, como que você avalia a TOTUS Oeste, caso tenha contato?'}
+{'timestamp': (249.4, 249.92), 'text': ' 9.'}
+{'timestamp': (250.96, 255.24), 'text': ' Certo, e de tudo isso que eu lhe perguntei, Gustavo, você gostaria de acrescentar algum ponto?'}
+{'timestamp': (255.92, 256.4), 'text': ' Não, não.'}
+{'timestamp': (257.42, 262.26), 'text': ' Certo, no caso, como vocês fizeram já a solicitação de cancelamento do sistema,'}
+{'timestamp': (262.68, 265.58), 'text': ' a gente vai colocar todo esse feedback que você nos passou.'}
+{'timestamp': (266.28, 270.32), 'text': ' Aí agora vai ser a última pesquisa que a gente vai estar realizando com vocês, tudo bem?'}
+{'timestamp': (270.54, 271.0), 'text': ' Tudo joia.'}
+{'timestamp': (271.76, 273.24), 'text': ' Você ficou com alguma dúvida?'}
+{'timestamp': (273.6, 274.04), 'text': ' Não, não.'}
+{'timestamp': (274.82, 278.02), 'text': ' Tá bom, então, Gustavo, muito obrigada pela sua participação'}
+{'timestamp': (278.02, 280.2), 'text': ' e tenha uma ótima tarde e um bom final de semana.'}
+{'timestamp': (280.48, 281.32), 'text': ' Obrigado, você também.'}
+{'timestamp': (282.1, 283.02), 'text': ' Obrigada, tchau, tchau.'}

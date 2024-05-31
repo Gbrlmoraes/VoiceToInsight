@@ -1,0 +1,16 @@
+{'timestamp': (0.0, 14.76), 'text': ' Você ligou para CarboGraffiti. Digite o ramal desejado ou dois vendas, três compras, quatro financeiro, cinco departamento técnico ou aguarde.'}
+{'timestamp': (27.0, 27.44), 'text': ' CarboGraffiti, bom dia, Johanna.'}
+{'timestamp': (29.68, 29.82), 'text': ' Bom dia, Johanna. Beatriz Atot falando.'}
+{'timestamp': (32.0, 32.24), 'text': ' Gostaria de falar com o responsável pelo sistema.'}
+{'timestamp': (33.46, 33.64), 'text': ' Seria o Sr. Diogo Abrantes?'}
+{'timestamp': (35.2, 35.76), 'text': ' Um momento. Vou transferir.'}
+{'timestamp': (36.08, 36.1), 'text': ' Obrigada.'}
+{'timestamp': (39.06, 42.98), 'text': ' ....br e conheça o que a Carbo Grafite faz.'}
+{'timestamp': (45.94, 46.24), 'text': ' Responsabilidade social se faz presente na Carbo Grafite.'}
+{'timestamp': (51.72, 56.06), 'text': ' Acesse o site www.projetoagua.org.br e conheça uma de nossas ações sociais e como podemos juntos'}
+{'timestamp': (56.06, 59.68), 'text': ' melhorar a nossa qualidade de vida e preservar o meio ambiente,'}
+{'timestamp': (60.18, 65.76), 'text': ' promovendo a conscientização, a racionalização e a recuperação dos recursos hídricos.'}
+{'timestamp': (66.18, 67.9), 'text': ' Faça parte desta realidade.'}
+{'timestamp': (68.28, 72.62), 'text': ' É por isso que se pode afirmar que a Carbografite está sempre olhando para o futuro,'}
+{'timestamp': (72.98, 91.88), 'text': ' criando soluções no presente. Carbo Grafite.'}
+{'timestamp': (92.56, 93.86), 'text': ' Agradecemos a...'}

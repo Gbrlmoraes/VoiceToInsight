@@ -1,0 +1,101 @@
+{'timestamp': (0.88, 3.44), 'text': ' Alô. Boa tarde, falo com o Sr. Bruno Xavier.'}
+{'timestamp': (4.3, 4.66), 'text': ' Isso.'}
+{'timestamp': (5.28, 7.92), 'text': ' Sr. Bruno, me chamo Beatriz, falo da TOTS, tudo bem?'}
+{'timestamp': (8.56, 9.3), 'text': ' Tudo jóia.'}
+{'timestamp': (9.76, 13.92), 'text': ' Que bom. Sr. Bruno, o senhor seria ainda responsável pelo sistema na civil construtora LTDA?'}
+{'timestamp': (14.74, 15.14), 'text': ' Sim.'}
+{'timestamp': (15.88, 19.46), 'text': ' Perfeito. Sr. Bruno, o meu contato é bem rápido e simples, porém importante.'}
+{'timestamp': (20.0, 23.76), 'text': ' Eu preciso saber somente como está a experiência e a satisfação de vocês, tá?'}
+{'timestamp': (26.58, 26.74), 'text': ' Esse acompanhamento é feito pelo método de NPS,'}
+{'timestamp': (30.24, 30.38), 'text': ' então o senhor avalia somente de 0 a 10 a marca TOTS e alguns pontos específicos.'}
+{'timestamp': (31.56, 32.36), 'text': ' Dura dois minutinhos, tudo bem?'}
+{'timestamp': (32.92, 33.54), 'text': ' Tudo bem.'}
+{'timestamp': (39.74, 40.5), 'text': ' Só confirmando se a NIPJ está da empresa para iniciarmos é o 15, 120, 108, mil contra 9, 5, ok?'}
+{'timestamp': (40.9, 47.18), 'text': ' Isso. O e-mail do senhor continua bruno.civil.com.br obrigada pela confirmação'}
+{'timestamp': (47.18, 48.9), 'text': ' senhor Bruno, numa escala de 0 a 10'}
+{'timestamp': (48.9, 50.78), 'text': ' qual a probabilidade do senhor recomendar'}
+{'timestamp': (50.78, 52.5), 'text': ' a TOTOS a um amigo ou colega hoje'}
+{'timestamp': (52.5, 53.36), 'text': ' na visão que o senhor tem?'}
+{'timestamp': (54.16, 54.6), 'text': ' zero'}
+{'timestamp': (54.6, 58.3), 'text': ' por que? teria algum comentário, algum ponto que você'}
+{'timestamp': (58.3, 59.48), 'text': ' deseja anexar sobre a nota?'}
+{'timestamp': (60.4, 62.72), 'text': ' porque hoje a gente está no cláudio'}
+{'timestamp': (62.72, 65.72), 'text': ' da TOTOS e é a pior experiência possível que a gente tem.'}
+{'timestamp': (67.36, 71.32), 'text': ' Então, por conta disso, estou muito satisfeito com o cloud.'}
+{'timestamp': (73.4, 76.12), 'text': ' Está sendo a pior experiência?'}
+{'timestamp': (77.34, 78.12), 'text': ' Possível.'}
+{'timestamp': (79.02, 79.78), 'text': ' Experiência.'}
+{'timestamp': (80.74, 81.46), 'text': ' Possível.'}
+{'timestamp': (81.46, 83.94), 'text': ' Tanto que a gente está fazendo a migração amanhã.'}
+{'timestamp': (84.16, 88.0), 'text': ' Está saindo do cloud da TOTOS porque realmente o serviço é muito ruim.'}
+{'timestamp': (88.0, 93.0), 'text': ' Qual o sistema que vocês utilizam?'}
+{'timestamp': (93.0, 95.0), 'text': ' RM e FWG.'}
+{'timestamp': (95.0, 100.0), 'text': ' Da TOTOS, porque é horrível.'}
+{'timestamp': (100.0, 104.0), 'text': ' O sistema que utilizamos...'}
+{'timestamp': (104.0, 106.92), 'text': ' Algo mais? O sistema que utilizamos.'}
+{'timestamp': (108.14, 109.14), 'text': ' Algo mais?'}
+{'timestamp': (109.48, 111.24), 'text': ' Não.'}
+{'timestamp': (112.14, 112.52), 'text': ' E Fluig, né?'}
+{'timestamp': (113.0, 113.36), 'text': ' Isso.'}
+{'timestamp': (118.74, 119.04), 'text': ' Então, a insatisfação do senhor hoje é por conta do Cláudio, né?'}
+{'timestamp': (119.54, 120.54), 'text': ' Isso.'}
+{'timestamp': (122.48, 122.76), 'text': ' Tá bom. Algo mais? Não, né?'}
+{'timestamp': (123.1, 127.72), 'text': ' Não. Tá bom. Então, para a gente aprofundar um pouquinho mais na melhoria da jornada,'}
+{'timestamp': (127.82, 133.16), 'text': ' agora eu vou falar alguns pontos específicos e peço que o senhor avalie também somente o 010 caso tenha contato, tá?'}
+{'timestamp': (134.24, 139.3), 'text': ' Falando do suporte técnico, como o senhor avalia a agilidade nos processos de suporte hoje?'}
+{'timestamp': (139.82, 140.24), 'text': ' Zero.'}
+{'timestamp': (142.06, 146.1), 'text': ' Tá. Falando em relação ao atendimento dos agentes do suporte,'}
+{'timestamp': (146.26, 146.38), 'text': ' né?'}
+{'timestamp': (148.44, 149.52), 'text': ' Também. Zero.'}
+{'timestamp': (150.56, 151.48), 'text': ' Zero. Tá.'}
+{'timestamp': (152.8, 153.9), 'text': ' Falando em relação ao'}
+{'timestamp': (153.9, 155.88), 'text': ' comercial, o atendimento do executivo'}
+{'timestamp': (155.88, 156.98), 'text': ' de vendas de vocês?'}
+{'timestamp': (158.54, 159.8), 'text': ' No comercial eu não tenho que me'}
+{'timestamp': (159.8, 161.62), 'text': ' queixar, não, da nota 10.'}
+{'timestamp': (163.1, 163.84), 'text': ' Tá. Em relação'}
+{'timestamp': (163.84, 165.58), 'text': ' aos custos e valores dos produtos'}
+{'timestamp': (165.58, 166.42), 'text': ' contratados?'}
+{'timestamp': (168.84, 170.18), 'text': ' Caro pra caramba.'}
+{'timestamp': (171.12, 171.62), 'text': ' Vou botar'}
+{'timestamp': (171.62, 173.96), 'text': ' nota zero aí também. Muito caro.'}
+{'timestamp': (174.16, 174.42), 'text': ' Tá.'}
+{'timestamp': (175.56, 177.84), 'text': ' Atendimento do financeiro referente a boletos,'}
+{'timestamp': (177.98, 179.76), 'text': ' negociações caso precisem, como'}
+{'timestamp': (179.76, 181.84), 'text': ' o senhor avalia? Funciona, sim.'}
+{'timestamp': (182.12, 183.04), 'text': ' Nota 10.'}
+{'timestamp': (184.56, 185.08), 'text': ' Tá.'}
+{'timestamp': (187.2, 187.34), 'text': ' Satisfação com a implantação do software.'}
+{'timestamp': (188.62, 189.06), 'text': ' O senhor participou da implantação?'}
+{'timestamp': (190.1, 191.32), 'text': ' Não, já tem tempo.'}
+{'timestamp': (191.8, 191.98), 'text': ' Tá.'}
+{'timestamp': (195.02, 195.14), 'text': ' Hoje o sistema está entregando o benefício que a empresa precisa.'}
+{'timestamp': (197.3, 198.8), 'text': ' Entrega totalmente, parcialmente ou não entrega?'}
+{'timestamp': (200.16, 201.52), 'text': ' Entrega parcialmente.'}
+{'timestamp': (206.1, 208.28), 'text': ' Como foi a experiência do senhor com a atualização do software de 010 também?'}
+{'timestamp': (209.04, 210.18), 'text': ' Atualização de?'}
+{'timestamp': (212.88, 213.5), 'text': ' Do sistema, né? Vocês já atualizaram?'}
+{'timestamp': (218.82, 226.36), 'text': ' Ainda não, na verdade até uma coisa, porque a gente acabou de ver aqui que vai ser descontinuado o Delphi Se isso realmente acontecer, é uma perspectiva da gente sair do RM da TOTS, porque a gente tem não sei'}
+{'timestamp': (226.36, 231.94), 'text': ' quantas centenas de relatórios e você descontinuar assim vai ser pra gente'}
+{'timestamp': (231.94, 236.1), 'text': ' realmente sair, não faz sentido isso.'}
+{'timestamp': (236.1, 241.1), 'text': ' Tá, então o senhor avalia em quanto de 0 a 10 as atualizações?'}
+{'timestamp': (241.1, 246.1), 'text': ' É isso, eu não estou com avaliação agora, porque se realmente for verdade, essa descontinuidade do DELF vai ser menos'}
+{'timestamp': (246.1, 247.72), 'text': ' 10, menos 100, aliás.'}
+{'timestamp': (248.1, 249.98), 'text': ' Tá. Então, tá bom.'}
+{'timestamp': (250.12, 252.04), 'text': ' Para a gente finalizar, peço que o senhor avalie também'}
+{'timestamp': (252.04, 254.0), 'text': ' 0 a 10 o atendimento realizado pela TOTS'}
+{'timestamp': (254.0, 256.16), 'text': ' da Ilha da Unidade Responsável aí por você.'}
+{'timestamp': (256.84, 257.5), 'text': ' Funciona bem.'}
+{'timestamp': (258.2, 259.86), 'text': ' Funciona. É, da nota 10.'}
+{'timestamp': (265.22, 265.32), 'text': ' Tá. Só Tá, só essas perguntas, o senhor tem mais algum comentário final, mais algum ponto?'}
+{'timestamp': (265.76, 271.5), 'text': ' Não, não Tá, Sr. Bruno, esse acompanhamento ele ocorre num período de seis meses a um ano, tá?'}
+{'timestamp': (272.0, 274.04), 'text': ' Passando o período retornaremos no contato'}
+{'timestamp': (274.04, 276.52), 'text': ' Porém, com a sua insatisfação que o senhor me trouxe'}
+{'timestamp': (276.52, 280.62), 'text': ' O senhor aceita receber uma ligação das áreas responsáveis para tratar esse item?'}
+{'timestamp': (280.62, 283.52), 'text': ' Na verdade, assim, eu já falei com todo mundo do cloud'}
+{'timestamp': (283.52, 286.22), 'text': ' Nunca foi resolvido.'}
+{'timestamp': (286.44, 288.0), 'text': ' Aí agora, como a gente está saindo, não me'}
+{'timestamp': (288.0, 289.34), 'text': ' interessa mais em receber, não.'}
+{'timestamp': (290.68, 292.06), 'text': ' Tá bom, então. Sr. Bruno,'}
+{'timestamp': (292.16, 293.66), 'text': ' eu agradeço. Tenha uma ótima tarde.'}
+{'timestamp': (293.76, 294.86), 'text': ' Bom trabalho. Tchau, tchau.'}

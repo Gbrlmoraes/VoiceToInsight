@@ -1,0 +1,26 @@
+{'timestamp': (0.0, 35.84), 'text': ' Música Alô?'}
+{'timestamp': (36.24, 37.26), 'text': ' Carneiro, bom dia.'}
+{'timestamp': (38.0, 39.78), 'text': ' Bom dia, Beatriz da Toto falando.'}
+{'timestamp': (39.9, 41.9), 'text': ' Gostaria de falar com a senhora Maria Aparecida?'}
+{'timestamp': (43.32, 45.7), 'text': ' Você vai ter que tentar... Deixa eu ver se Aparecida? Você vai ter que tentar...'}
+{'timestamp': (45.7, 47.26), 'text': ' Deixa eu ver se ela vem'}
+{'timestamp': (47.26, 48.06), 'text': ' na sexta-feira.'}
+{'timestamp': (50.22, 50.7), 'text': ' Graziele!'}
+{'timestamp': (52.48, 53.6), 'text': ' Aparecida, vem trabalhar hoje?'}
+{'timestamp': (54.16, 54.62), 'text': ' Quais dias?'}
+{'timestamp': (55.7, 56.96), 'text': ' Somente nas segundas e quartas'}
+{'timestamp': (56.96, 58.64), 'text': ' você consegue falar com ela aqui na loja.'}
+{'timestamp': (59.38, 61.42), 'text': ' Ah, tá bom. Então, somente ela é responsável'}
+{'timestamp': (61.42, 62.66), 'text': ' pelo sistema na empresa?'}
+{'timestamp': (63.62, 66.26), 'text': ' Eu vou transferir pro setor administrativo.'}
+{'timestamp': (66.32, 67.26), 'text': ' Alguém vai te dar essa informação.'}
+{'timestamp': (67.42, 69.26), 'text': ' Tá bom, obrigada.'}
+{'timestamp': (76.8, 77.24), 'text': ' Carneiro?'}
+{'timestamp': (78.04, 80.12), 'text': ' Bom dia, Beatriz Atratos falando.'}
+{'timestamp': (80.28, 83.04), 'text': ' Gostaria de falar com um dos gestores responsáveis pelo sistema.'}
+{'timestamp': (83.34, 85.7), 'text': ' Seria somente a Sara Maria Aparecida ou teria algum outro?'}
+{'timestamp': (86.66, 87.58), 'text': ' Seria só ela.'}
+{'timestamp': (88.62, 89.22), 'text': ' Ah, entendi.'}
+{'timestamp': (90.12, 92.06), 'text': ' Quais dias eu consigo falar com ela?'}
+{'timestamp': (92.88, 95.2), 'text': ' Segunda-feira você pode estar retornando.'}
+{'timestamp': (96.56, 98.96), 'text': ' Entendi. Então tá bom. Muito obrigada. Tchau, tchau.'}

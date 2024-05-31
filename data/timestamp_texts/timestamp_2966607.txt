@@ -1,0 +1,22 @@
+{'timestamp': (0.0, 7.48), 'text': ' Bom dia, meu nome é Beatriz, falo da Topos, gostaria de falar com o Sr. Ricardo Santos, é isso aí?'}
+{'timestamp': (7.76, 8.6), 'text': ' Só um minuto, por favor.'}
+{'timestamp': (9.26, 9.72), 'text': ' Obrigada.'}
+{'timestamp': (10.88, 18.3), 'text': ' Com 16 anos de história e credibilidade, a Centerglass é a maior distribuidora de resinas e fibras de vidro do Norte e Nordeste.'}
+{'timestamp': (25.42, 25.68), 'text': ' Sediada em Lauro de Freitas, possui filiais em Salvador, Feira de Santana, Vitória da Conquista, São Luís do Maranhão e Belém do Pará.'}
+{'timestamp': (32.02, 32.3), 'text': ' Prezando pela qualidade dos seus produtos e serviços, a Center Glass está sempre pronta para atender a você e a sua empresa.'}
+{'timestamp': (39.36, 40.8), 'text': ' Acesse www.centerglassresinas.com.br ou ligue 713288788. Siga-nos também no Instagram.'}
+{'timestamp': (41.08, 44.82), 'text': ' Center Glass, sua melhor opção em resinas e fibras de vidro.'}
+{'timestamp': (41.8, 42.12), 'text': ' também no Instagram, Center Glass,'}
+{'timestamp': (44.3, 44.8), 'text': ' sua melhor opção em resinas e fibras de vidro.'}
+{'timestamp': (45.46, 47.9), 'text': ' Com 16 anos de história e credibilidade,'}
+{'timestamp': (48.14, 50.3), 'text': ' a Center Glass é a maior distribuidora'}
+{'timestamp': (50.3, 52.0), 'text': ' de resinas e fibras de vidro do'}
+{'timestamp': (52.0, 54.26), 'text': ' Norte e Nordeste. Sediada em Lauro de Freitas,'}
+{'timestamp': (54.56, 55.7), 'text': ' possui filiais em Salvador,'}
+{'timestamp': (56.1, 57.9), 'text': ' Feira de Santana, Vitória da Conquista,'}
+{'timestamp': (58.24, 59.92), 'text': ' São Luís do Maranhão e Belém do Pará.'}
+{'timestamp': (66.58, 66.86), 'text': ' Prezando pela qualidade dos seus produtos e serviços, a Center Glass está sempre pronta para atender a você e a sua empresa.'}
+{'timestamp': (114.26, 117.14), 'text': ' Acesse www.cent... E aí Alô, áudio Ney, boa tarde, bom dia, desculpa Bom dia, doutora de faculdade, Ricardo Santos'}
+{'timestamp': (117.14, 119.86), 'text': ' Ok, a ligação voltou, ele não deve estar na sala'}
+{'timestamp': (119.86, 123.42), 'text': ' Ah, entendi, então eu retorno novamente, obrigada'}
+{'timestamp': (123.42, 123.96), 'text': ' Tudo bem, nada'}

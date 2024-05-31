@@ -1,0 +1,19 @@
+{'timestamp': (0.74, 5.14), 'text': ' Olá, você ligou para Citron. É um prazer atendê-lo.'}
+{'timestamp': (5.52, 9.14), 'text': ' Para falar com a loja Citron da rua Bernardo Horta, Disque 1.'}
+{'timestamp': (9.46, 12.96), 'text': ' Para falar com a loja da Praça Roberto Carlos, Disque 2.'}
+{'timestamp': (13.32, 16.18), 'text': ' Contas a pagar e a receber, Disque 3.'}
+{'timestamp': (16.76, 18.5), 'text': ' Administrativo, Disque 4.'}
+{'timestamp': (18.88, 68.86), 'text': ' E-commerce, Disque 5. A Citron oferece a você as melhores soluções em eletrônicos, áudio, instrumentos musicais com as melhores marcas do mercado e condicionar... A Citron oferece... Oi. Boa tarde, meu nome é Viviane, eu falo aqui da TOTS Matriz, tudo bem?'}
+{'timestamp': (69.68, 70.22), 'text': ' Tudo bem.'}
+{'timestamp': (70.74, 71.84), 'text': ' Eu falo com o Daniele?'}
+{'timestamp': (72.88, 76.2), 'text': ' A Daniele não se encontrou agora na empresa.'}
+{'timestamp': (77.02, 77.74), 'text': ' Ah, sim.'}
+{'timestamp': (77.9, 82.04), 'text': ' Teria algum outro responsável pelo sistema da TOTS ou seria somente ela?'}
+{'timestamp': (82.38, 84.18), 'text': ' É, seria somente ela.'}
+{'timestamp': (84.44, 86.04), 'text': ' Ela só deve estar aqui amanhã.'}
+{'timestamp': (86.76, 87.22), 'text': ' Ah, sim.'}
+{'timestamp': (87.22, 89.9), 'text': ' É porque ela não veio trabalhar hoje.'}
+{'timestamp': (90.44, 91.84), 'text': ' Ah, entendi. Eu retorno'}
+{'timestamp': (91.84, 93.64), 'text': ' contato então amanhã com ela, tá bom?'}
+{'timestamp': (93.8, 95.6), 'text': ' Tá ok. Obrigada.'}
+{'timestamp': (95.7, 96.96), 'text': ' Tchau, tchau. Nada, tchau.'}

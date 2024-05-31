@@ -1,0 +1,79 @@
+{'timestamp': (0.0, 2.0), 'text': ' Boa tarde, Liliane. Boa tarde.'}
+{'timestamp': (2.36, 6.54), 'text': ' Boa tarde, Liliane. Meu nome é Viviane. Eu falo aqui da TOTOS Matriz. Tudo bem?'}
+{'timestamp': (6.86, 7.98), 'text': ' Tudo bom, Viviane.'}
+{'timestamp': (8.24, 10.56), 'text': ' Eu gostaria, por favor, de falar com o Hélio.'}
+{'timestamp': (12.28, 14.2), 'text': ' Ah, sim. Viviane da TOTOS.'}
+{'timestamp': (14.58, 15.72), 'text': ' TOTOS Matriz.'}
+{'timestamp': (17.58, 18.56), 'text': ' Só mentindo.'}
+{'timestamp': (18.96, 43.76), 'text': ' Tudo bem. Alô'}
+{'timestamp': (43.76, 47.94), 'text': ' Boa tarde, meu nome é Viviane Eu faloo aqui da TOTOS Matriz, tudo bem?'}
+{'timestamp': (48.24, 49.02), 'text': ' Tudo jóia.'}
+{'timestamp': (49.46, 50.54), 'text': ' Eu falo com o Hélio?'}
+{'timestamp': (50.74, 51.16), 'text': ' Isso.'}
+{'timestamp': (51.74, 56.12), 'text': ' Hélio, eu estou entrando em contato com você para a gente fazer um rápido acompanhamento'}
+{'timestamp': (56.12, 60.78), 'text': ' em relação à marca TOTOS que vocês utilizam hoje na empresa e no seu departamento.'}
+{'timestamp': (61.24, 63.36), 'text': ' Você teria dois minutinhos para falar comigo?'}
+{'timestamp': (63.36, 65.86), 'text': ' departamento, você teria dois minutinhos para falar comigo?'}
+{'timestamp': (70.2, 70.68), 'text': ' No momento eu estou bastante ocupado. Seria só dois minutos mesmo?'}
+{'timestamp': (75.26, 78.44), 'text': ' Sim, não. A pesquisa é bem rápida. Só são algumas perguntas de zero a dez para a gente verificar como é que está a usabilidade e se vocês estão sendo bem atendidos.'}
+{'timestamp': (79.34, 80.8), 'text': ' Tá, pode ser então.'}
+{'timestamp': (81.28, 91.14), 'text': ' Certo. Eu só vou fazer algumas confirmações por questões de segurança. O seu nome completo é Hélio Luiz Rodrigues e atualmente o senhor é um dos responsáveis pela área de TI da empresa, né?'}
+{'timestamp': (91.16, 92.08), 'text': ' Isso, exatamente.'}
+{'timestamp': (92.82, 96.8), 'text': ' Certo. O e-mail continua sendo ti.casajoca.com.br?'}
+{'timestamp': (97.22, 97.58), 'text': ' Sim.'}
+{'timestamp': (98.36, 108.42), 'text': ' Certo. Obrigada pelas confirmações. Iniciando a nossa avaliação, numa escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTOS a um amigo ou colega hoje?'}
+{'timestamp': (108.84, 109.32), 'text': ' 7.'}
+{'timestamp': (109.86, 113.18), 'text': ' Certo. Gostaria de me informar o motivo da sua nota ou não?'}
+{'timestamp': (113.66, 113.94), 'text': ' Não.'}
+{'timestamp': (114.68, 119.72), 'text': ' Certo. Eu vou fazer agora algumas perguntas rápidas, onde você só vai me informar também a nota de 0 a 10.'}
+{'timestamp': (119.96, 124.56), 'text': ' Não precisa falar o motivo e nem responder caso não tenha um contato com a área, tudo bem?'}
+{'timestamp': (124.74, 125.36), 'text': ' Tá jóia.'}
+{'timestamp': (125.84, 130.02), 'text': ' Em relação à agilidade nos processos do suporte, uma nota de 0 a 10.'}
+{'timestamp': (130.78, 131.3), 'text': ' 7.'}
+{'timestamp': (131.9, 132.22), 'text': ' Certo.'}
+{'timestamp': (132.28, 134.82), 'text': ' Em relação ao atendimento do agente do suporte?'}
+{'timestamp': (135.74, 136.22), 'text': ' 8.'}
+{'timestamp': (136.96, 137.32), 'text': ' Certo.'}
+{'timestamp': (137.38, 139.76), 'text': ' O atendimento do executivo de vendas da TOTOS?'}
+{'timestamp': (140.76, 142.12), 'text': ' Não tenho conhecimento.'}
+{'timestamp': (142.78, 143.1), 'text': ' Certo.'}
+{'timestamp': (143.1, 146.24), 'text': ' A sua satisfação com o custo dos produtos contratados?'}
+{'timestamp': (146.62, 147.96), 'text': ' Não tenho conhecimento.'}
+{'timestamp': (148.54, 153.06), 'text': ' Certo. E a satisfação com a implantação do software, caso você tenha participado?'}
+{'timestamp': (153.78, 155.74), 'text': ' Não tenho participação também.'}
+{'timestamp': (156.4, 162.22), 'text': ' Certo. Você acha que hoje o produto da TOTOS entrega o benefício esperado pela empresa ou pelo seu departamento?'}
+{'timestamp': (162.48, 167.2), 'text': ' Tem a opção de entrega total, parcial ou não entrega? Parcial.'}
+{'timestamp': (173.08, 177.28), 'text': ' Não tive participação.'}
+{'timestamp': (183.0, 184.34), 'text': ' Também de 0 a 10.'}
+{'timestamp': (184.52, 187.92), 'text': ' Como que você avalia a TOTO Sul de Minas, caso tenha contato?'}
+{'timestamp': (188.28, 189.46), 'text': ' Não tenho contato.'}
+{'timestamp': (190.08, 190.56), 'text': ' Certo.'}
+{'timestamp': (190.82, 195.34), 'text': ' No caso, Hélio, nós estamos entrando em contato mesmo, realizando esse acompanhamento,'}
+{'timestamp': (195.62, 198.42), 'text': ' justamente para termos as nossas melhorias contínuas.'}
+{'timestamp': (198.42, 207.7), 'text': ' No prazo de seis meses a um ano, a gente vai retornar o contato com você e verificar se teve alguma alteração na nota, tudo bem? Ok. Posso te fazer uma pergunta?'}
+{'timestamp': (208.3, 209.22), 'text': ' Claro, pode falar.'}
+{'timestamp': (210.0, 219.56), 'text': ' Vocês teriam algum consultor para indicar que a gente possa entrar em contato para a atualização do sistema?'}
+{'timestamp': (220.84, 229.2), 'text': ' Olha, aqui a gente não consegue dar esse telefone desse consultor porque a gente não tem acesso a essas informações.'}
+{'timestamp': (230.04, 236.02), 'text': ' Mas se você quiser, eu posso passar o telefone do executivo de vendas que ele consegue verificar para você.'}
+{'timestamp': (236.5, 237.88), 'text': ' Pode me passar, por favor?'}
+{'timestamp': (238.38, 239.9), 'text': ' Sim, claro, só um momento.'}
+{'timestamp': (247.98, 251.22), 'text': ' Ó, tem o Sidney e tem o Diogo O telefone do Sidney é o DDD11'}
+{'timestamp': (251.22, 254.5), 'text': ' 4301'}
+{'timestamp': (254.5, 257.38), 'text': ' 915'}
+{'timestamp': (257.38, 261.62), 'text': ' E o outro é o Diogo, certo?'}
+{'timestamp': (262.16, 264.28), 'text': ' Isso, o DDD é 11'}
+{'timestamp': (264.28, 272.76), 'text': ' 9 9507-6368.'}
+{'timestamp': (273.52, 276.14), 'text': ' O primeiro telefone é fixo e o segundo é o celular.'}
+{'timestamp': (276.62, 279.48), 'text': ' Tanto em um quanto outro, você consegue contato com eles.'}
+{'timestamp': (279.88, 283.52), 'text': ' Certo. Eles são da parte de consultoria?'}
+{'timestamp': (283.52, 288.36), 'text': ' É, o Sidney é o executivo de vendas.'}
+{'timestamp': (288.66, 292.12), 'text': ' E o Diogo Bandeira é o executivo de contas.'}
+{'timestamp': (293.0, 293.28), 'text': ' Tá.'}
+{'timestamp': (294.18, 294.7), 'text': ' Tudo bem?'}
+{'timestamp': (294.8, 296.1), 'text': ' Certo. Certinho, então.'}
+{'timestamp': (296.8, 298.78), 'text': ' Tá bom, então. Ficou com mais alguma dúvida?'}
+{'timestamp': (298.78, 300.18), 'text': ' Não, não. Era só isso mesmo.'}
+{'timestamp': (301.08, 304.42), 'text': ' Tá bom, então. Muito obrigada pela sua participação, Eli.'}
+{'timestamp': (304.42, 305.86), 'text': ' Tenha uma ótima tarde e um bom final de semana. Jo bom, então. Muito obrigada pela sua participação, Eli. Tenha uma ótima tarde e um bom'}
+{'timestamp': (305.86, 307.8), 'text': ' final de semana. Joia, obrigado pra você'}
+{'timestamp': (307.8, 309.94), 'text': ' também. Obrigada. Tchau, tchau.'}

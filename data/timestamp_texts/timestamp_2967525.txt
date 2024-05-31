@@ -1,0 +1,16 @@
+{'timestamp': (0.0, 25.0), 'text': ' Hot Beat Hot Beach para toda a família Hot Beach para todas as entidades'}
+{'timestamp': (25.0, 27.44), 'text': ' Chegou o Hot Beach Olímpia'}
+{'timestamp': (27.44, 30.04), 'text': ' Para quem quer muita diversão e tranquilidade'}
+{'timestamp': (30.04, 45.12), 'text': ' Hot Beach E aí'}
+{'timestamp': (45.12, 50.0), 'text': ' E aí'}
+{'timestamp': (50.0, 55.12), 'text': ' E aí'}
+{'timestamp': (55.12, 60.0), 'text': ' E aí'}
+{'timestamp': (60.0, 65.12), 'text': ' E aí E aí'}
+{'timestamp': (65.12, 70.0), 'text': ' E aí'}
+{'timestamp': (70.0, 75.0), 'text': ' E aí'}
+{'timestamp': (75.0, 80.0), 'text': ' E aí'}
+{'timestamp': (80.0, 85.0), 'text': ' E aí E aí'}
+{'timestamp': (85.0, 90.0), 'text': ' E aí'}
+{'timestamp': (90.0, 95.0), 'text': ' E aí'}
+{'timestamp': (95.0, 97.48), 'text': ' E aí'}
+{'timestamp': (97.48, 101.14), 'text': ' E aí'}

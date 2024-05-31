@@ -1,0 +1,39 @@
+{'timestamp': (0.52, 8.0), 'text': ' Oi. Oi, bom dia. Lília da empresa TOTS. Eu falo com o Gabriel. Isso. Tudo bem? Tudo jóia. Que ótimo.'}
+{'timestamp': (8.06, 14.78), 'text': ' O seu é o Gabriel, você é o TI da empresa Biolife? Sim. Eu tô ligando pra fazer o NPS, a avaliação geral que fazemos anualmente.'}
+{'timestamp': (14.88, 26.04), 'text': ' Tem dois minutos? Sim. Ok. Só vou confirmar o final do CNPJ da empresa, aqui é o ti.resendesantos.com.br'}
+{'timestamp': (26.04, 33.84), 'text': ' Iniciando então, de uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTOS a alguém hoje no geral?'}
+{'timestamp': (34.66, 35.0), 'text': ' 10.'}
+{'timestamp': (35.42, 39.38), 'text': ' 10 suporte técnico, uma nota para agilidade nos processos dos tickets?'}
+{'timestamp': (40.5, 40.98), 'text': ' 9.'}
+{'timestamp': (41.4, 43.44), 'text': ' E o atendimento em si dos agentes?'}
+{'timestamp': (45.78, 46.88), 'text': ' Atendimento dez.'}
+{'timestamp': (47.7, 50.94), 'text': ' Atendimento do comercial tem contato, executivo de vendas?'}
+{'timestamp': (51.8, 53.78), 'text': ' Um pouco, bem pouco. Vou te colocar oito.'}
+{'timestamp': (54.26, 57.98), 'text': ' Oito. Com relação aos custos e os valores dos produtos?'}
+{'timestamp': (59.64, 60.86), 'text': ' Sete, mais ou menos.'}
+{'timestamp': (61.54, 64.34), 'text': ' Sete. Atendimento administrativo e financeiro?'}
+{'timestamp': (65.72, 67.8), 'text': ' Nós não conversamos, pode colocar nove.'}
+{'timestamp': (68.36, 68.8), 'text': ' Nove.'}
+{'timestamp': (68.96, 72.64), 'text': ' Se o senhor participou da implantação, uma nota para o processo da implantação?'}
+{'timestamp': (73.04, 73.78), 'text': ' Não passei.'}
+{'timestamp': (74.46, 75.6), 'text': ' Mais três perguntas.'}
+{'timestamp': (75.64, 78.62), 'text': ' O programa que vocês estão usando atende à necessidade da empresa?'}
+{'timestamp': (78.88, 81.16), 'text': ' Total, parcial ou não atende?'}
+{'timestamp': (81.5, 81.98), 'text': ' Total.'}
+{'timestamp': (81.98, 85.18), 'text': ' Uma nota para as atualizações? O quê. Uma nota para as atualizações?'}
+{'timestamp': (86.02, 86.32), 'text': ' O quê?'}
+{'timestamp': (87.32, 89.3), 'text': ' Uma nota para as atualizações?'}
+{'timestamp': (90.1, 91.0), 'text': ' Ah, nove.'}
+{'timestamp': (91.58, 92.8), 'text': ' Nove. E a última pergunta'}
+{'timestamp': (92.8, 94.8), 'text': ' para avaliar a unidade de totos de'}
+{'timestamp': (94.8, 96.54), 'text': ' Minas Gerais?'}
+{'timestamp': (97.96, 98.74), 'text': ' Ah, nove.'}
+{'timestamp': (99.24, 100.84), 'text': ' Nove. Gostaria de deixar'}
+{'timestamp': (100.84, 103.12), 'text': ' algum comentário, alguma sugestão,'}
+{'timestamp': (103.34, 104.4), 'text': ' reclamação, elogio?'}
+{'timestamp': (105.44, 106.44), 'text': ' Não, tranquilo.'}
+{'timestamp': (106.92, 108.78), 'text': ' Tranquilo? Então é isso. Obrigada, Gabriel.'}
+{'timestamp': (108.96, 110.66), 'text': ' O ano que vem a gente retorna de novo, tá bom?'}
+{'timestamp': (110.78, 111.02), 'text': ' Ok.'}
+{'timestamp': (111.46, 112.46), 'text': ' Ótimo dia. Tchau.'}
+{'timestamp': (112.86, 113.4), 'text': ' Você também, tchau.'}

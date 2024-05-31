@@ -1,0 +1,152 @@
+{'timestamp': (0.0, 2.62), 'text': ' Alô, boa tarde'}
+{'timestamp': (2.62, 4.66), 'text': ' Fala, Sr. Romulo'}
+{'timestamp': (4.66, 6.88), 'text': ' Ele?'}
+{'timestamp': (7.6, 8.98), 'text': ' Sr. Romulo, me chamo Beatriz'}
+{'timestamp': (8.98, 10.3), 'text': ' Falo da TOTS, tudo bem?'}
+{'timestamp': (11.62, 12.26), 'text': ' Tudo bem'}
+{'timestamp': (12.26, 13.8), 'text': ' Que bom, Sr. Romulo'}
+{'timestamp': (13.8, 17.14), 'text': ' O senhor seria responsável ainda pelo sistema na empresa CNA'}
+{'timestamp': (17.14, 19.1), 'text': ' Companhia de Navegação da Amazônia?'}
+{'timestamp': (20.64, 21.88), 'text': ' É, TOTS da onde?'}
+{'timestamp': (22.0, 23.68), 'text': ' TOTS de Manaus, TOTS de São Paulo'}
+{'timestamp': (23.68, 25.02), 'text': ' TOTS de onde? TOTS de Manaus? TOTS de São Paulo? TOTS Madri de São Paulo'}
+{'timestamp': (25.02, 26.16), 'text': ' Sim'}
+{'timestamp': (26.16, 30.26), 'text': ' Tá, senhor Romulo, meu contato é bem rápido e simples'}
+{'timestamp': (30.26, 35.28), 'text': ' Eu preciso fazer só um acompanhamento para saber como está a experiência e a satisfação de vocês, tá?'}
+{'timestamp': (35.9, 38.66), 'text': ' Esse acompanhamento é feito pelo método de NPS'}
+{'timestamp': (38.66, 42.54), 'text': ' Então o senhor avalia somente 0 a 10 da marca TOTS em alguns pontos específicos'}
+{'timestamp': (42.54, 43.86), 'text': ' Dura dois minutinhos, tudo bem?'}
+{'timestamp': (44.6, 46.3), 'text': ' Ok 0 a 10 da marca TOTS em alguns pontos específicos. Dura dois minutinhos, tudo bem? Ok.'}
+{'timestamp': (48.06, 52.44), 'text': ' Só confirmando, CNPJ da empresa 04-562-559-6600, ok?'}
+{'timestamp': (53.18, 53.62), 'text': ' Correto.'}
+{'timestamp': (54.7, 55.68), 'text': ' O e-mail do senhor continua'}
+{'timestamp': (55.68, 59.24), 'text': ' romulo.fernandes.com.br'}
+{'timestamp': (59.24, 60.46), 'text': ' Perfeito.'}
+{'timestamp': (61.34, 62.68), 'text': ' Obrigada pela confirmação,'}
+{'timestamp': (62.76, 64.38), 'text': ' Sr. Romulo, numa escala de 0 a 10,'}
+{'timestamp': (64.5, 67.08), 'text': ' qual a probabilidade do senhor recomendar a TOTOS'}
+{'timestamp': (67.08, 69.22), 'text': ' a um amigo ou colega hoje, na visão que o senhor tem?'}
+{'timestamp': (69.96, 70.34), 'text': ' 8.'}
+{'timestamp': (71.34, 74.12), 'text': ' Tem algum comentário que o senhor gostaria de deixar sobre a nota?'}
+{'timestamp': (74.22, 74.8), 'text': ' Algum ponto?'}
+{'timestamp': (75.84, 76.4), 'text': ' Não, não.'}
+{'timestamp': (77.82, 80.58), 'text': ' Tá. Então, para aprofundarmos um pouquinho mais na melhoria,'}
+{'timestamp': (80.66, 85.92), 'text': ' agora eu vou falar os pontos específicos e peço que o senhor avalie também somente os Zara 10 caso tenha contato, tá?'}
+{'timestamp': (86.84, 88.06), 'text': ' Falando do suporte,'}
+{'timestamp': (88.24, 90.26), 'text': ' como o senhor avalia a agilidade nos processos'}
+{'timestamp': (90.26, 91.1), 'text': ' do suporte hoje?'}
+{'timestamp': (92.78, 93.92), 'text': ' Apesar de que eu não tenho'}
+{'timestamp': (93.92, 95.14), 'text': ' vindo abrindo'}
+{'timestamp': (95.14, 98.1), 'text': ' chamado, né? Mas eu acho'}
+{'timestamp': (98.1, 99.84), 'text': ' que vocês têm um prazo, né? Então tá'}
+{'timestamp': (99.84, 106.12), 'text': ' atendendo dentro do prazo, né? A não ser se for alguma coisa bem específica que requer alguma'}
+{'timestamp': (106.12, 108.4), 'text': ' coisa mesmo de vocês ligarem'}
+{'timestamp': (108.4, 109.92), 'text': ' ou até mesmo de um consultor'}
+{'timestamp': (109.92, 110.5), 'text': ' in loco, né?'}
+{'timestamp': (112.08, 113.42), 'text': ' Mas pra mim tá'}
+{'timestamp': (113.42, 115.78), 'text': ' bom ainda. Tá ótimo, né?'}
+{'timestamp': (116.88, 117.86), 'text': ' De 0 a 10, quanto?'}
+{'timestamp': (118.54, 118.94), 'text': ' 9.'}
+{'timestamp': (120.22, 122.04), 'text': ' Tá. Falando em relação ao atendimento'}
+{'timestamp': (122.04, 124.12), 'text': ' dos agentes do suporte, como o senhor'}
+{'timestamp': (124.12, 125.9), 'text': ' avalia o atendimento dos agentes do suporte, como o senhor avalia o atendimento dos agentes?'}
+{'timestamp': (128.12, 129.22), 'text': ' Vou botar oito.'}
+{'timestamp': (129.9, 132.28), 'text': ' Assim também não tenho mais contato assim, entendeu?'}
+{'timestamp': (133.54, 135.22), 'text': ' Faz tempo que eu não abro chamada.'}
+{'timestamp': (136.5, 138.18), 'text': ' Tá, falando do comercial,'}
+{'timestamp': (138.38, 140.48), 'text': ' atendimento do executivo de vendas de vocês?'}
+{'timestamp': (143.18, 147.18), 'text': ' Assim, a princípio foi recentemente'}
+{'timestamp': (147.18, 149.56), 'text': ' as ligações do comercial Manausa'}
+{'timestamp': (149.56, 150.36), 'text': ' que teve, né?'}
+{'timestamp': (151.2, 153.98), 'text': ' E está programada uma visita do consultor'}
+{'timestamp': (153.98, 154.86), 'text': ' deles, vindo'}
+{'timestamp': (154.86, 157.6), 'text': ' mostrar ferramentas novas,'}
+{'timestamp': (157.72, 158.52), 'text': ' apresentar, né?'}
+{'timestamp': (160.06, 161.44), 'text': ' Mas ultimamente,'}
+{'timestamp': (161.6, 163.56), 'text': ' de dois anos para cá, eu acho que não teve'}
+{'timestamp': (163.56, 164.74), 'text': ' visita não do cliente.'}
+{'timestamp': (166.26, 167.98), 'text': ' Então, o senhor trabalha em quantos, de 0 a 10?'}
+{'timestamp': (168.04, 168.42), 'text': ' 7.'}
+{'timestamp': (170.8, 174.18), 'text': ' Falando em relação aos custos e valores dos produtos contratados,'}
+{'timestamp': (174.28, 175.04), 'text': ' como o senhor avalia?'}
+{'timestamp': (177.2, 178.32), 'text': ' Eu vou dar 8, né?'}
+{'timestamp': (178.32, 182.44), 'text': ' Eu sei que é um RP bem específico, né?'}
+{'timestamp': (182.78, 186.12), 'text': ' Em termos de mais de obrigatoriedade das empresas, né? Em termos de mais de obrigatoriedade'}
+{'timestamp': (186.12, 188.58), 'text': ' das empresas, né?'}
+{'timestamp': (190.74, 191.96), 'text': ' E o atendimento'}
+{'timestamp': (191.96, 194.2), 'text': ' do administrativo financeiro'}
+{'timestamp': (194.2, 196.72), 'text': ' referente a boletos e negociações, como o senhor avalia?'}
+{'timestamp': (198.12, 198.68), 'text': ' Isso aí'}
+{'timestamp': (198.68, 200.14), 'text': ' eles estão bem espertos, né?'}
+{'timestamp': (200.4, 202.22), 'text': ' Que mandam cobrança direta quando a gente'}
+{'timestamp': (202.22, 204.46), 'text': ' atrasa dois, três dias. Então, em dia'}
+{'timestamp': (204.46, 206.82), 'text': ' eles estão tendo a comunicação, pelo menos, de estar informando'}
+{'timestamp': (206.82, 208.26), 'text': ' que o boleto está em atraso ou não.'}
+{'timestamp': (209.7, 210.08), 'text': ' Nove.'}
+{'timestamp': (210.72, 212.3), 'text': ' Então, o senhor avalia em quanto? Nove?'}
+{'timestamp': (212.66, 214.9), 'text': ' Tá. A satisfação'}
+{'timestamp': (214.9, 216.58), 'text': ' com a implantação do software,'}
+{'timestamp': (216.7, 218.5), 'text': ' o senhor participou da implantação? Não.'}
+{'timestamp': (219.04, 219.92), 'text': ' Eu participei.'}
+{'timestamp': (221.36, 226.2), 'text': ' Aí eu já não posso..., como será Não precisa avaliar então, tá'}
+{'timestamp': (226.2, 228.18), 'text': ' Falando em relação ao sistema'}
+{'timestamp': (228.18, 230.58), 'text': ' Ele tá entregando o benefício que a empresa precisa'}
+{'timestamp': (230.58, 232.82), 'text': ' Entrega totalmente, parcialmente ou não entrega?'}
+{'timestamp': (233.64, 234.16), 'text': ' Entrega, né'}
+{'timestamp': (234.16, 236.28), 'text': ' A gente sempre tenta procurar'}
+{'timestamp': (236.28, 237.36), 'text': ' As melhoras, né'}
+{'timestamp': (237.36, 239.72), 'text': ' Porque assim, o padrão TOTS'}
+{'timestamp': (239.72, 241.34), 'text': ' Ele atende mais como a empresa'}
+{'timestamp': (241.34, 243.18), 'text': ' Tem alguns detalhes, né'}
+{'timestamp': (243.18, 245.5), 'text': ' Tem as partes de customização, né,'}
+{'timestamp': (245.5, 246.8), 'text': ' tudo isso leva custo, né,'}
+{'timestamp': (247.6, 250.6), 'text': ' mas, em termos,'}
+{'timestamp': (250.98, 252.44), 'text': ' atende, né, a necessidade,'}
+{'timestamp': (252.44, 253.34), 'text': ' eu acho, da empresa,'}
+{'timestamp': (253.66, 254.48), 'text': ' mesmo o básico,'}
+{'timestamp': (254.54, 255.88), 'text': ' como até o avançado mesmo.'}
+{'timestamp': (257.96, 259.58), 'text': ' Então, totalmente ou parcialmente?'}
+{'timestamp': (259.72, 260.16), 'text': ' Totalmente.'}
+{'timestamp': (262.2, 263.52), 'text': ' Tá, para a gente saber'}
+{'timestamp': (263.52, 264.98), 'text': ' como foi a experiência do senhor'}
+{'timestamp': (264.98, 266.68), 'text': ' com a atualização do software'}
+{'timestamp': (266.68, 268.72), 'text': ' 010 também, caso tenha atualizado'}
+{'timestamp': (268.72, 270.4), 'text': ' Bom, eu vou passar'}
+{'timestamp': (270.4, 272.26), 'text': ' pelo mais agora, né, devido a esse'}
+{'timestamp': (272.26, 274.2), 'text': ' tempo de expiração de registro'}
+{'timestamp': (274.2, 276.24), 'text': ' tá mudando, né, eu não sei se esse'}
+{'timestamp': (276.24, 278.28), 'text': ' prazo é curto ou é uma jogada da'}
+{'timestamp': (278.28, 280.14), 'text': ' própria TOC mesmo pra estar atualizando'}
+{'timestamp': (280.14, 282.28), 'text': ' a gente já tá batendo'}
+{'timestamp': (282.28, 284.64), 'text': ' numa versão'}
+{'timestamp': (284.64, 285.78), 'text': ' estável e daqui a pouco'}
+{'timestamp': (285.78, 287.84), 'text': ' Já muda, né? E aí começa a aparecer'}
+{'timestamp': (287.84, 289.46), 'text': ' Tudo de novo, de problemas'}
+{'timestamp': (289.46, 291.0), 'text': ' Que vem acontecendo, né?'}
+{'timestamp': (292.48, 293.34), 'text': ' Eu vou dar oito, tá?'}
+{'timestamp': (293.96, 294.26), 'text': ' Tá'}
+{'timestamp': (294.26, 298.2), 'text': ' Tá, hoje pra gente finalizar'}
+{'timestamp': (298.2, 299.84), 'text': ' Eu peço que o senhor apelide 010 também'}
+{'timestamp': (299.84, 302.14), 'text': ' O atendimento realizado pela TOTS Amazonas'}
+{'timestamp': (302.14, 303.78), 'text': ' A unidade responsável por vocês'}
+{'timestamp': (303.78, 305.94), 'text': ' TOTS Amazonas, né?idade responsável por vocês. TOTS Amazonas, né?'}
+{'timestamp': (305.98, 308.12), 'text': ' Não é o que tem na carteira, né?'}
+{'timestamp': (310.16, 312.38), 'text': ' É, pra gente aqui tá TOTS Amazonas.'}
+{'timestamp': (312.42, 313.28), 'text': ' Vocês têm contato com eles?'}
+{'timestamp': (313.28, 316.04), 'text': ' Porque assim, a princípio, pelo menos aqui em Manaus,'}
+{'timestamp': (316.1, 317.12), 'text': ' foi separado, né?'}
+{'timestamp': (317.48, 320.76), 'text': ' É uma empresa, tem a TOTS Amazonas,'}
+{'timestamp': (320.78, 325.54), 'text': ' né, que atende, mas não são eles que têm a nossa carteira. É uma outra empresa que faz parte da TOTS.'}
+{'timestamp': (326.12, 328.36), 'text': ' Não sei qual foi essa jogada que fizeram,'}
+{'timestamp': (328.4, 328.56), 'text': ' entendeu?'}
+{'timestamp': (329.8, 330.88), 'text': ' Mas ensino.'}
+{'timestamp': (331.06, 332.36), 'text': ' Ah, então não precisa estar certo.'}
+{'timestamp': (333.1, 334.9), 'text': ' Tá bom.'}
+{'timestamp': (335.52, 338.02), 'text': ' São essas as perguntas, tá? O senhor tem algum comentário'}
+{'timestamp': (338.02, 339.1), 'text': ' final, mais algum ponto?'}
+{'timestamp': (339.82, 341.12), 'text': ' Não, tá, tranquilo.'}
+{'timestamp': (343.28, 346.96), 'text': ' Tá, Sr. Romulo, esse acompanhamento ele ocorre num período de seis meses a um ano.'}
+{'timestamp': (347.16, 349.0), 'text': ' Passando o período, retornaremos ao contato,'}
+{'timestamp': (349.12, 350.92), 'text': ' tá bom? Então, uma ótima tarde.'}
+{'timestamp': (351.62, 352.54), 'text': ' Tchau, tchau. Obrigado.'}
+{'timestamp': (354.16, 354.9), 'text': ' Tchau, tchau.'}

@@ -1,0 +1,61 @@
+{'timestamp': (0.88, 5.66), 'text': ' Alô? Alô, boa tarde. Falo com o Sr. Carlos Henrique? Isso, fala sim.'}
+{'timestamp': (6.12, 10.14), 'text': ' Sr. Carlos, me chamo Beatriz, falo da TOS, tudo bem? Tudo bem, e você?'}
+{'timestamp': (10.72, 15.88), 'text': ' Também obrigada. Sr. Carlos, o Sr. seria ainda responsável pelo sistema na Cristófile Brasil, LTDA?'}
+{'timestamp': (16.36, 21.54), 'text': ' Sim, estou sim. Perfeito. O meu contato é bem rápido e simples, Sr. Carlos, porém importante.'}
+{'timestamp': (25.68, 26.16), 'text': ' Eu gostaria de saber somente como está a experiência e a certificação de vocês, tá?'}
+{'timestamp': (28.6, 28.76), 'text': ' Esse acompanhamento é feito pelo método de NPS,'}
+{'timestamp': (30.22, 32.1), 'text': ' então o senhor avalia somente 0 a 10 da marca TOTS, é um dos pontos específicos.'}
+{'timestamp': (32.22, 33.38), 'text': ' Durou dois minutinhos, tudo bem?'}
+{'timestamp': (34.92, 36.12), 'text': ' Tudo bem, tá bom.'}
+{'timestamp': (36.58, 37.86), 'text': ' Tá, só vou confirmar então,'}
+{'timestamp': (37.98, 47.18), 'text': ' para iniciarmos o CNPJ da empresa 01-843-574-094, ok? E se eu colocar no Bluetooth no carro aqui só um minutinho?'}
+{'timestamp': (47.72, 47.94), 'text': ' Tá.'}
+{'timestamp': (76.84, 77.46), 'text': ' E aí Alô?'}
+{'timestamp': (79.66, 80.02), 'text': ' Oi, Sr. Carlos, está me ouvindo bem?'}
+{'timestamp': (80.64, 81.42), 'text': ' Estou, estou ouvindo.'}
+{'timestamp': (83.3, 87.48), 'text': ' Tá bom, então, Sr. Carlos, confirmando, o e o e-mail é o c.calisto.com, né?'}
+{'timestamp': (87.8, 88.08), 'text': ' Correto?'}
+{'timestamp': (88.1, 89.14), 'text': ' Sim, isso mesmo.'}
+{'timestamp': (89.84, 91.1), 'text': ' Obrigada pela confirmação.'}
+{'timestamp': (91.44, 95.68), 'text': ' Iniciando, então, numa escala de 0 a 10, qual a probabilidade do senhor recomendar a TOTUS'}
+{'timestamp': (95.68, 97.7), 'text': ' a um amigo ou colega hoje, na visão que o senhor tem?'}
+{'timestamp': (99.2, 99.64), 'text': ' Oito.'}
+{'timestamp': (100.66, 103.7), 'text': ' Tem algum comentário, algum ponto que gostaria de anexar sobre a nota?'}
+{'timestamp': (104.72, 105.18), 'text': ' Não, não. Tem algum comentário, algum ponto que gostaria de anexar sobre a nota? Não.'}
+{'timestamp': (106.68, 111.24), 'text': ' Então, para aprofundarmos um pouquinho mais na melhoria, agora eu vou falar os pontos específicos'}
+{'timestamp': (111.24, 114.76), 'text': ' e peço que o senhor avalie também somente 0 a 10, caso tenha contato, tá?'}
+{'timestamp': (115.16, 115.68), 'text': ' Tá bom.'}
+{'timestamp': (116.42, 120.9), 'text': ' Falando do suporte técnico, como o senhor avalia a agilidade nesse processo de suporte?'}
+{'timestamp': (121.5, 124.26), 'text': ' A agilidade eu não acho muito boa, não. Eu não anoto assim.'}
+{'timestamp': (125.52, 128.78), 'text': ' Falando em relação ao atendimento dos agentes do suporte.'}
+{'timestamp': (130.16, 134.1), 'text': ' Por telefone até que é bom, tipo, agora por e-mail acho que demora demais.'}
+{'timestamp': (136.1, 137.3), 'text': ' Nota 6.'}
+{'timestamp': (138.68, 143.46), 'text': ' Falando em relação ao atendimento do comercial referente ao executivo de vendas de vocês.'}
+{'timestamp': (145.32, 146.24), 'text': ' Nota 5.'}
+{'timestamp': (147.2, 150.7), 'text': ' Em relação aos custos e valores dos produtos contratados?'}
+{'timestamp': (154.24, 154.84), 'text': ' 7.'}
+{'timestamp': (156.34, 160.56), 'text': ' Atendimento do financeiro referente a boletos e negociações, vocês têm contato com a área?'}
+{'timestamp': (161.78, 163.7), 'text': ' Tenho, é tranquilo também, nota 7.'}
+{'timestamp': (165.14, 166.24), 'text': ' A satisfação com a implantação do software, tranquilo também, não estou a 7. A satisfação'}
+{'timestamp': (166.24, 167.8), 'text': ' com a implantação do software,'}
+{'timestamp': (167.96, 169.14), 'text': ' o senhor participou da implantação?'}
+{'timestamp': (170.64, 171.52), 'text': ' Desculpa, não entendi.'}
+{'timestamp': (172.52, 174.02), 'text': ' A implantação do software,'}
+{'timestamp': (174.18, 175.9), 'text': ' como foi a satisfação com a'}
+{'timestamp': (175.9, 177.3), 'text': ' implantação, o senhor participou?'}
+{'timestamp': (178.14, 179.6), 'text': ' Eu não participei na época.'}
+{'timestamp': (180.62, 182.22), 'text': ' Não, então não precisa avaliar.'}
+{'timestamp': (182.7, 184.02), 'text': ' Hoje o sistema'}
+{'timestamp': (184.02, 189.3), 'text': ' está entregando o benefício que a empresa precisa, entrega totalmente, parcialmente ou não entrega?'}
+{'timestamp': (189.82, 190.6), 'text': ' Está totalmente.'}
+{'timestamp': (191.6, 195.86), 'text': ' Como foi a experiência do senhor com a atualização do software 010 também?'}
+{'timestamp': (196.8, 198.22), 'text': ' Foi boa, foi 8.'}
+{'timestamp': (199.32, 206.44), 'text': ' Para finalizar, então, Sr. Carlos, para o Sr. Avalir também, 010, atendimento realizado pela SOTO São Paulo, a unidade responsável aí por vocês.'}
+{'timestamp': (207.1, 207.82), 'text': ' Nota 8 também.'}
+{'timestamp': (209.04, 211.44), 'text': ' Com essas perguntas, o senhor tem algum comentário final?'}
+{'timestamp': (212.88, 220.24), 'text': ' Não, não, outra vez eu já falei que, sobre as atualizações, né, que eu acho muito ruim, tem que atualizar, obrigar a gente a atualizar todo ano, né?'}
+{'timestamp': (227.0, 230.16), 'text': ' Mas, não tem nada que eu já falei Não adiantou nada Não tem nada a falar Tá bom, Sr. Carlos Esse acompanhamento ocorre em um período de 6 meses a 1 ano'}
+{'timestamp': (230.16, 231.66), 'text': ' Passando o período'}
+{'timestamp': (231.66, 232.88), 'text': ' Retornamos ao contato'}
+{'timestamp': (232.88, 234.68), 'text': ' Até uma ótima tarde, bom fim de semana'}
+{'timestamp': (234.68, 236.02), 'text': ' Obrigado'}

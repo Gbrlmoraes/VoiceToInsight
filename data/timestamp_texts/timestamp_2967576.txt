@@ -1,0 +1,87 @@
+{'timestamp': (0.0, 4.14), 'text': ' Bem-vindo ao Bourbon Curitiba Hotel & Suites.'}
+{'timestamp': (4.54, 6.74), 'text': ' Para falar com reservas, digite 1.'}
+{'timestamp': (7.44, 9.38), 'text': ' Vendas e comercial, digite 2.'}
+{'timestamp': (10.14, 12.88), 'text': ' Financeiro e administração, digite 3.'}
+{'timestamp': (13.62, 15.16), 'text': ' Recepção, digite 4.'}
+{'timestamp': (15.92, 17.66), 'text': ' Ou aguarde para ser atendido.'}
+{'timestamp': (18.18, 18.88), 'text': ' Aguarde!'}
+{'timestamp': (19.66, 22.8), 'text': ' ...por lhe amar a Bourbon Curitiba Convention Hotel.'}
+{'timestamp': (23.38, 25.6), 'text': ' Conozca a maneira brasileira de alugar.'}
+{'timestamp': (28.1, 29.06), 'text': ' Contraladoria Alessandra?'}
+{'timestamp': (29.6, 30.86), 'text': ' Oi Alessandra, bom dia.'}
+{'timestamp': (31.1, 31.76), 'text': ' Boa tarde.'}
+{'timestamp': (31.86, 33.24), 'text': ' Oi, boa tarde. Tudo bem?'}
+{'timestamp': (33.26, 35.34), 'text': ' Meu nome é Lília, eu falo da TOTS. Tudo bem, você?'}
+{'timestamp': (36.48, 37.0), 'text': ' Tudo certo.'}
+{'timestamp': (37.52, 40.88), 'text': ' É certo. Eu precisava falar com alguém responsável pela controladoria'}
+{'timestamp': (40.88, 43.76), 'text': ' ou algum gerente para fazer uma avaliação aqui da TOTS.'}
+{'timestamp': (47.26, 48.44), 'text': ' Eu estou lhe ligando para todas as redes de hotéis para fazer uma avaliação.'}
+{'timestamp': (49.44, 50.1), 'text': ' É da TOTS?'}
+{'timestamp': (50.58, 51.88), 'text': ' Isso. TOTS, um papo matriz.'}
+{'timestamp': (52.62, 79.72), 'text': ' Aguarde um momento.'}
+{'timestamp': (80.36, 80.7), 'text': ' Ok.'}
+{'timestamp': (81.5, 105.3), 'text': ' Obrigada por chamar o Burbão Curitiba Convention Hotel. Conheça a maneira brasileira de alugar. Ok. de hotéis para fazer uma avaliação, é o NPS da TOTUS. O senhor seria um dos responsáveis?'}
+{'timestamp': (105.44, 106.74), 'text': ' Pode responder?'}
+{'timestamp': (107.42, 109.14), 'text': ' Eu sou responsável pela controladoria.'}
+{'timestamp': (109.28, 112.16), 'text': ' Seria uma avaliação módulo geral?'}
+{'timestamp': (113.04, 113.74), 'text': ' Não, pode ser.'}
+{'timestamp': (113.74, 115.84), 'text': ' Na verdade, eu estou fazendo com a maioria'}
+{'timestamp': (115.84, 118.52), 'text': ' com os controllers dos hotéis.'}
+{'timestamp': (118.72, 119.86), 'text': ' Tem dois minutos?'}
+{'timestamp': (120.32, 120.94), 'text': ' Sim, tenho.'}
+{'timestamp': (121.46, 124.8), 'text': ' Ok, só vou confirmar o final do CNPJ para ver se é esse mesmo.'}
+{'timestamp': (124.96, 126.3), 'text': ' É o mil contra 17?'}
+{'timestamp': (126.9, 127.3), 'text': ' Perfeito.'}
+{'timestamp': (127.9, 130.48), 'text': ' Ok, o senhor responde por outros além desse ou só esse?'}
+{'timestamp': (130.78, 131.62), 'text': ' Somente esse.'}
+{'timestamp': (131.86, 133.2), 'text': ' Tá, iniciando então.'}
+{'timestamp': (133.3, 138.76), 'text': ' De uma escala de 0 a 10, qual a probabilidade do senhor recomendar a marca TOTUS a alguém hoje no geral?'}
+{'timestamp': (140.32, 140.72), 'text': ' 9.'}
+{'timestamp': (141.24, 141.64), 'text': ' 9.'}
+{'timestamp': (146.16, 146.32), 'text': ' As demais perguntas, se não conseguir responder, a gente sabe que é sempre a matriz que fala mais com a gente.'}
+{'timestamp': (146.82, 147.6), 'text': ' É só pular.'}
+{'timestamp': (150.54, 151.1), 'text': ' Suporte técnico ou uma nota para agilidade nos processos?'}
+{'timestamp': (153.62, 154.56), 'text': ' Pulo, porque é direto com a matriz, que faz os chamados.'}
+{'timestamp': (159.3, 160.96), 'text': ' Consegue avaliar a satisfação com os custos e os valores dos produtos desse hotel?'}
+{'timestamp': (161.4, 161.9), 'text': ' Oito.'}
+{'timestamp': (162.34, 162.96), 'text': ' Oito.'}
+{'timestamp': (165.02, 166.24), 'text': ' Tem contato com a administrativa e financeira?'}
+{'timestamp': (166.9, 167.64), 'text': ' Sim.'}
+{'timestamp': (168.26, 169.38), 'text': ' Uma nota?'}
+{'timestamp': (170.3, 171.22), 'text': ' 9.'}
+{'timestamp': (173.66, 174.0), 'text': ' Tem contato com o comercial, executivo de vendas?'}
+{'timestamp': (174.9, 176.38), 'text': ' Não, pode pular.'}
+{'timestamp': (178.96, 179.02), 'text': ' Mais quatro perguntas.'}
+{'timestamp': (181.48, 182.8), 'text': ' Implantação, se o senhor participou, uma nota?'}
+{'timestamp': (184.1, 184.9), 'text': ' Já, já participei.'}
+{'timestamp': (187.56, 194.28), 'text': ' Implantação, não sei se já participei a plantação nós que o participante 188 mais três perguntas do programa que vocês estão'}
+{'timestamp': (194.28, 205.34), 'text': ' usando atende à necessidade da empresa total atende parcial não atende Dos módulos que nós utilizamos hoje? Isso. No hotel.'}
+{'timestamp': (205.78, 206.4), 'text': ' Atende.'}
+{'timestamp': (207.22, 207.76), 'text': ' Total ou parcial?'}
+{'timestamp': (208.06, 208.54), 'text': ' Total.'}
+{'timestamp': (208.82, 209.18), 'text': ' Total.'}
+{'timestamp': (210.84, 212.48), 'text': ' Uma nota para as atualizações?'}
+{'timestamp': (213.2, 213.76), 'text': ' Oito.'}
+{'timestamp': (214.08, 214.14), 'text': ' Oito.'}
+{'timestamp': (217.5, 218.28), 'text': ' E ótima pergunta para avaliar a unidade TOTUS CM Net Soluções.'}
+{'timestamp': (219.36, 225.76), 'text': ' Desculpa a pergunta? Para avaliar a unidade TOTUS CM Net SoluET Soluções, que presta serviço para os hotéis.'}
+{'timestamp': (226.1, 226.7), 'text': ' Tem contato?'}
+{'timestamp': (227.1, 227.46), 'text': ' Não.'}
+{'timestamp': (227.94, 228.84), 'text': ' Não? Tá bem.'}
+{'timestamp': (229.48, 232.62), 'text': ' Gostaria de comentar, deixar alguma reclamação ou sugestão.'}
+{'timestamp': (233.06, 233.7), 'text': ' No momento, não.'}
+{'timestamp': (234.06, 236.22), 'text': ' Não? Certinho. Então, é isso.'}
+{'timestamp': (236.36, 239.56), 'text': ' É só confirmando que... Deixa eu ver se eu localizo os seus dados.'}
+{'timestamp': (241.5, 242.34), 'text': ' É Marco.'}
+{'timestamp': (242.94, 243.44), 'text': ' Marco.'}
+{'timestamp': (244.34, 245.02), 'text': ' Marco. Não localizei. Me confirma só É Marco Marco Marco'}
+{'timestamp': (245.02, 246.68), 'text': ' Não localizei'}
+{'timestamp': (246.68, 247.96), 'text': ' Me confirma só o seu e-mail'}
+{'timestamp': (247.96, 249.86), 'text': ' É marco.campos'}
+{'timestamp': (249.86, 252.02), 'text': ' Arroba borbon.com.br'}
+{'timestamp': (252.02, 254.66), 'text': ' Ok, da controladoria'}
+{'timestamp': (254.66, 256.0), 'text': ' Certo, então'}
+{'timestamp': (256.0, 257.42), 'text': ' De seis meses a um ano a gente volta a ligar'}
+{'timestamp': (257.42, 259.26), 'text': ' Para saber se está tudo bem e manter o relacionamento'}
+{'timestamp': (259.26, 260.82), 'text': ' Obrigada Marco, ótima tarde'}
+{'timestamp': (260.82, 261.4), 'text': ' Tchau'}

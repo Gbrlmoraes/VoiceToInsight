@@ -1,0 +1,83 @@
+{'timestamp': (0.0, 4.18), 'text': ' Bom dia, fala com o Sr. Washington Luiz.'}
+{'timestamp': (5.28, 8.5), 'text': ' Sr. Washington, me chamo Beatriz, falo da TOTS, tudo bem?'}
+{'timestamp': (9.18, 10.02), 'text': ' Tudo bom, Beata.'}
+{'timestamp': (10.54, 16.08), 'text': ' Tudo bem, obrigada. Sr. Washington, o senhor seria ainda responsável pelo sistema na Centro-Oeste Comercial de Alimentos da LTDA?'}
+{'timestamp': (16.82, 17.16), 'text': ' Sou.'}
+{'timestamp': (17.9, 18.4), 'text': ' Ah, perfeito.'}
+{'timestamp': (18.72, 21.2), 'text': ' Sou feliz e responsável aqui.'}
+{'timestamp': (21.94, 25.88), 'text': ' Ah, que bom. Sr. Washington, Eu preciso fazer um acompanhamento referente'}
+{'timestamp': (25.88, 27.8), 'text': ' ao sistema que vocês utilizam. É bem rápido'}
+{'timestamp': (27.8, 28.82), 'text': ' e simples, porém importante.'}
+{'timestamp': (28.82, 29.22), 'text': ' Isso.'}
+{'timestamp': (31.14, 33.56), 'text': ' Pra gente saber como está a experiência e a satisfação'}
+{'timestamp': (33.56, 34.5), 'text': ' de vocês, tá?'}
+{'timestamp': (34.58, 37.18), 'text': ' Estou tão feliz que dá vontade de chorar.'}
+{'timestamp': (37.26, 38.04), 'text': ' Ah, entendi.'}
+{'timestamp': (38.52, 40.7), 'text': ' É dois minutinhos, tá bom?'}
+{'timestamp': (41.1, 42.44), 'text': ' Tá bom, pode perguntar.'}
+{'timestamp': (43.0, 45.28), 'text': ' Esse acompanhamento é feito pelo método de NPS,'}
+{'timestamp': (45.42, 47.04), 'text': ' então o senhor vai avaliar somente 0 a 10'}
+{'timestamp': (47.04, 49.28), 'text': ' alguns pontos que eu vou perguntar, tá bom?'}
+{'timestamp': (49.78, 50.04), 'text': ' Tá bom.'}
+{'timestamp': (51.26, 53.12), 'text': ' Confirmando, então, se o NPS já está para iniciarmos'}
+{'timestamp': (53.12, 56.8), 'text': ' é o 24447-350-69, ok?'}
+{'timestamp': (58.44, 58.84), 'text': ' Ok.'}
+{'timestamp': (60.26, 61.48), 'text': ' O e-mail do senhor continua'}
+{'timestamp': (61.48, 64.02), 'text': ' o Washington, arroba taticoweb.com.br?'}
+{'timestamp': (67.36, 68.72), 'text': ' Não, o Washington.cabral, arroba tatico.com.br.'}
+{'timestamp': (70.62, 71.16), 'text': ' Ah, e não tem mais o Tatico Web, né?'}
+{'timestamp': (72.3, 73.62), 'text': ' Não, o seu nome me trocou.'}
+{'timestamp': (76.46, 76.94), 'text': ' Tá, então é o Washington.cabral.'}
+{'timestamp': (78.78, 82.5), 'text': ' Arroba tatico.com.br.'}
+{'timestamp': (85.5, 86.42), 'text': ' Tá, obrigada pela atualização, tá?'}
+{'timestamp': (88.4, 88.52), 'text': ' Iniciando, então, numa escala de 0 a 10,'}
+{'timestamp': (90.84, 92.64), 'text': ' qual a probabilidade do senhor recomendar a TOTUS a um amigo ou colega hoje, senhor Washington?'}
+{'timestamp': (93.02, 93.74), 'text': ' 10%.'}
+{'timestamp': (93.74, 96.04), 'text': ' 10? Tá.'}
+{'timestamp': (96.44, 99.3), 'text': ' Tem algum comentário que o senhor gostaria de deixar sobre a nota?'}
+{'timestamp': (101.3, 101.74), 'text': ' Não.'}
+{'timestamp': (102.42, 103.14), 'text': ' Não? Tá.'}
+{'timestamp': (103.26, 105.2), 'text': ' Então, para aprofundarmos um pouco mais na melhoria'}
+{'timestamp': (105.2, 106.88), 'text': ' Agora vou falar alguns pontos específicos'}
+{'timestamp': (106.88, 109.24), 'text': ' E peço que o senhor avalie também somente 0 a 10'}
+{'timestamp': (109.24, 109.68), 'text': ' Tudo bem?'}
+{'timestamp': (111.26, 112.9), 'text': ' Falando do suporte técnico'}
+{'timestamp': (112.9, 115.96), 'text': ' Como o senhor avalia a agilidade nos processos do suporte técnico?'}
+{'timestamp': (117.2, 118.48), 'text': ' Lento pra cacete'}
+{'timestamp': (118.48, 119.96), 'text': ' Eu vou dar 2'}
+{'timestamp': (119.96, 123.66), 'text': ' Falando do atendimento dos agentes do suporte'}
+{'timestamp': (123.66, 125.36), 'text': ' Os analistas que lidam com vocês'}
+{'timestamp': (125.36, 128.86), 'text': ' Repete, me perdoa'}
+{'timestamp': (128.86, 131.98), 'text': ' O atendimento dos agentes do suporte técnico'}
+{'timestamp': (131.98, 133.84), 'text': ' Os analistas que lidam com vocês'}
+{'timestamp': (133.84, 134.32), 'text': ' Em geral'}
+{'timestamp': (134.32, 136.26), 'text': ' 8'}
+{'timestamp': (136.26, 138.96), 'text': ' Falando em relação ao comercial'}
+{'timestamp': (138.96, 140.84), 'text': ' Atendimento do executivo de vendas'}
+{'timestamp': (140.84, 141.26), 'text': ' De vocês'}
+{'timestamp': (141.26, 142.96), 'text': ' 10'}
+{'timestamp': (142.96, 145.36), 'text': ' Comercial é dez?'}
+{'timestamp': (146.22, 146.5), 'text': ' Dez.'}
+{'timestamp': (146.5, 147.06), 'text': ' Ah, pode.'}
+{'timestamp': (148.12, 151.48), 'text': ' Falando em relação aos custos e valores dos produtos contratados.'}
+{'timestamp': (151.7, 152.16), 'text': ' Cinco.'}
+{'timestamp': (153.32, 157.08), 'text': ' Atendimento do financeiro referente a boletos e negociações, caso precisem.'}
+{'timestamp': (157.24, 157.58), 'text': ' Dez.'}
+{'timestamp': (158.58, 160.96), 'text': ' A satisfação com a implantação do software.'}
+{'timestamp': (161.1, 162.22), 'text': ' O senhor participou da implantação?'}
+{'timestamp': (163.4, 166.0), 'text': ' Hoje o sistema entrega o benefício que a empresa precisa? Entrega totalmente, parcialmente Perto.'}
+{'timestamp': (166.76, 168.32), 'text': ' Sim.'}
+{'timestamp': (169.0, 169.3), 'text': ' Totalmente.'}
+{'timestamp': (169.46, 174.3), 'text': ' Total.'}
+{'timestamp': (174.68, 179.06), 'text': ' Sim.'}
+{'timestamp': (180.48, 185.08), 'text': ' 380 e 60. Zero. Não tem nada aqui, ué. Tem nem contato com ele. A TOTS Unidade de Brasília de 0 a 10, como o senhor avalia?'}
+{'timestamp': (185.72, 187.34), 'text': ' Zero, não tem nada aqui, ué.'}
+{'timestamp': (187.64, 188.54), 'text': ' Não tem nem contato com ele.'}
+{'timestamp': (189.44, 190.28), 'text': ' Não tem contato?'}
+{'timestamp': (190.38, 190.66), 'text': ' Não.'}
+{'timestamp': (191.1, 191.3), 'text': ' Tá.'}
+{'timestamp': (191.72, 193.12), 'text': ' Então não precisa avaliar, tá?'}
+{'timestamp': (194.12, 196.98), 'text': ' Tem algum comentário final que o senhor gostaria de deixar, senhor Washington?'}
+{'timestamp': (198.1, 199.2), 'text': ' Não, obrigada.'}
+{'timestamp': (199.86, 203.12), 'text': ' Tá, esse acompanhamento ocorre no período de seis meses a um ano.'}
+{'timestamp': (203.3, None), 'text': ' Passando o período, retornamos o contato'}

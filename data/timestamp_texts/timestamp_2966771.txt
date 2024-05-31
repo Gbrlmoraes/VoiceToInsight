@@ -1,0 +1,11 @@
+{'timestamp': (0.0, 6.1), 'text': ' Seja bem-vindo ao Grupo Rocha.'}
+{'timestamp': (6.7, 8.9), 'text': ' Nosso menu de atendimento mudou.'}
+{'timestamp': (9.46, 14.26), 'text': ' Digite o ramal desejado ou 3 para Departamento Comercial.'}
+{'timestamp': (14.94, 18.88), 'text': ' Se você é cliente e deseja efetuar um pagamento, digite 4.'}
+{'timestamp': (19.48, 25.94), 'text': ' Se você é fornecedor e deseja tratar de um assunto financeiro, digite 5. Se você é'}
+{'timestamp': (25.94, 27.88), 'text': ' fornecedor e deseja falar no nosso'}
+{'timestamp': (27.88, 30.04), 'text': ' departamento de compras, digite'}
+{'timestamp': (30.04, 31.74), 'text': ' 6. Para outros'}
+{'timestamp': (31.74, 33.7), 'text': ' assuntos, aguarde para ser'}
+{'timestamp': (33.7, 35.8), 'text': ' atendido. O Grupo Rocha'}
+{'timestamp': (35.8, 133.8), 'text': ' agradece a sua ligação. A CIDADE NO BRASIL Legenda por Sônia Ruberti'}

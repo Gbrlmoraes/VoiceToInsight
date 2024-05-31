@@ -1,0 +1,60 @@
+{'timestamp': (0.0, 1.52), 'text': ' Alô?'}
+{'timestamp': (2.08, 2.42), 'text': ' Alô?'}
+{'timestamp': (2.62, 4.4), 'text': ' Oi, boa tarde. Fala com o Sr. Eduardo Lima?'}
+{'timestamp': (5.02, 5.36), 'text': ' Isso.'}
+{'timestamp': (6.18, 9.08), 'text': ' Sr. Eduardo, me chamo Beatriz, falo da Tocs. Tudo bem?'}
+{'timestamp': (9.72, 10.26), 'text': ' Tudo bom.'}
+{'timestamp': (11.1, 14.04), 'text': ' Que bom. Sr. Eduardo, o senhor tinha pedido para eu retornar essa semana.'}
+{'timestamp': (14.18, 16.12), 'text': ' Eu falo da parte da experiência do cliente.'}
+{'timestamp': (16.2, 19.92), 'text': ' Eu gostaria de saber somente como está a experiência e a satisfação de vocês lá na empresa.'}
+{'timestamp': (25.14, 26.16), 'text': ' Seria o senhor o responsável pelo sistema, né? Sim. Na SMIT? Perfeito.'}
+{'timestamp': (26.6, 27.18), 'text': ' Isso.'}
+{'timestamp': (29.9, 30.08), 'text': ' O senhor Eduardo é bem rápido mesmo, é dois minutinhos, tá?'}
+{'timestamp': (32.76, 32.92), 'text': ' Esse acompanhamento é feito no método de NPS,'}
+{'timestamp': (35.0, 35.1), 'text': ' então o senhor vai avaliar somente 0 a 10 a marca,'}
+{'timestamp': (37.06, 37.82), 'text': ' até os seus pontos específicos, ok?'}
+{'timestamp': (38.1, 39.06), 'text': ' Ok.'}
+{'timestamp': (43.3, 43.4), 'text': ' Confirmando, o CNPJ da empresa, então, é o 13656820,'}
+{'timestamp': (44.66, 45.26), 'text': ' meu ponto 88, ok?'}
+{'timestamp': (45.66, 46.32), 'text': ' Ok.'}
+{'timestamp': (47.66, 47.78), 'text': ' Obrigada pela confirmação.'}
+{'timestamp': (50.38, 50.54), 'text': ' Sr. Eduardo, iniciando, então, no Miscala 010,'}
+{'timestamp': (54.2, 55.6), 'text': ' qual a probabilidade do senhor recomendar a TOTS a um amigo ou um colega hoje?'}
+{'timestamp': (56.0, 56.8), 'text': ' Nove.'}
+{'timestamp': (59.34, 59.84), 'text': ' Tem algum comentário que o senhor gostaria de deixar sobre a nota?'}
+{'timestamp': (60.14, 61.02), 'text': ' Não.'}
+{'timestamp': (67.24, 67.32), 'text': ' Então, para a gente aprofundar um pouco mais na melhoria, agora vou falar os pontos específicos e peço que o senhor avalie também somente 0 a 10,'}
+{'timestamp': (68.56, 69.6), 'text': ' caso tenha contato, tá?'}
+{'timestamp': (71.26, 71.36), 'text': ' Falando do suporte técnico,'}
+{'timestamp': (74.24, 75.58), 'text': ' como o senhor avalia a agilidade nos processos de suporte?'}
+{'timestamp': (76.02, 76.96), 'text': ' 7.'}
+{'timestamp': (79.24, 80.64), 'text': ' E o atendimento dos agentes do suporte?'}
+{'timestamp': (81.34, 82.04), 'text': ' 7 também.'}
+{'timestamp': (83.02, 85.28), 'text': ' Falando do comercial, o atendimento do executivo de vendas de vocês?'}
+{'timestamp': (86.54, 87.16), 'text': ' Nove.'}
+{'timestamp': (87.94, 90.88), 'text': ' Em relação aos custos e valores dos produtos contratados?'}
+{'timestamp': (91.9, 92.3), 'text': ' Oito.'}
+{'timestamp': (93.1, 96.06), 'text': ' Atendimento do financeiro referente a boletos e negociações?'}
+{'timestamp': (96.98, 97.54), 'text': ' Oito também.'}
+{'timestamp': (98.3, 102.1), 'text': ' A satisfação com a implantação do software, o senhor participou da implantação?'}
+{'timestamp': (103.1, 104.36), 'text': ' Sim, participei.'}
+{'timestamp': (104.88, 106.26), 'text': ' Como o senhor avalia a 010?'}
+{'timestamp': (106.94, 107.38), 'text': ' É 9.'}
+{'timestamp': (108.28, 110.38), 'text': ' Tá, hoje o sistema, ele entrega o benefício'}
+{'timestamp': (110.38, 112.28), 'text': ' que vocês precisam, entrega totalmente,'}
+{'timestamp': (112.46, 113.62), 'text': ' parcialmente ou não entrega?'}
+{'timestamp': (114.22, 114.74), 'text': ' Totalmente.'}
+{'timestamp': (115.62, 118.04), 'text': ' Como foi a experiência do senhor com a atualização'}
+{'timestamp': (118.04, 120.2), 'text': ' do software 010 também, caso tenha'}
+{'timestamp': (120.2, 120.88), 'text': ' atualizado?'}
+{'timestamp': (121.74, 122.1), 'text': ' 8.'}
+{'timestamp': (123.24, 125.46), 'text': ' Tá, para finalizar, peço que o senhor avalie também'}
+{'timestamp': (125.46, 128.04), 'text': ' 010, atendimento realizado pela TOTO Serra do Mar,'}
+{'timestamp': (128.1, 129.82), 'text': ' a unidade responsável por vocês.'}
+{'timestamp': (130.74, 131.36), 'text': ' E 9 também.'}
+{'timestamp': (132.54, 134.22), 'text': ' Só essas duas perguntas, senhor Eduardo.'}
+{'timestamp': (134.34, 136.3), 'text': ' O senhor tem algum comentário final, mais algum ponto?'}
+{'timestamp': (136.88, 137.82), 'text': ' Não tenho nenhum comentário.'}
+{'timestamp': (138.58, 140.1), 'text': ' Esse acompanhamento ocorre'}
+{'timestamp': (140.1, 141.72), 'text': ' em um período de seis meses a um ano.'}
+{'timestamp': (141.9, None), 'text': ' Passando o período, retornaremos o contato, tá'}

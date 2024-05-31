@@ -1,0 +1,133 @@
+{'timestamp': (0.98, 3.3), 'text': ' Oi, bom dia. Falo com o Sr. Pedro?'}
+{'timestamp': (3.76, 4.96), 'text': ' Bom dia, sou eu mesmo.'}
+{'timestamp': (5.3, 7.78), 'text': ' Sr. Pedro, me chamo Beatriz, falo da TOTS, tudo bem?'}
+{'timestamp': (8.54, 9.26), 'text': ' Da TOTS?'}
+{'timestamp': (9.68, 10.12), 'text': ' Isso.'}
+{'timestamp': (10.74, 11.16), 'text': ' Certo.'}
+{'timestamp': (11.7, 12.68), 'text': ' Tudo bem, Sr. Pedro?'}
+{'timestamp': (13.08, 13.54), 'text': ' Tudo bem.'}
+{'timestamp': (14.06, 21.02), 'text': ' Que bom. O Sr. seria o responsável ainda pelo DP e utiliza o sistema, né, na empresa Complexo Brasil?'}
+{'timestamp': (21.22, 25.06), 'text': ' Sim, o responsável pelo DP é a Ana Carla.'}
+{'timestamp': (26.68, 28.02), 'text': ' É, mas o senhor seria pelo RH?'}
+{'timestamp': (30.32, 31.04), 'text': ' Porque pra mim aqui tá como um DP o senhor.'}
+{'timestamp': (34.54, 35.32), 'text': ' Tá, mas o responsável no DP é a Ana Carla.'}
+{'timestamp': (37.64, 38.12), 'text': ' Ah, entendi. O senhor não seria responsável então?'}
+{'timestamp': (45.5, 46.3), 'text': ' Não, eu trabalho com o sistema, sim, ajudo, a gente faz as folhas de pagamento, mas a coordenadora é a Ana Carla.'}
+{'timestamp': (47.98, 50.24), 'text': ' Ah, entendi. É que eu preciso fazer um acompanhamento com um responsável'}
+{'timestamp': (50.24, 52.12), 'text': ' para a gente saber como que está aí a experiência'}
+{'timestamp': (52.12, 53.94), 'text': ' de vocês. Será que ela tem dois minutinhos'}
+{'timestamp': (53.94, 55.02), 'text': ' para falar comigo agora?'}
+{'timestamp': (56.0, 57.06), 'text': ' É a Ana Carla, né?'}
+{'timestamp': (57.06, 58.12), 'text': ' É a Ana Carla.'}
+{'timestamp': (58.56, 60.0), 'text': ' Ela está fora.'}
+{'timestamp': (63.64, 64.74), 'text': ' Ela está fora.'}
+{'timestamp': (64.74, 64.94), 'text': ' Ela está fora.'}
+{'timestamp': (76.7, 77.2), 'text': ' Não, está fora. Vou transcriber para ela, 4706.'}
+{'timestamp': (95.88, 96.02), 'text': ' Obrigada. Bom dia, Ana Carla.'}
+{'timestamp': (97.58, 97.62), 'text': ' Beatriz da TOTS falando. Tudo bem?'}
+{'timestamp': (98.7, 99.62), 'text': ' Tudo bem, Beatriz. Tudo bem, você?'}
+{'timestamp': (100.64, 102.3), 'text': ' Tudo bem, obrigada. A senhora, Ana Carla, a senhora seria responsável'}
+{'timestamp': (102.3, 104.4), 'text': ' pela área e utiliza o sistema TOTS, né?'}
+{'timestamp': (104.5, 105.54), 'text': ' Na empresa? Isso.'}
+{'timestamp': (105.74, 108.14), 'text': ' Condomínio do Brasil 21, né?'}
+{'timestamp': (108.84, 110.1), 'text': ' Tá. Meu contato é'}
+{'timestamp': (110.1, 111.98), 'text': ' bem rápido, senhora Ana. Eu preciso'}
+{'timestamp': (111.98, 113.86), 'text': ' fazer um acompanhamento só pra saber como'}
+{'timestamp': (113.86, 116.04), 'text': ' tá aí a experiência e a satisfação de vocês.'}
+{'timestamp': (116.62, 118.0), 'text': ' Esse acompanhamento, ele é feito'}
+{'timestamp': (118.0, 125.78), 'text': ' pelo método de NPS, então a senhora avalia somente de 0 a 10 da marca TOTS, são os pontos específicos que eu preciso perguntar. Dura dois minutinhos, tá bom?'}
+{'timestamp': (126.52, 127.7), 'text': ' Só confirmando, então,'}
+{'timestamp': (127.78, 133.32), 'text': ' CNPJ é o 07-354-754-99, ok?'}
+{'timestamp': (134.02, 136.94), 'text': ' Então, na verdade, é o do bloco C?'}
+{'timestamp': (138.04, 141.62), 'text': ' Isso, esse eu estou falando em relação ao bloco C do Brasil 21, tá?'}
+{'timestamp': (141.9, 146.04), 'text': ' Tá, é porque aqui eu cuido com alguns outros NPJs.'}
+{'timestamp': (146.04, 147.0), 'text': ' Esse é um que eu não mexo.'}
+{'timestamp': (148.24, 150.04), 'text': ' Ah, entendi. Mas a senhora utiliza o sistema?'}
+{'timestamp': (150.16, 150.56), 'text': ' Utilizo.'}
+{'timestamp': (151.46, 153.34), 'text': ' Tá, não tem problema. Tá bom.'}
+{'timestamp': (154.26, 155.94), 'text': ' O e-mail que eu tenho aqui'}
+{'timestamp': (155.94, 157.4), 'text': ' só pra confirmar, Dara, é o'}
+{'timestamp': (157.4, 160.9), 'text': ' dpbr.complexobrasil21.com.br'}
+{'timestamp': (160.9, 161.88), 'text': ' Seria a senhora também?'}
+{'timestamp': (162.06, 162.46), 'text': ' Não.'}
+{'timestamp': (165.48, 166.26), 'text': ' Seria a senhora também? Não. Ou seria da senhora? Não.'}
+{'timestamp': (168.04, 168.36), 'text': ' O meu é Ana Carla. Ana Carla.'}
+{'timestamp': (168.84, 170.44), 'text': ' .pereira.'}
+{'timestamp': (170.44, 170.52), 'text': ' .pereira.'}
+{'timestamp': (170.52, 170.56), 'text': ' .pereira.'}
+{'timestamp': (170.56, 170.58), 'text': ' .pereira.'}
+{'timestamp': (170.58, 170.64), 'text': ' .pereira.'}
+{'timestamp': (170.64, 170.66), 'text': ' .pereira.'}
+{'timestamp': (170.66, 170.68), 'text': ' .pereira.'}
+{'timestamp': (170.68, 170.7), 'text': ' .pereira.'}
+{'timestamp': (170.7, 170.76), 'text': ' .pereira.'}
+{'timestamp': (170.76, 170.78), 'text': ' .pereira.'}
+{'timestamp': (170.78, 171.16), 'text': ' .pereira.'}
+{'timestamp': (171.16, 185.94), 'text': ' .pereira. .p Numa escala de 0 a 10, a senhora Ana, qual a probabilidade da senhora recomendar a TOTOS ao amigo ou colega'}
+{'timestamp': (185.94, 186.7), 'text': ' hoje? 10.'}
+{'timestamp': (188.0, 189.84), 'text': ' Tem algum comentário que a senhora gostaria de deixar'}
+{'timestamp': (189.84, 190.56), 'text': ' sobre a nota?'}
+{'timestamp': (191.9, 193.88), 'text': ' O sistema é muito completo, muito bom.'}
+{'timestamp': (194.02, 194.52), 'text': ' Eu gosto dele.'}
+{'timestamp': (195.8, 197.42), 'text': ' O sistema é muito completo, tá.'}
+{'timestamp': (198.04, 199.16), 'text': ' Algo mais? Não.'}
+{'timestamp': (201.0, 202.12), 'text': ' Tá. Pra gente aprofundar'}
+{'timestamp': (202.12, 208.16), 'text': ' um pouquinho mais na melhoria, agora eu vou falar alguns pontos específicos e peço que a Sara avalie também somente de 0 a 10 casos que tenha contato.'}
+{'timestamp': (208.3, 210.08), 'text': ' Se não tiver, não precisa avaliar, tá bom?'}
+{'timestamp': (210.92, 216.54), 'text': ' Falando do suporte técnico, como a Sara avalia a agilidade quando vocês precisam de um atendimento do suporte?'}
+{'timestamp': (221.06, 221.96), 'text': ' Desculpa, como é que é o nome?'}
+{'timestamp': (223.32, 223.72), 'text': ' Beatriz.'}
+{'timestamp': (224.9, 225.88), 'text': ' Beatriz, seis'}
+{'timestamp': (225.88, 228.02), 'text': ' Seis, tá'}
+{'timestamp': (228.02, 230.44), 'text': ' E o atendimento do agente do suporte'}
+{'timestamp': (230.44, 232.92), 'text': ' Os analistas em geral que lidam com vocês'}
+{'timestamp': (232.92, 235.3), 'text': ' A gente tem uma pessoa específica aqui só, né'}
+{'timestamp': (235.3, 237.06), 'text': ' Eu continuo no seis'}
+{'timestamp': (237.06, 239.32), 'text': ' É difícil nosso contato'}
+{'timestamp': (239.32, 241.22), 'text': ' Tá bom'}
+{'timestamp': (241.22, 243.76), 'text': ' Falando em relação ao atendimento do comercial'}
+{'timestamp': (243.76, 245.86), 'text': ' Referente ao executivo de vendas, né?'}
+{'timestamp': (247.32, 248.8), 'text': ' Esse eu não tenho contato.'}
+{'timestamp': (249.96, 254.6), 'text': ' Não, tudo bem. Custo e valor dos produtos contratados, a senhora tem contato?'}
+{'timestamp': (256.24, 260.72), 'text': ' Atendimento do administradinho financeiro referente a boletos e negociações caso precisem?'}
+{'timestamp': (261.54, 262.46), 'text': ' Também não mexo.'}
+{'timestamp': (264.28, 266.04), 'text': ' Satisfação com a implantação do'}
+{'timestamp': (266.04, 267.92), 'text': ' software. A senhora estava quando o sistema foi'}
+{'timestamp': (267.92, 269.74), 'text': ' implantado ou não? Não, estava não.'}
+{'timestamp': (270.88, 271.94), 'text': ' Hoje o sistema'}
+{'timestamp': (271.94, 273.92), 'text': ' entrega o benefício que vocês precisam?'}
+{'timestamp': (274.0, 276.2), 'text': ' Entrega totalmente, parcialmente ou não entrega?'}
+{'timestamp': (278.2, 279.46), 'text': ' Entrega totalmente.'}
+{'timestamp': (281.04, 281.96), 'text': ' Como foi a'}
+{'timestamp': (281.96, 284.06), 'text': ' experiência da senhora com a atualização'}
+{'timestamp': (284.06, 285.06), 'text': ' do software? Vocês já atualizaram? A senhora com a atualização do software?'}
+{'timestamp': (286.1, 286.2), 'text': ' Vocês já atualizaram?'}
+{'timestamp': (288.36, 290.9), 'text': ' A senhora, como usuária final, sente alguma diferença?'}
+{'timestamp': (291.24, 292.58), 'text': ' Não.'}
+{'timestamp': (295.16, 297.24), 'text': ' Não, na atualização não é a gente que faz aqui.'}
+{'timestamp': (300.8, 300.96), 'text': ' Mas a senhora, como usuária final, tem ciência que foi atualizada? Sim, sim.'}
+{'timestamp': (300.96, 301.84), 'text': ' Sente alguma diferença?'}
+{'timestamp': (302.84, 304.86), 'text': ' Então, a senhora consegue avaliar de 0 a 10?'}
+{'timestamp': (307.94, 308.38), 'text': ' 9?'}
+{'timestamp': (309.62, 310.34), 'text': ' 9, tá.'}
+{'timestamp': (310.96, 313.42), 'text': ' Para finalizar, peço que a senhora avalie de 0 a 10'}
+{'timestamp': (313.42, 316.16), 'text': ' o atendimento realizado pela TOTUS Unidade de Brasília,'}
+{'timestamp': (316.26, 317.7), 'text': ' responsável por vocês.'}
+{'timestamp': (319.86, 321.1), 'text': ' O atendimento deles.'}
+{'timestamp': (321.74, 322.18), 'text': ' 7.'}
+{'timestamp': (323.9, 325.28), 'text': ' São essas as perguntas.'}
+{'timestamp': (325.38, 327.24), 'text': ' Será que tem algum comentário final para a Ana?'}
+{'timestamp': (328.46, 329.24), 'text': ' Tá bom.'}
+{'timestamp': (329.32, 331.7), 'text': ' Esse acompanhamento ocorre a cada seis meses.'}
+{'timestamp': (332.38, 333.3), 'text': ' Passando o período,'}
+{'timestamp': (333.46, 335.68), 'text': ' retornamos o contato. Será que tem alguma dúvida?'}
+{'timestamp': (335.8, 336.72), 'text': ' Algum comentário final?'}
+{'timestamp': (336.88, 337.58), 'text': ' Não, obrigada.'}
+{'timestamp': (339.54, 341.62), 'text': ' Teria alguma empresa que gostaria de indicar'}
+{'timestamp': (341.62, 342.14), 'text': ' para a gente?'}
+{'timestamp': (343.78, 344.82), 'text': ' No momento, não.'}
+{'timestamp': (344.82, 345.94), 'text': ' Não recordo.'}
+{'timestamp': (347.36, 348.1), 'text': ' Tudo bem.'}
+{'timestamp': (348.24, 350.14), 'text': ' Então, eu agradeço que a senhora tenha um ótimo dia'}
+{'timestamp': (350.14, 351.84), 'text': ' e bom trabalho, senhora Ana. Tchau, tchau.'}
+{'timestamp': (352.18, 352.66), 'text': ' Obrigada.'}

@@ -1,0 +1,39 @@
+{'timestamp': (0.0, 7.64), 'text': ' Bom dia, meu nome é Lilian, eu falo da TOTOS. Eu gostaria de falar com alguém responsável pelo sistema, ou Larissa?'}
+{'timestamp': (8.98, 10.86), 'text': ' Sim, só um minutinho. Qual que é teu nome?'}
+{'timestamp': (11.38, 39.2), 'text': ' Lilian, da TOTOS. Desculpa, sobre o que você precisa falar?'}
+{'timestamp': (39.76, 40.68), 'text': ' É uma avaliação.'}
+{'timestamp': (41.82, 43.36), 'text': ' A avaliação do que seria?'}
+{'timestamp': (43.82, 45.38), 'text': ' Do sistema do Proteus.'}
+{'timestamp': (47.78, 49.82), 'text': ' Tu não consegue mandar por e-mail, talvez?'}
+{'timestamp': (51.14, 52.02), 'text': ' Eu tento,'}
+{'timestamp': (52.08, 54.26), 'text': ' mas só que ela é a responsável mesmo?'}
+{'timestamp': (55.2, 56.2), 'text': ' Para qual e-mail'}
+{'timestamp': (56.2, 57.16), 'text': ' que tu encaminha?'}
+{'timestamp': (57.52, 58.84), 'text': ' Larissa.copate.'}
+{'timestamp': (59.44, 61.04), 'text': ' Sim, é que como a gente'}
+{'timestamp': (61.04, 62.7), 'text': ' não usa mais o sistema,'}
+{'timestamp': (63.4, 64.7), 'text': ' acredito que ela não'}
+{'timestamp': (64.7, 66.64), 'text': ' acabou não vendo o e-mail.'}
+{'timestamp': (66.8, 68.18), 'text': ' Tu quer mandar para outro, talvez?'}
+{'timestamp': (71.08, 74.12), 'text': ' Não usa mais o sistema, mas o sistema está ativo aqui no cadastro.'}
+{'timestamp': (75.42, 79.82), 'text': ' Deixa eu verificar, porque a gente está com outro sistema agora, a gente não usa mais esse.'}
+{'timestamp': (79.82, 84.82), 'text': ' Tem alguns módulos apenas no Proteus, do financeiro e compras.'}
+{'timestamp': (85.26, 86.46), 'text': ' Sim, deixa eu verificar só um minutinho. Tem alguns módulos apenas no Proteus, do financeiro e compras.'}
+{'timestamp': (88.48, 89.04), 'text': ' Sim, deixa eu verificar só um minutinho.'}
+{'timestamp': (89.34, 108.52), 'text': ' Ok. Oi.'}
+{'timestamp': (109.12, 109.56), 'text': ' Oi.'}
+{'timestamp': (109.92, 110.32), 'text': ' É quem?'}
+{'timestamp': (111.12, 112.5), 'text': ' É Lília da TOTS com quem eu falo?'}
+{'timestamp': (112.76, 114.32), 'text': ' É Larissa, Lílian. Tudo bem?'}
+{'timestamp': (114.46, 115.46), 'text': ' Tudo bem. E você?'}
+{'timestamp': (115.9, 120.34), 'text': ' Tudo. Olha só, a gente não trabalha mais com o software da TOTS.'}
+{'timestamp': (120.34, 127.94), 'text': ' Nós apenas temos a licença para consultar o que a gente já havia colocado nele.'}
+{'timestamp': (128.44, 131.38), 'text': ' Ah, tá. Então só está ativo por causa disso.'}
+{'timestamp': (131.68, 133.0), 'text': ' Dei consulta.'}
+{'timestamp': (133.26, 134.06), 'text': ' Ah, entendi.'}
+{'timestamp': (134.24, 138.7), 'text': ' Nós não temos mais acesso ao software para fora isso.'}
+{'timestamp': (139.4, 141.66), 'text': ' Ah, então tá bom. Então vou dar baixa aqui, Larissa.'}
+{'timestamp': (141.76, 143.38), 'text': ' A senhora é responsável do ADM, né?'}
+{'timestamp': (143.78, 144.34), 'text': ' Isso.'}
+{'timestamp': (144.58, 146.24), 'text': ' Tá bom. Obrigada pela atenção.'}
+{'timestamp': (146.28, 147.34), 'text': ' Mais vinda. Tchau.'}

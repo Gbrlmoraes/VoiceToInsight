@@ -1,0 +1,22 @@
+{'timestamp': (0.56, 6.54), 'text': ' Você ligou para a Simbiose, a maior fábrica de produtos microbiológicos do Brasil.'}
+{'timestamp': (8.92, 13.82), 'text': ' Para falar com o setor de Marketing, tecle 2.'}
+{'timestamp': (14.58, 17.92), 'text': ' Para falar com o setor de Faturamento, tecle 3.'}
+{'timestamp': (18.78, 23.44), 'text': ' Para falar com o setor de Compras, tecle 5.'}
+{'timestamp': (24.32, 28.68), 'text': ' Para falar com o Departamento Pessoal ou Recursos compras, tecle 5. Para falar com o departamento pessoal ou recursos humanos, tecle 6.'}
+{'timestamp': (29.04, 30.98), 'text': ' Mente as opções, tecle 9.'}
+{'timestamp': (44.16, 47.14), 'text': ' Para falar com a recepção, tecle 1.'}
+{'timestamp': (47.6, 52.96), 'text': ' Para falar com o setor de marketing, a Simbiose busca a matéria-prima para o...'}
+{'timestamp': (52.96, 54.26), 'text': ' Simbiose, bom dia.'}
+{'timestamp': (54.66, 56.32), 'text': ' Do telefone, aqui é a Simbiose.'}
+{'timestamp': (56.34, 59.26), 'text': ' Bom dia, eu estou ligando para a empresa Bioma Indústria.'}
+{'timestamp': (59.76, 61.52), 'text': ' É o DG4627.'}
+{'timestamp': (63.96, 65.56), 'text': ' Ah, é outro telefone.'}
+{'timestamp': (65.86, 67.54), 'text': ' Você sabe dizer qual é o telefone de lá?'}
+{'timestamp': (71.3, 73.02), 'text': ' 41, é que a ligação está cortando.'}
+{'timestamp': (73.24, 73.72), 'text': ' 41.'}
+{'timestamp': (76.92, 77.4), 'text': ' Certo.'}
+{'timestamp': (81.22, 81.66), 'text': ' 3627.'}
+{'timestamp': (84.24, 84.68), 'text': ' 9071.'}
+{'timestamp': (85.38, 85.98), 'text': ' 71. Está bem, 71. 71.'}
+{'timestamp': (86.38, 87.64), 'text': ' Muito obrigada.'}
+{'timestamp': (87.74, 88.54), 'text': ' Tenha um ótimo dia.'}

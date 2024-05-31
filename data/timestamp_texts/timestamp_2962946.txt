@@ -1,0 +1,41 @@
+{'timestamp': (0.0, 6.54), 'text': ' Bom dia, meu nome é Viviane, eu falo aqui da Tots Matriz, tudo bem?'}
+{'timestamp': (7.1, 8.22), 'text': ' Tudo bem, pois não?'}
+{'timestamp': (8.5, 11.84), 'text': ' Eu gostaria, por favor, de falar com o Lucas Alessandre, do TI.'}
+{'timestamp': (12.5, 81.0), 'text': ' Só um momento. E aí Alô?'}
+{'timestamp': (81.62, 82.66), 'text': ' Oi, pode falar.'}
+{'timestamp': (82.72, 85.26), 'text': ' Não está atendendo, ele não deve estar na sala.'}
+{'timestamp': (85.34, 86.68), 'text': ' A senhora quer deixar um recado?'}
+{'timestamp': (87.38, 91.0), 'text': ' Eu consigo falar com ele ainda agora pela manhã ou somente depois do almoço?'}
+{'timestamp': (91.46, 94.52), 'text': ' Menina, o problema é que ele quase não fica na sala.'}
+{'timestamp': (95.08, 97.92), 'text': ' É de onde mesmo?'}
+{'timestamp': (98.6, 99.6), 'text': ' É da TOTOS.'}
+{'timestamp': (100.1, 100.62), 'text': ' TOTOS.'}
+{'timestamp': (101.36, 102.22), 'text': ' Qual o seu nome?'}
+{'timestamp': (102.76, 103.76), 'text': ' Meu nome é Viviane.'}
+{'timestamp': (103.76, 106.24), 'text': ' Eu posso anotar esse número?'}
+{'timestamp': (107.46, 108.38), 'text': ' 3122'}
+{'timestamp': (108.38, 109.52), 'text': ' 9600.'}
+{'timestamp': (110.68, 112.08), 'text': ' Esse telefone, ele não vai'}
+{'timestamp': (112.08, 113.94), 'text': ' conseguir contato comigo porque a gente fala'}
+{'timestamp': (113.94, 116.04), 'text': ' da área da experiência do cliente da'}
+{'timestamp': (116.04, 116.72), 'text': ' Totos.'}
+{'timestamp': (117.4, 118.12), 'text': ' Ah, tá.'}
+{'timestamp': (119.02, 120.3), 'text': ' É, a senhora...'}
+{'timestamp': (120.3, 122.16), 'text': ' Porque ele não tem horário certo'}
+{'timestamp': (122.16, 124.2), 'text': ' para estar na sala. Isso que é o problema.'}
+{'timestamp': (124.74, 126.36), 'text': ' Eu não tenho como saber'}
+{'timestamp': (126.36, 128.36), 'text': ' se a senhora quiser sentar depois'}
+{'timestamp': (128.36, 130.3), 'text': ' então, ou então deixar um telefone'}
+{'timestamp': (130.3, 132.06), 'text': ' que eu peço pra ele retornar'}
+{'timestamp': (132.06, 134.02), 'text': ' é, como eu lhe informei, é que ele não vai conseguir'}
+{'timestamp': (134.02, 136.08), 'text': ' contato comigo, mas eu retorno contato'}
+{'timestamp': (136.08, 137.62), 'text': ' com ele então mais tarde, tá bom?'}
+{'timestamp': (137.72, 139.86), 'text': ' tá bom, senhora Viviane da Totos'}
+{'timestamp': (139.86, 140.28), 'text': ' eu vou'}
+{'timestamp': (140.28, 145.0), 'text': ' mandar uma mensagem pra ele, tá bom?'}
+{'timestamp': (146.52, 146.68), 'text': ' Tá bom então, obrigada, viu?'}
+{'timestamp': (147.94, 148.2), 'text': ' Obrigada, boa tarde.'}
+{'timestamp': (148.78, 149.08), 'text': ' Boa tarde. Boa tarde, né?'}
+{'timestamp': (149.6, 150.24), 'text': ' Bom dia.'}
+{'timestamp': (150.28, 150.8), 'text': ' Bom dia.'}
+{'timestamp': (151.2, 152.1), 'text': ' Bom dia.'}

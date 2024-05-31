@@ -1,0 +1,30 @@
+{'timestamp': (0.7, 4.72), 'text': ' Bom dia, meu nome é Beatriz, falo da TOTS, falo do Sr. Gabriel Lopes?'}
+{'timestamp': (6.0, 8.98), 'text': ' Não, mas eu posso estar trazendo a ligação para ele, só um instante.'}
+{'timestamp': (9.1, 9.96), 'text': ' Tá bom, obrigada.'}
+{'timestamp': (10.4, 11.7), 'text': ' De onde que é mesmo que você falou?'}
+{'timestamp': (12.22, 12.96), 'text': ' Da TOTS.'}
+{'timestamp': (13.92, 14.74), 'text': ' TOTS, tá bom.'}
+{'timestamp': (15.66, 35.24), 'text': ' Obrigada. Técnica.'}
+{'timestamp': (36.06, 37.64), 'text': ' Bom dia, fala com o Sr. Gabriel.'}
+{'timestamp': (37.98, 38.48), 'text': ' Isso.'}
+{'timestamp': (39.34, 41.82), 'text': ' Sr. Gabriel, me chamo Beatriz, falo da TOTS, tudo bem?'}
+{'timestamp': (42.4, 44.18), 'text': ' Tudo bem, Beatriz. Posso te ajudar?'}
+{'timestamp': (44.18, 44.46), 'text': ' Bom.'}
+{'timestamp': (45.1, 48.8), 'text': ' Sr. Gabriel, o senhor seria ainda um dos responsáveis pelo sistema na técnica e engenharia?'}
+{'timestamp': (50.66, 53.14), 'text': ' Não, não está mais atualmente comigo.'}
+{'timestamp': (53.4, 55.28), 'text': ' Sobre o que seria? Talvez eu possa ajudar?'}
+{'timestamp': (56.28, 59.68), 'text': ' Eu preciso fazer um acompanhamento rápido, porém importante, Sr. Gabriel,'}
+{'timestamp': (59.8, 62.14), 'text': ' só para saber como está a experiência e a satisfação de vocês.'}
+{'timestamp': (66.0, 66.22), 'text': ' O senhor seria do faturamento e utiliza o sistema ainda? Ah, sim.'}
+{'timestamp': (68.06, 69.96), 'text': ' Então, a gente está deixando o sistema.'}
+{'timestamp': (70.52, 71.92), 'text': ' A gente está encerrando o contrato.'}
+{'timestamp': (73.04, 74.0), 'text': ' Ah, entendi. Então,'}
+{'timestamp': (74.1, 75.2), 'text': ' vocês não utilizam mais?'}
+{'timestamp': (75.92, 78.12), 'text': ' Não, não. Desde fevereiro a gente'}
+{'timestamp': (78.12, 80.0), 'text': ' parou de utilizar. Atualmente a gente'}
+{'timestamp': (80.0, 81.98), 'text': ' está utilizando mesmo só para consulta'}
+{'timestamp': (81.98, 86.1), 'text': ' dos que já estão feitos, mas a gente encerrou'}
+{'timestamp': (86.1, 87.28), 'text': ' o contrato com a Antótese.'}
+{'timestamp': (88.24, 90.36), 'text': ' Ah, então tá bom, Sr. Gabriel. Eu agradeço.'}
+{'timestamp': (90.46, 90.7), 'text': ' Até mais.'}
+{'timestamp': (91.12, 92.56), 'text': ' Até mais.'}

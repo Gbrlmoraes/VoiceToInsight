@@ -1,0 +1,235 @@
+{'timestamp': (0.0, 1.54), 'text': ' Alô'}
+{'timestamp': (1.54, 4.38), 'text': ' Fala com o Sr. Pedro Rogério'}
+{'timestamp': (4.38, 5.28), 'text': ' Isso'}
+{'timestamp': (5.28, 8.38), 'text': ' Sr. Pedro, me chamo Beatriz, falo da TOTS, tudo bem?'}
+{'timestamp': (8.98, 10.18), 'text': ' Oi Beatriz, tudo bem'}
+{'timestamp': (10.18, 12.28), 'text': ' Que bom, Sr. Pedro, o Sr. seria ainda'}
+{'timestamp': (12.28, 14.08), 'text': ' responsável pelo sistema na Núcleo Y'}
+{'timestamp': (14.08, 15.46), 'text': ' participações da LTDA?'}
+{'timestamp': (15.46, 17.34), 'text': ' Sim, sou eu, sou eu, responsável'}
+{'timestamp': (17.34, 19.64), 'text': ' Sr. Pedro, bem rápido o meu contato'}
+{'timestamp': (19.64, 21.44), 'text': ' tá, eu falo da parte da experiência do'}
+{'timestamp': (21.44, 25.18), 'text': ' cliente e eu gostaria de saber como está a percepção,'}
+{'timestamp': (25.32, 26.26), 'text': ' acompanhar um pouquinho a experiência.'}
+{'timestamp': (26.54, 26.98), 'text': ' Péssimo.'}
+{'timestamp': (27.94, 28.98), 'text': ' Entendi, Sr. Pedro.'}
+{'timestamp': (29.12, 29.86), 'text': ' Esse acompanhamento...'}
+{'timestamp': (29.86, 31.78), 'text': ' Eu já fiz várias vezes essa pesquisa.'}
+{'timestamp': (32.04, 33.48), 'text': ' Esse ano eu tive muito problema.'}
+{'timestamp': (34.16, 36.56), 'text': ' Pode colocar a menor nota em todos os aspectos.'}
+{'timestamp': (36.66, 39.26), 'text': ' Atendimento, relacionamento, cloud, visão.'}
+{'timestamp': (39.36, 40.96), 'text': ' A única coisa que é bem feita é a pesquisa.'}
+{'timestamp': (46.24, 46.3), 'text': ' Essa você pode pôr uma nota boa. Entendi. Eu preciso formalizar, tá, Sr. Pedro?'}
+{'timestamp': (47.14, 48.48), 'text': ' Claro, vamos lá.'}
+{'timestamp': (49.76, 49.82), 'text': ' Só confirmando, então,'}
+{'timestamp': (52.0, 52.1), 'text': ' CNPJ até o 21, 183,'}
+{'timestamp': (54.0, 54.26), 'text': ' 718 mil contra 30, tá?'}
+{'timestamp': (54.82, 55.7), 'text': ' Muito mesmo.'}
+{'timestamp': (58.1, 59.06), 'text': ' O e-mail do Sr. continua pedro.sampaio arroba central'}
+{'timestamp': (59.06, 61.86), 'text': ' oep.com.br'}
+{'timestamp': (61.86, 63.7), 'text': ' Isso, obrigada pela confirmação.'}
+{'timestamp': (66.88, 66.96), 'text': ' Sr. Pedro, então, iniciando numa escala de 0 a 10,'}
+{'timestamp': (69.34, 69.6), 'text': ' qual a probabilidade do senhor recomendar a TOTUS?'}
+{'timestamp': (70.0, 71.36), 'text': ' Zero.'}
+{'timestamp': (73.8, 74.1), 'text': ' Tem algum comentário que gostaria de deixar?'}
+{'timestamp': (77.94, 81.5), 'text': ' A TOTUS tem um péssimo relacionamento com o cliente. Ela não entende o cliente, ela não atende bem o cliente.'}
+{'timestamp': (81.66, 84.14), 'text': ' Ela tem um comercial muito bom, ela vende muito bem,'}
+{'timestamp': (86.72, 86.88), 'text': ' mas após o contrato dela, é horrível.'}
+{'timestamp': (87.6, 88.02), 'text': ' É péssimo.'}
+{'timestamp': (90.58, 90.7), 'text': ' A empresa não entende que existe cliente de menor porte.'}
+{'timestamp': (93.44, 94.06), 'text': ' Não entende como que funcionam as estruturas dos seus clientes.'}
+{'timestamp': (95.38, 97.38), 'text': ' Ela trata como se fosse um produto... Ela vende um produto que não é de prateleira,'}
+{'timestamp': (97.46, 99.22), 'text': ' mas, porém, ela tem um produto de prateleira.'}
+{'timestamp': (105.56, 107.14), 'text': ' Não tem que vir de menor esporte, né? Isso. Menor esporte, eu falo que é uma empresa que patroa 60 milhões por ano.'}
+{'timestamp': (107.28, 108.84), 'text': ' Então, quer dizer, não é nem tão menor assim, né?'}
+{'timestamp': (108.92, 110.4), 'text': ' Mas, enfim, né?'}
+{'timestamp': (110.94, 112.74), 'text': ' Eu fico imaginando colégios menores,'}
+{'timestamp': (112.86, 115.1), 'text': ' colégios que têm estruturas menores,'}
+{'timestamp': (115.22, 116.24), 'text': ' que têm...'}
+{'timestamp': (116.24, 118.3), 'text': ' Alô?'}
+{'timestamp': (119.14, 120.04), 'text': ' Não, eu fico...'}
+{'timestamp': (120.04, 122.28), 'text': ' Nosso grupo é um grupo até razoavelmente grande.'}
+{'timestamp': (127.58, 129.22), 'text': ' Então, faturamento de 60 a 70 milhões por ano. Eu fico imaginando, não, porque até conheço colégios menores que tem um top.'}
+{'timestamp': (129.22, 131.04), 'text': ' Dá até uma vergonha.'}
+{'timestamp': (131.16, 132.48), 'text': ' Os caras não conseguem trabalhar com isso.'}
+{'timestamp': (132.5, 134.06), 'text': ' O senhor pode repetir, por gentileza?'}
+{'timestamp': (139.22, 140.38), 'text': ' Cloud péssimo.'}
+{'timestamp': (140.64, 142.16), 'text': ' A infraestrutura da Cloud é péssima.'}
+{'timestamp': (142.6, 144.46), 'text': ' O time de Cloud é péssimo.'}
+{'timestamp': (145.38, 145.48), 'text': ' Ele é muito fraco,'}
+{'timestamp': (147.62, 147.68), 'text': ' não tem conhecimento técnico, não ouve o cliente,'}
+{'timestamp': (148.92, 149.4), 'text': ' não fala com o cliente.'}
+{'timestamp': (150.8, 150.9), 'text': ' Eu já tive problemas de perda de dados,'}
+{'timestamp': (153.04, 153.08), 'text': ' eu já tive queda do sistema aqui,'}
+{'timestamp': (154.66, 155.78), 'text': ' que demorou horas para voltar.'}
+{'timestamp': (158.08, 158.18), 'text': ' Já abri chamadas para soluções simples,'}
+{'timestamp': (161.38, 166.12), 'text': ' que se transformaram em extremamente complexas. Todos os meus chamados, eu tenho que abrir um chamado no cloud e tenho que abrir um chamado na ouvidoria, porque senão não é'}
+{'timestamp': (166.12, 167.22), 'text': ' atendido de forma correta.'}
+{'timestamp': (171.56, 172.28), 'text': ' Principalmente o nível'}
+{'timestamp': (172.28, 173.9), 'text': ' técnico é muito baixo.'}
+{'timestamp': (174.66, 175.42), 'text': ' É muito fraco.'}
+{'timestamp': (184.56, 185.0), 'text': ' Sim.'}
+{'timestamp': (185.52, 186.72), 'text': ' Não sei se é o primeiro nível, né?'}
+{'timestamp': (186.76, 188.7), 'text': ' Talvez é porque a gente se relaciona sempre no primeiro nível.'}
+{'timestamp': (189.36, 190.4), 'text': ' Mas é muito baixo.'}
+{'timestamp': (193.54, 194.02), 'text': ' Não.'}
+{'timestamp': (195.6, 197.48), 'text': ' Não é o atendido.'}
+{'timestamp': (197.58, 198.98), 'text': ' É o RM educacional.'}
+{'timestamp': (199.34, 199.9), 'text': ' É muito baixo, né?'}
+{'timestamp': (200.28, 200.76), 'text': ' Financeiro.'}
+{'timestamp': (202.1, 204.36), 'text': ' É educacional e financeiro completo.'}
+{'timestamp': (206.46, 207.24), 'text': ' Eu não uso.'}
+{'timestamp': (207.58, 209.14), 'text': ' RH, pouquíssima coisa.'}
+{'timestamp': (209.28, 210.14), 'text': ' Alguma coisinha ou outra.'}
+{'timestamp': (210.88, 212.2), 'text': ' Mas, no modo geral, é isso.'}
+{'timestamp': (212.28, 213.18), 'text': ' Educacional e financeiro.'}
+{'timestamp': (213.18, 213.5), 'text': ' Seria?'}
+{'timestamp': (217.02, 217.58), 'text': ' Isso.'}
+{'timestamp': (221.12, 221.68), 'text': ' Tá.'}
+{'timestamp': (222.62, 232.68), 'text': ' Vamos lá. O R educacional, né?'}
+{'timestamp': (233.06, 236.46), 'text': ' Não, eu acho que o maior ponto é a questão de relacionamento.'}
+{'timestamp': (236.72, 239.06), 'text': ' A TOTS tem um péssimo relacionamento com o cliente,'}
+{'timestamp': (239.2, 240.14), 'text': ' pós-contrato, né?'}
+{'timestamp': (241.36, 244.0), 'text': ' Os ARs da TOTS, todos, todos,'}
+{'timestamp': (244.0, 248.84), 'text': ' as empresas fazem um relacionamento que vendem as licenças.'}
+{'timestamp': (249.34, 251.86), 'text': ' As questões de consultoria, a TOTS tinha que ser mais clara'}
+{'timestamp': (251.86, 255.06), 'text': ' nas indicações, ela tinha que ter uma responsabilidade'}
+{'timestamp': (255.06, 257.9), 'text': ' com a consultoria homologada, ela não tem.'}
+{'timestamp': (258.6, 262.04), 'text': ' Então, a gente tem que ficar sempre à merce de mão de obra,'}
+{'timestamp': (262.12, 266.14), 'text': ' nem sempre tão bem qualificada, tão bem não treinada, e a TOTS não consegue também'}
+{'timestamp': (266.14, 267.34), 'text': ' fornecer esse tipo de coisa.'}
+{'timestamp': (267.98, 270.0), 'text': ' Porque, veja,'}
+{'timestamp': (270.18, 272.2), 'text': ' eu tenho uma consultoria que trabalha comigo,'}
+{'timestamp': (272.32, 274.06), 'text': ' aí eu falo assim, não, minha consultoria tá me dando problema.'}
+{'timestamp': (274.14, 276.06), 'text': ' Eu vou lá na TOTS e falo, TOTS, preciso de uma'}
+{'timestamp': (276.06, 277.94), 'text': ' consultoria pra resolver um problema.'}
+{'timestamp': (278.46, 286.28), 'text': ' Aí a TOTS vai lá e me manda um técnico aqui que ele já veio aqui por outra consultoria. Já aconteceu inúmeras vezes aqui.'}
+{'timestamp': (286.44, 287.72), 'text': ' Chega a ser até...'}
+{'timestamp': (287.72, 290.8), 'text': ' E ainda me cobra três vezes mais do que a consultoria estava me cobrando aqui.'}
+{'timestamp': (291.44, 292.38), 'text': ' E manda o mesmo técnico.'}
+{'timestamp': (292.9, 294.86), 'text': ' Eu já tive casos do cara chegar e eu falar,'}
+{'timestamp': (294.96, 295.72), 'text': ' não, pode voltar.'}
+{'timestamp': (296.58, 298.78), 'text': ' Eu estou contratando uma consultoria porque não resolveu'}
+{'timestamp': (298.78, 301.74), 'text': ' e a TOTS mandou você pela consultoria que eu falei que não resolveu?'}
+{'timestamp': (307.04, 307.96), 'text': ' Esse conce consultoria que eu falei que não resolveu esse conceito de terceirização da TOT que ela faz'}
+{'timestamp': (307.96, 309.86), 'text': ' de parceria com as consultorias'}
+{'timestamp': (309.86, 312.06), 'text': ' como o mercado é muito pequeno'}
+{'timestamp': (312.06, 313.6), 'text': ' eu estou falando do mundo educacional'}
+{'timestamp': (313.6, 315.94), 'text': ' isso aqui é RM, Proteus é outra história'}
+{'timestamp': (315.94, 319.26), 'text': ' como o mercado é muito pequeno'}
+{'timestamp': (319.26, 328.74), 'text': ' você cai no meu lugar.'}
+{'timestamp': (330.5, 332.06), 'text': ' Não, eu acho que é... Acho que é por aí. Acho que é só isso.'}
+{'timestamp': (339.8, 340.58), 'text': ' Tá bom.'}
+{'timestamp': (342.18, 343.0), 'text': ' Tá bom.'}
+{'timestamp': (343.94, 344.74), 'text': ' Algo mais?'}
+{'timestamp': (344.9, 345.38), 'text': ' Zero.'}
+{'timestamp': (348.78, 351.04), 'text': ' Eles são simpáticos, eles são educados.'}
+{'timestamp': (351.18, 352.06), 'text': ' Isso é de sempre.'}
+{'timestamp': (352.34, 352.96), 'text': ' Então, põe cinco.'}
+{'timestamp': (352.96, 356.14), 'text': ' ... específicos e peço que o senhor avalie também somente zero da escala.'}
+{'timestamp': (356.68, 357.12), 'text': ' Tá?'}
+{'timestamp': (357.96, 358.48), 'text': ' Zero.'}
+{'timestamp': (358.48, 362.08), 'text': ' Falando de parte técnico, como o senhor avalia a agilidade nos processos do suporte?'}
+{'timestamp': (363.04, 371.5), 'text': ' Pensando em mercado, ele é um produto caro pensando na parte de mão de obra para isso,'}
+{'timestamp': (371.56, 374.02), 'text': ' mas em produto em si, sim, é médio.'}
+{'timestamp': (376.32, 378.58), 'text': ' Custo e valor dos produtos usados?'}
+{'timestamp': (379.48, 382.1), 'text': ' Esse eu precisava ir antes do zero.'}
+{'timestamp': (382.1, 389.34), 'text': ' Esse eu precisava ir antes do zero.'}
+{'timestamp': (392.02, 392.42), 'text': ' A nossa implantação é mais complexa.'}
+{'timestamp': (393.52, 395.54), 'text': ' Aí eu também não posso culpar 500 apostas, porque não foi a POTS que fez,'}
+{'timestamp': (395.68, 397.02), 'text': ' teve migrações, etc.'}
+{'timestamp': (397.78, 398.78), 'text': ' Eu vou deixar cinco.'}
+{'timestamp': (400.42, 400.98), 'text': ' Entendi.'}
+{'timestamp': (402.14, 404.38), 'text': ' Satisfação com a implantação do software?'}
+{'timestamp': (405.86, 406.66), 'text': ' Parcialmente.'}
+{'timestamp': (412.66, 414.6), 'text': ' Ana, o só...'}
+{'timestamp': (414.6, 418.32), 'text': ' Está falando de funcionalidade, de recursos, né?'}
+{'timestamp': (418.34, 420.0), 'text': ' Hoje o sistema entrega o benefício que a empresa precisa,'}
+{'timestamp': (420.12, 422.02), 'text': ' entrega totalmente, parcialmente ou não entrega?'}
+{'timestamp': (422.04, 425.48), 'text': ' É, está dentro do esperado, cinco.'}
+{'timestamp': (425.52, 427.38), 'text': ' A experiência do senhor com a atualização do software,'}
+{'timestamp': (427.5, 429.04), 'text': ' 010 também, caso tenha a conta.'}
+{'timestamp': (433.56, 434.0), 'text': ' Zero.'}
+{'timestamp': (435.62, 438.02), 'text': ' As atualizações, né, de uma forma em geral,'}
+{'timestamp': (438.1, 438.74), 'text': ' a experiência.'}
+{'timestamp': (439.1, 441.74), 'text': ' Tem, o atleta precisa melhorar o relacionamento urgente'}
+{'timestamp': (441.74, 443.96), 'text': ' com o cliente. A gente só não'}
+{'timestamp': (443.96, 444.88), 'text': ' sai da POTS,'}
+{'timestamp': (445.76, 448.28), 'text': ' eu faço parte de um grupo de escolas do estado de São Paulo.'}
+{'timestamp': (448.7, 451.78), 'text': ' A BEPAR é o maior grupo de escolas privadas do estado de São Paulo.'}
+{'timestamp': (452.14, 453.44), 'text': ' A gente está em 80 escolas.'}
+{'timestamp': (454.04, 455.5), 'text': ' A gente só não sai do TOTS porque não tem opção.'}
+{'timestamp': (455.78, 458.42), 'text': ' Se a TOTS um dia aparecer um sistema que tem o que o TOTS tem,'}
+{'timestamp': (465.66, 465.82), 'text': ' a TOTS perde 60% dos clientes de São Paulo. Por falta de opção. Não tem opção no mercado.'}
+{'timestamp': (467.8, 469.48), 'text': ' Então, assim, a TOTS, ela ganha porque ela tem um monopólio no mercado, não é porque ela é boa.'}
+{'timestamp': (469.7, 472.24), 'text': ' Ela não é uma escolha viável, ela é uma escolha'}
+{'timestamp': (472.24, 474.06), 'text': ' de falta de opção.'}
+{'timestamp': (476.66, 478.1), 'text': ' Entendeu? Porque a maioria das empresas'}
+{'timestamp': (478.1, 480.12), 'text': ' vende o sistema educacional, mas ainda tem o financeiro.'}
+{'timestamp': (480.22, 482.02), 'text': ' Aí outras vendem financeiro,'}
+{'timestamp': (486.22, 486.3), 'text': ' mas ainda tem um educacional legal. Outras vêm de app, aí o app não tem financeiro, não tem educação.'}
+{'timestamp': (490.92, 492.74), 'text': ' Então, a TOTS é a única que consegue ter alguma coisa, mais ou menos, de todas as áreas.'}
+{'timestamp': (493.1, 500.38), 'text': ' Entendi.'}
+{'timestamp': (501.0, 501.68), 'text': ' Eu acho que...'}
+{'timestamp': (506.5, 506.62), 'text': ' Eu respondi para três, na verdade, em férias, a uma vez. Eu saí no final do ano de férias.'}
+{'timestamp': (508.02, 509.14), 'text': ' Então, faz três meses que eu respondi.'}
+{'timestamp': (509.36, 511.0), 'text': ' Tá.'}
+{'timestamp': (512.22, 512.4), 'text': ' Esse acompanhamento,'}
+{'timestamp': (514.38, 516.2), 'text': ' senhor Pedro, ele ocorre num período de seis meses a um ano. Passando o período, vamos'}
+{'timestamp': (516.2, 518.06), 'text': ' retornar ao contato. Porém...'}
+{'timestamp': (518.06, 518.44), 'text': ' Tá bom.'}
+{'timestamp': (520.8, 522.4), 'text': ' É, a gente...'}
+{'timestamp': (522.4, 524.34), 'text': ' Oi? O que você falou?'}
+{'timestamp': (526.42, 527.94), 'text': ' Tá. Oi? O que você falou? Claro, claro'}
+{'timestamp': (527.94, 530.4), 'text': ' Eu tenho centenas'}
+{'timestamp': (530.4, 533.46), 'text': ' Eu passo de 10 em chamadas de ouvidoria'}
+{'timestamp': (533.46, 535.38), 'text': ' Em leios escalando'}
+{'timestamp': (535.38, 536.84), 'text': ' Reclamações diretas'}
+{'timestamp': (536.84, 538.82), 'text': ' Para diretores de alto nível no LinkedIn'}
+{'timestamp': (538.82, 541.74), 'text': ' Eu reclamo de todas as formas'}
+{'timestamp': (541.74, 542.44), 'text': ' Que eu posso'}
+{'timestamp': (542.44, 546.16), 'text': ' Eu já falei que todos os níveis que você pode imaginar.'}
+{'timestamp': (547.28, 548.68), 'text': ' E parece que eu acho que...'}
+{'timestamp': (548.68, 550.38), 'text': ' Aí também tem um lado que eu não sei.'}
+{'timestamp': (550.48, 551.94), 'text': ' Eu acho que a gente não tem muita sorte.'}
+{'timestamp': (552.34, 555.48), 'text': ' Acontece coisas comigo aqui no Núcleo Y'}
+{'timestamp': (555.48, 557.82), 'text': ' que não é muito comum ocorrer também.'}
+{'timestamp': (558.64, 560.08), 'text': ' Eu não sei se é de tanto reclamar'}
+{'timestamp': (560.08, 562.36), 'text': ' que acabou criando uma inimização.'}
+{'timestamp': (562.42, 563.36), 'text': ' Não sei o que ocorre,'}
+{'timestamp': (565.94, 568.08), 'text': ' mas ocorre coisas que é bem complexas. Eu acho que todos os analistas de São Paulo conhecem a Nucleus'}
+{'timestamp': (568.08, 569.92), 'text': ' quando liga lá, porque sempre que liga'}
+{'timestamp': (569.92, 571.98), 'text': ' é muita reclamação. Eu já ligo reclamando.'}
+{'timestamp': (572.8, 574.22), 'text': ' Porque o nível de atendimento'}
+{'timestamp': (574.22, 576.12), 'text': ' é muito ruim. É muito ruim mesmo, sim.'}
+{'timestamp': (576.64, 577.66), 'text': ' Se eu tenho um problema de portal,'}
+{'timestamp': (577.86, 579.06), 'text': ' eu preciso resolver um problema de portal.'}
+{'timestamp': (585.8, 586.18), 'text': ' Já aconteceu de eu ligar com um problema de portal, vou dar um exemplo. Eu sei que vocês são mais da parte de comercial,'}
+{'timestamp': (587.24, 587.8), 'text': ' pesquisa, satisfação.'}
+{'timestamp': (589.02, 589.08), 'text': ' Mas imagina, tem um portal do aluno,'}
+{'timestamp': (590.78, 590.8), 'text': ' onde o pai entra lá, vê nota do filho, boleta.'}
+{'timestamp': (591.54, 592.28), 'text': ' Tem um problema lá.'}
+{'timestamp': (593.6, 593.86), 'text': ' Eu abro um chamado para resolver.'}
+{'timestamp': (595.52, 597.66), 'text': ' Eles foram lá e colocaram a base de teste na minha base de produção desatualizada de fevereiro.'}
+{'timestamp': (598.9, 600.66), 'text': ' Faz sentido algumas coisas desse tipo?'}
+{'timestamp': (606.26, 607.52), 'text': ' Não coisas desse tipo, assim, não faz. Isso ocorreu, foi o último caso que eu tive com vocês, ocorreu há duas semanas. Você imagina, eu abri um chamado,'}
+{'timestamp': (607.6, 609.0), 'text': ' porque um portal saiu do ar.'}
+{'timestamp': (609.22, 611.42), 'text': ' Um problema provavelmente de S, de servidor,'}
+{'timestamp': (611.5, 612.1), 'text': ' alguma coisa assim.'}
+{'timestamp': (613.32, 614.48), 'text': ' Simplesmente trocaram a base.'}
+{'timestamp': (615.26, 617.22), 'text': ' O meu sistema reinicia, quando volta,'}
+{'timestamp': (617.26, 618.74), 'text': ' ele volta a acabar de fevereiro.'}
+{'timestamp': (619.66, 620.8), 'text': ' Um mês desatualizado,'}
+{'timestamp': (625.96, 628.08), 'text': ' é que era a base de teste que eu tinha. Olha o nível que eu tô, assim, quando eu falo baixa, porque é esse tipo de coisa'}
+{'timestamp': (628.08, 628.78), 'text': ' que eu coloco comigo.'}
+{'timestamp': (631.08, 631.7), 'text': ' Tá bom?'}
+{'timestamp': (639.02, 639.82), 'text': ' Imagina que isso.'}
+{'timestamp': (639.9, 641.74), 'text': ' Eu também agradeço. Obrigado, se qualquer coisa.'}
+{'timestamp': (643.48, 643.92), 'text': ' Igualmente.'}
+{'timestamp': (644.02, 644.32), 'text': ' Até mais.'}
+{'timestamp': (646.78, 648.04), 'text': ' Entendi, senhor Pedro.'}
+{'timestamp': (648.54, 651.3), 'text': ' Eu coloquei os pontos fortes que o senhor me trouxe.'}
+{'timestamp': (652.38, 655.12), 'text': ' Passando o período, então, retornaremos ao contato.'}
+{'timestamp': (655.12, 657.12), 'text': ' Eu agradeço. Espero que...'}
+{'timestamp': (658.4, 659.06), 'text': ' Está bom.'}
+{'timestamp': (659.14, 660.62), 'text': ' Um ótimo dia. Tchau, tchau.'}

@@ -1,0 +1,5 @@
+{'timestamp': (0.0, 28.4), 'text': ' Shark. Obrigado pela sua ligação. Digite 1 para Televendas Shark Tratores. 2 para Balcão de Venda Shark Tratores. 3 para Televendas SK Automotive. 4 para Recepcionista. 5 para Ouvir Novamente ou Aguarde para Falar com um Atendente. E aí'}
+{'timestamp': (28.4, 33.7), 'text': ' E aí'}
+{'timestamp': (33.7, 38.7), 'text': ' E aí'}
+{'timestamp': (38.7, 43.7), 'text': ' E aí'}
+{'timestamp': (43.7, 87.0), 'text': ' E aí . E aí'}

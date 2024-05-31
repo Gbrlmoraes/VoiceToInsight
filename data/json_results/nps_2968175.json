@@ -1,0 +1,17 @@
+{
+            "empresa": "TOTVS",
+            "atendimento": "Sim",
+            "nps_geral": 7,
+            "nps_suporte_tecnico": 8,
+            "nps_atendimento_suporte": 8,
+            "nps_atendimento_executivo_vendas_comercial": "Não informado",
+            "nps_atendimento_administrativo_vendas_comercial": "Não informado",
+            "nps_atendimento_administrativo_financeiro": "Não informado",
+            "nps_satisfacao_custos": "Não informado",
+            "nps_implantacao": 8,
+            "nps_atende_necessidade": "Parcial",
+            "nps_atualizacoes": 8,
+            "nps_unidade_juritis": 8,
+            "contato_juritis": "Sim",
+            "email": "edward.souza@asbz.com.br"
+        }

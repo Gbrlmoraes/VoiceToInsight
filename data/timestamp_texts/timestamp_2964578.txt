@@ -1,0 +1,9 @@
+{'timestamp': (0.0, 13.34), 'text': ' Cláudio Global, Silvia.'}
+{'timestamp': (14.02, 17.98), 'text': ' Oi Silvia, boa tarde. Eu gostaria de falar com o Robson, da Departamento Pessoal.'}
+{'timestamp': (18.74, 19.38), 'text': ' Um momento.'}
+{'timestamp': (22.0, 22.96), 'text': ' Quem vai falar?'}
+{'timestamp': (23.58, 24.92), 'text': ' É Lilia, da empresa TOTOS.'}
+{'timestamp': (25.68, 27.52), 'text': ' Da TOTOS, você aguarda só um momento, Lília?'}
+{'timestamp': (27.7, 131.68), 'text': ' Aguardo. Obrigada. Mais um momento Obrigado. Música Você não prefere me retornar daqui uns cinco minutos?'}
+{'timestamp': (132.24, 133.34), 'text': ' Retorno sim, obrigada.'}
+{'timestamp': (133.36, 134.42), 'text': ' Tá, obrigada, tchau.'}
