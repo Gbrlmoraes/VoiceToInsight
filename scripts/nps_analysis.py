@@ -78,13 +78,13 @@ def extract_nps(text_file_location, json_output_folder, openai_client):
         1. Capture o nome da empresa para a qual o atendente da TOTVS ligou para fazer a pesquisa.
         2. Indique se foi possível realizar o atendimento com "Sim" ou "Não".
         3. Caso o atendimento tenha sido realizado, identifique e informe as notas de NPS atribuídas pelo cliente para cada categoria mencionada.
-        4. Se o cliente não fornecer uma nota para alguma categoria, defina a nota como "Não informado".
-        5. O nome das categorias de NPS deve seguir o padrão: "nps_" seguido do nome da categoria.
-        6. O JSON deve ser montado em português.
-        7. O único texto retornado deve ser o json completo.
+        5. Você deve capturar as notas das seguintes categorias de NPS (nps_atendimento, nps_suporte_tecnico, nps_comercial_financeiro, nps_recomendacao, nps_satisfacao, nps_custo, nps_unidade, nps_rh, nps_outros).
+        6. No caso de não haverem notas para essas categorias, coloque uma string vazia.]
+        7. No caso de haver mais de uma nota que se encaixe na categoria, faça uma média.
+        8. O JSON deve ser montado em português.
         
         Segue o texto que deve ser analisado: {texto}
-        """ 
+    """ 
 
     response = openai_client.completions.create(
         model = "gpt-3.5-turbo-instruct",
