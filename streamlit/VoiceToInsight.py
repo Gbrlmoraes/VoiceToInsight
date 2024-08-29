@@ -2,7 +2,7 @@
 import streamlit as st
 import os
 
-os.chdir(r'J:\Estudo\Projetos\VoiceToInsight')
+os.chdir('/home/gbrlmoraes/git_reps/VoiceToInsight')
 
 # Page config
 st.set_page_config(
@@ -15,7 +15,7 @@ st.title("VoiceToInsight🎧")
 st.write("Plataforma de análise de NPS a partir de áudios")
 
 st.image(
-    r"streamlit\images\home_image.jpg",
+    "streamlit/images/home_image.jpg",
     caption = "Image designed by pikisuperstar / Freepik"
 )
 st.markdown(

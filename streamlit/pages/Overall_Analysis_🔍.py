@@ -14,7 +14,7 @@ st.title('Overall Analysis')
 # Import dos dados
 st.cache_data()
 def load_data():
-    return pd.read_csv(r'J:\Estudo\Projetos\VoiceToInsight\data\nps_data.csv')
+    return pd.read_csv('/home/gbrlmoraes/git_reps/VoiceToInsight/data/nps_data.csv')
 
 df = load_data()
 
