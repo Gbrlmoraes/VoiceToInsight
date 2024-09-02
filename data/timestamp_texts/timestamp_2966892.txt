@@ -1,4 +1,0 @@
-{'timestamp': (0.0, 6.08), 'text': ' Obrigada por chamar. Se você tem um telefone de toque, você pode entrar na extensão da pessoa que você gostaria de alcançar.'}
-{'timestamp': (6.46, 12.62), 'text': ' Para uma diretoria de personal, clique 9. Se você precisa de ajuda, clique 0 ou permaneça na linha.'}
-{'timestamp': (16.44, 19.18), 'text': ' Você está sendo transferido para o operador.'}
-{'timestamp': (46.54, 189.98), 'text': ' Obrigada por chamar. Legenda Adriana Zanotto Legenda Adriana Zanotto'}

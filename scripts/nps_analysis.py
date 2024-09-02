@@ -18,7 +18,7 @@ def speech_recog_model():
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
 
-    model_id = "openai/whisper-large-v3"
+    model_id = "openai/whisper-medium"
 
     model = AutoModelForSpeechSeq2Seq.from_pretrained(
         model_id, torch_dtype=torch_dtype, low_cpu_mem_usage=False, use_safetensors=True
@@ -101,3 +101,17 @@ def extract_nps(text_file_location, json_output_folder, openai_client):
     file_name = re.search("\d{7}", text_file_location).group()
     with open(os.path.join(json_output_folder, f"nps_{file_name}.json"), 'w', encoding = 'utf8') as json_file:
         json_file.write(json_result)
+
+# Function to create the folders necessary for the script to work
+def check_and_create_dirs(base_dir):
+
+    dirs = ['complete_texts', 'json_results', 'timestamp_texts']
+    
+    for dir_name in dirs:
+
+        dir_path = os.path.join(base_dir, dir_name)
+        
+        # Check if the folder exists, otherwise create it
+        if not os.path.exists(dir_path):
+            
+            os.makedirs(dir_path)

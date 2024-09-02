@@ -1,9 +1,0 @@
-{'timestamp': (0.0, 1.92), 'text': ' Olá, Flávia Jusbr, boa tarde.'}
-{'timestamp': (2.36, 6.04), 'text': ' Boa tarde, meu nome é Viviane, eu falo aqui da TOTS Matriz, tudo bem?'}
-{'timestamp': (6.76, 7.22), 'text': ' Tudo.'}
-{'timestamp': (7.74, 10.8), 'text': ' Eu gostaria, por favor, de falar com o Giovanni Queiroga.'}
-{'timestamp': (11.88, 13.1), 'text': ' Ele não se encontra.'}
-{'timestamp': (14.02, 18.54), 'text': ' Certo, e teria algum outro responsável pelo sistema da TOTS ou seria somente ele?'}
-{'timestamp': (19.24, 20.2), 'text': ' É só ele mesmo.'}
-{'timestamp': (20.74, 22.94), 'text': ' Entendi, eu consigo falar com ele em qual horário?'}
-{'timestamp': (109.98, None), 'text': ' Deixa eu verificar aqui com o Juliano só um instante, tá? Legenda Adriana Zanotto'}
