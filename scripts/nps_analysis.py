@@ -37,7 +37,7 @@ def speech_recog_model():
         batch_size=16,
         return_timestamps=True,
         torch_dtype=torch_dtype,
-        device=device,
+        device=device
     )
 
     return pipe
@@ -85,7 +85,7 @@ def extract_nps(text_file_location, json_output_folder, openai_client):
         
         Segue o texto que deve ser analisado: {texto}
     """ 
-
+    
     response = openai_client.completions.create(
         model = "gpt-3.5-turbo-instruct",
         prompt = prompt,
@@ -109,7 +109,7 @@ def check_and_create_dirs(base_dir):
     
     for dir_name in dirs:
 
-        dir_path = os.path.join(base_dir, dir_name)
+        dir_path = os.path.join(base_dir, 'data', dir_name)
         
         # Check if the folder exists, otherwise create it
         if not os.path.exists(dir_path):
