@@ -1,81 +1,72 @@
 empresa,atendimento,nps_atendimento,nps_suporte_tecnico,nps_comercial_financeiro,nps_recomendacao,nps_satisfacao,nps_custo,nps_unidade,nps_rh,nps_outros,nps_geral,status
-Escandinávia Veículos,Sim,10.0,9.0,9.0,,,8.0,10.0,,,9.2,Promotor
-Complexo Brasil,Sim,6.0,6.0,,10.0,9.0,,7.0,,,7.6,Neutro
-Anapol e Consuprim Empresarial,Sim,,10.0,7.0,9.0,,9.0,7.0,,8.0,8.333333333333334,Promotor
-Baterias Crawl,Sim,8.0,8.0,,8.0,,8.0,7.0,,6.0,7.5,Neutro
-Núcleo Y Participações da LTDA,Sim,,,,0.0,,,,,,0.0,Detrator
-TOTOS,Sim,,,,,,,,,,,
-TOTO Serra do Mar,Sim,7.0,8.0,5.0,1.0,,8.0,7.0,,,6.0,Detrator
-Rio Química SA,Sim,4.0,5.0,9.0,,,3.0,9.0,,,6.0,Detrator
-Biolife,Sim,10.0,9.0,8.0,10.0,9.0,7.0,9.0,,,8.857142857142858,Promotor
-Escola Comunitária de Campinas,Sim,10.0,9.0,10.0,10.0,10.0,,10.0,,,9.833333333333334,Promotor
-Antótese,Sim,,,,,,,,,,,
-Bioma Indústria,Sim,,,,,,,,,,,
-Escola de Ensino Superior do Sertão Irel,Sim,0.0,0.0,10.0,0.0,10.0,2.0,10.0,,,4.571428571428571,Detrator
-Totos,Não,,,,,,,,,,,
-TOTVS,Sim,9.0,8.0,9.0,,7.0,7.0,7.0,,,7.833333333333333,Neutro
-BR Motor Esporte,Não,,,,,,,,,,,
-Brasbriu Sociedade de Perfurações LTDA,Sim,9.0,9.0,,,,,,,,9.0,Promotor
-Brasilmed,Sim,9.0,9.5,9.5,9.0,8.0,8.0,9.0,,,8.857142857142858,Promotor
-Sanquímica,Sim,,,,,,,,,,,
-PA7 PEP Hotel,Não,,,,,,,,,,,
-Brico Bread,Sim,,,,,,,,8.0,,8.0,Neutro
-Eslavieiro Bahia Norte Hotel Florianópolis,Sim,,,,,,,,,,,
-TOTVS,Sim,,,,7.0,,5.0,,,,6.0,Detrator
-Citron,Não,,,,,,,,,,,
-Freme,Sim,,,,,,,,,,,
-TOTOS,Sim,9.0,8.5,,,9.0,7.0,9.0,,,8.5,Promotor
-Aliança,Sim,10.0,8.0,,9.0,,,,,,9.0,Promotor
-TOTS,Sim,10.0,10.0,,,,10.0,,,,10.0,Promotor
-Grupo Inovatec,Sim,7.0,8.0,7.0,7.0,9.0,9.0,,,,7.833333333333333,Neutro
-"Colbeck, indústria e comércio de confecções",Sim,10.0,10.0,,10.0,,8.0,10.0,,,9.6,Promotor
-Shark Tratores,Sim,,,,,,,,,,,
-TOTVS,Sim,10.0,9.0,9.0,10.0,9.0,9.0,10.0,,,9.428571428571429,Promotor
-TOTOS,Não,,,,,,,,,,,
-Conai,Sim,,,,,,,,,,,
-Slimcom,Sim,10.0,10.0,10.0,10.0,10.0,8.0,10.0,,,9.714285714285714,Promotor
-SMIT,Sim,7.0,7.0,8.5,9.0,9.0,8.0,9.0,,,8.214285714285714,Promotor
-Bourbon Shopping,Sim,,,,,,,,,,,
-Conai Equipamentos,Sim,10.0,10.0,10.0,10.0,10.0,5.0,10.0,,,9.285714285714286,Promotor
-Prime Hotel,Sim,8.0,8.0,9.0,9.0,9.0,7.0,7.0,,,8.142857142857142,Promotor
-Suco Rico Citrus,Sim,,,,,,,,,,,
-UZCity,Sim,10.0,8.0,7.0,,,,10.0,,,8.75,Promotor
+Center Glass,Não,,,,,,,,,,,
+TOCS,Sim,10.0,5.0,8.0,,10.0,3.0,8.0,,,7.333333333333333,Neutro
+Reciclar,Sim,10.0,9.0,10.0,10.0,5.0,10.0,10.0,,,9.142857142857142,Promotor
+Atlântico Hotels,Sim,6.0,6.0,8.0,7.0,,,6.0,,,6.6,Neutro
+PEP Hotel,Sim,,,,,,,,,,,
+Escolar Mania,Não,,,,,,,,,,,
+Osicite Pavimentação,Sim,8.0,8.0,8.5,10.0,,8.0,10.0,,,8.75,Promotor
+Charque Tratores,Sim,,,,,,,,,,,
 Blue Tree Premium Florianópolis,Sim,,,,,,,,,,,
-Comab,Sim,7.0,6.0,5.0,9.0,,5.0,,,,6.4,Neutro
-Condomínio Edifício Paulista Capital Plaza,Sim,10.0,9.0,,10.0,,9.0,10.0,,,9.6,Promotor
-Piazza Navona,Sim,7.0,,,,,,,,,7.0,Neutro
-Intercity Hotels,Sim,10.0,,,10.0,,,,,8.0,9.333333333333334,Promotor
-CarboGraffiti,Sim,,,,,,,,,,,
-Toto,Sim,,,,,,,,,,,
-TOTOS,Sim,6.0,6.0,8.0,7.0,,,6.0,,,6.6,Neutro
-Carnielli,Sim,9.0,8.0,,,,7.0,8.0,,,8.0,Neutro
-Center Glass,Sim,,,,,,,,,,,
-Centro-Oeste Comercial de Alimentos da LTDA,Sim,2.0,8.0,10.0,10.0,5.0,10.0,,,,7.5,Neutro
-Hot Beak Resort,Sim,,,,,,,,,,,
-TOTOS,Não,,,,,,,,,,,
-Atuato SÃ£o Paulo,Sim,8.0,5.0,8.0,10.0,10.0,3.0,8.0,,,7.428571428571429,Neutro
-TOTOS,Sim,10.0,8.0,10.0,10.0,8.0,8.0,9.0,,,9.0,Promotor
-Grupo Rocha,Sim,,,,,,,,,,,
-Atlântica Hotels,Sim,8.0,,9.0,9.0,,9.0,8.0,,7.0,8.333333333333334,Promotor
+Brasilmed,Sim,9.0,9.5,9.5,9.0,8.0,8.0,9.0,,,8.857142857142858,Promotor
+TOTVS,Sim,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Detrator
+Fremi,Sim,,,,,,,,,,,
+Amaral Biazo,Sim,8.0,8.0,,7.0,8.0,,8.0,,,7.8,Neutro
+CONAI,Sim,,,,,,,,,,,
+Complexo Brasil,Sim,6.0,6.0,,10.0,,,7.0,,,7.25,Neutro
+CGC Atacadista,Sim,5.0,6.5,8.0,8.0,8.0,7.0,8.0,,,7.214285714285714,Neutro
+Burbão Shopping,Sim,7.0,,,8.0,,,,,,7.5,Neutro
+Saisis,Sim,9.0,9.0,9.0,10.0,,,10.0,,,9.4,Promotor
+Sanquímica,Sim,,,,,,,,,,,
 TOTVS,Sim,,,,,,,,,,,
-Escola Harmonia Alessandra,Não,,,,,,,,,,,
-TOTOS,Sim,10.0,9.0,10.0,10.0,5.0,10.0,10.0,,,9.142857142857142,Promotor
+Tóquio,Sim,9.0,7.0,8.5,,,8.0,9.0,,,8.3,Promotor
+Escola de Ensino Superior do Sertão Irelie,Sim,10.0,0.0,2.0,,,,,,,4.0,Detrator
+Tótus,Sim,,,,,,,,,,,
+Carnielli,Sim,6.0,9.0,,,,7.0,8.0,,,7.5,Neutro
+Gali,Sim,10.0,10.0,10.0,,10.0,10.0,,,,10.0,Promotor
+TOTVS,Não,,,,,,,,,,,
+TOTVS,Sim,,,,,,,,,,,
+Centro-Est Comercial de Alimentos da LTDA,Sim,10.0,5.0,10.0,10.0,5.0,5.0,,,,7.5,Neutro
+ADM,Sim,,,,,,,,,,,
+Piazza Navona,Sim,10.0,10.0,10.0,10.0,10.0,10.0,10.0,,,10.0,Promotor
+Hotbeat Resort,Sim,10.0,,,10.0,10.0,,,,,10.0,Promotor
+Pauta da Amazônia,Sim,10.0,10.0,10.0,9.0,9.0,,10.0,,,9.666666666666666,Promotor
+Carbografite,Sim,,,,,,,,,,,
+Biolife,Sim,10.0,9.0,8.0,10.0,7.0,9.0,9.0,,,8.857142857142858,Promotor
+TOTVS,Sim,10.0,,,9.0,,,,,,9.5,Promotor
+Rede de Hotéis,Sim,10.0,9.0,,,,9.0,10.0,,,9.5,Promotor
+Symbiose,Sim,,,,,,,,,,,
+Escola Comunitária de Campinas,Sim,10.0,10.0,10.0,10.0,,8.0,10.0,,,9.666666666666666,Promotor
+Rioquímica S.A.,Sim,4.0,6.5,6.0,,3.0,3.0,9.0,,,5.25,Detrator
+Colbeck,Sim,10.0,10.0,9.0,10.0,10.0,8.0,10.0,,,9.571428571428571,Promotor
+Eslavieiro Bahia Norte Hotel Florianópolis,Sim,,,,,,,,,,,
+Hotbeat Resort,Não,,,,,,,,,,,
+Escandinávia de Veículos,Sim,10.0,8.0,9.0,10.0,8.0,8.0,10.0,,,9.0,Promotor
+Grupo Rocha,Sim,10.0,,10.0,10.0,10.0,,,,,10.0,Promotor
+Tópus,Sim,9.0,10.0,7.0,,9.0,9.0,7.0,,8.0,8.428571428571429,Promotor
+Sucorrico Citrus,Não,,,,,,,,,,,
+anacível construtor LTDA,Sim,0.0,0.0,10.0,0.0,0.0,0.0,10.0,,,2.857142857142857,Detrator
+Casa da Montanha,Sim,8.0,,,,,,,,,8.0,Neutro
+Intercity,Sim,,,,10.0,,,,,8.0,9.0,Promotor
+Toto,Sim,4.0,4.0,,,,,4.0,,,4.0,Detrator
+Citron,Sim,,,,,,,,,,,
+TOTVS,Não,,,,,,,,,,,
 TOTS Matriz,Sim,,,,,,,,,,,
-Cartus,Não,,,,,,,,,,,
-Hot Beach,Não,,,,,,,,,,,
-Bourbon Curitiba Hotel & Suites,Sim,,,,9.0,,8.0,,,,8.5,Promotor
-CGC Atacadista,Sim,8.0,9.25,8.0,7.0,8.0,7.0,10.0,,,8.178571428571429,Promotor
-Hotel Rio Bourbon,Sim,,7.0,,6.0,,,7.0,,,6.666666666666667,Neutro
-Cristófile Brasil LTDA,Sim,6.5,6.0,6.0,8.0,7.0,7.0,8.0,,,6.928571428571429,Neutro
-TOTVS,Sim,9.0,8.0,10.0,9.0,7.0,7.0,9.0,,,8.428571428571429,Promotor
-Hotel Casa da Montanha,Sim,7.5,,,,,,,,,7.5,Neutro
-FIS Brasil,Sim,10.0,10.0,10.0,10.0,10.0,10.0,10.0,,,10.0,Promotor
-Civil Construtora LTDA,Sim,0.0,0.0,10.0,0.0,0.0,0.0,10.0,,,2.857142857142857,Detrator
-CNA Companhia de Navegação da Amazônia,Sim,8.0,8.5,7.0,8.0,9.0,8.0,8.0,,,8.071428571428571,Promotor
-Toto,Sim,10.0,10.0,10.0,9.0,10.0,9.0,10.0,,,9.714285714285714,Promotor
-TOTVS,Sim,8.0,8.0,,7.0,,,8.0,,,7.75,Neutro
-Burbom Hotel Fortaleza,Sim,10.0,,8.0,,,8.0,10.0,,,9.0,Promotor
-TOTOS,Sim,7.0,4.0,,,,,,,,5.5,Detrator
-TOTOS,Sim,7.0,7.5,8.0,,,,,,,7.5,Neutro
-CCB Coachings SA,Sim,10.0,8.0,,,,6.0,10.0,,,8.5,Promotor
-CDA Central de Distribuição AZV da LTDA,Sim,8.0,8.0,,9.0,,,,,,8.333333333333334,Promotor
+Bras Brio Sociedade de Perforações LTDA,Sim,9.0,9.0,,,,,,,,9.0,Promotor
+"CNA, Companhia de Navegação da Amazônia",Sim,8.0,8.5,7.0,8.0,9.0,8.0,,,,8.083333333333334,Promotor
+Prime Hotel,Sim,8.0,7.5,9.0,9.0,9.0,7.0,7.0,,,8.071428571428571,Promotor
+Brico Bread,Sim,,,,,,,,8.0,,8.0,Neutro
+CONAI,Sim,10.0,10.0,10.0,10.0,10.0,5.0,10.0,,,9.285714285714286,Promotor
+Bourbon Curitiba Hotel e Suites,Sim,,,,9.0,,8.0,,,,8.5,Promotor
+TOTVS,Sim,8.0,8.0,,8.0,,,7.0,,6.0,7.4,Neutro
+TOTVS,Sim,10.0,8.0,10.0,10.0,8.0,8.0,9.0,,,9.0,Promotor
+FisBrasil,Sim,10.0,10.0,10.0,10.0,10.0,10.0,10.0,,,10.0,Promotor
+TOTVS,Sim,10.0,10.0,10.0,10.0,8.0,8.0,10.0,,,9.428571428571429,Promotor
+Atlântica Hotels,Sim,8.0,8.5,9.0,8.0,9.0,9.0,8.0,,,8.5,Promotor
+Comab,Sim,9.0,6.0,7.0,5.0,,5.0,,,,6.4,Neutro
+Cartos,Sim,,,,,,,,,,,
+BR Motor Esporte,Não,,,,,,,,,,,
+Toto Serra do Mar,Sim,,8.0,5.0,7.0,5.0,,7.0,,,6.4,Neutro
+Cazajoca,Sim,7.0,7.5,,,,,,,,7.25,Neutro
+Cristofila e Brasil LTDA,Sim,5.5,5.5,6.0,8.0,7.5,7.0,8.0,,,6.785714285714286,Neutro
+TOTVS,Sim,,,,,,,,,,,
